@@ -1,0 +1,616 @@
+photos:
+- file: 20260726_084622.jpg
+  out: assets/images/20260726_084622.jpg
+  taken: '2026-07-26T08:46:31'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: false
+  note: 'excluded: signage/duplicate/people/personal'
+  cluster: 0
+- file: 20260726_085010.jpg
+  out: assets/images/20260726_085010.jpg
+  taken: '2026-07-26T08:50:10'
+  time_source: exif
+  faces: 1
+  kind: scene
+  include: false
+  note: 'excluded: signage/duplicate/people/personal'
+  cluster: 0
+- file: 20260726_085104.jpg
+  out: assets/images/20260726_085104.jpg
+  taken: '2026-07-26T08:51:04'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: false
+  note: 'excluded: not a poster/slide'
+  cluster: 0
+- file: 20260726_091437.jpg
+  out: assets/images/20260726_091437.jpg
+  taken: '2026-07-26T09:14:37'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: false
+  note: 'excluded: not a poster/slide'
+  cluster: 0
+- file: 20260726_094300.jpg
+  out: assets/images/20260726_094300.jpg
+  taken: '2026-07-26T09:43:00'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: false
+  note: 'excluded: signage/duplicate/people/personal'
+  cluster: 0
+- file: 20260726_094518.jpg
+  out: assets/images/20260726_094518.jpg
+  taken: '2026-07-26T09:45:19'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: false
+  note: 'excluded: not a poster/slide'
+  cluster: 0
+- file: 20260727_095557.jpg
+  out: assets/images/20260727_095557.jpg
+  taken: '2026-07-27T09:55:57'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: false
+  note: 'excluded: signage/duplicate/people/personal'
+  cluster: 1
+- file: 20260727_105058.jpg
+  out: assets/images/20260727_105058.jpg
+  taken: '2026-07-27T10:50:58'
+  time_source: exif
+  faces: 1
+  kind: scene
+  include: false
+  note: 'excluded: signage/duplicate/people/personal'
+  cluster: 2
+- file: 20260727_105102.jpg
+  out: assets/images/20260727_105102.jpg
+  taken: '2026-07-27T10:51:02'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: false
+  note: 'excluded: signage/duplicate/people/personal'
+  cluster: 2
+- file: 1785198076285.jpg
+  out: assets/images/1785198076285.jpg
+  taken: '2026-07-27T11:20:25'
+  time_source: exif
+  faces: 1
+  kind: tech
+  include: false
+  note: 'excluded: author face (user decision)'
+  cluster: 2
+- file: 20260727_113230.jpg
+  out: assets/images/20260727_113230.jpg
+  taken: '2026-07-27T11:32:30'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: false
+  note: 'excluded: not a poster/slide'
+  cluster: 2
+- file: 20260727_114025.jpg
+  out: assets/images/20260727_114025.jpg
+  taken: '2026-07-27T11:40:25'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: true
+  crop:
+  - 0.02
+  - 0.205
+  - 0.98
+  - 0.82
+  cluster: 2
+- file: 20260727_120123.jpg
+  out: assets/images/20260727_120123.jpg
+  taken: '2026-07-27T12:01:24'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: false
+  note: 'excluded: signage/duplicate/people/personal'
+  cluster: 2
+- file: 20260727_131643.jpg
+  out: assets/images/20260727_131643.jpg
+  taken: '2026-07-27T13:16:43'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: false
+  note: 'excluded: signage/duplicate/people/personal'
+  cluster: 3
+- file: 20260727_131645.jpg
+  out: assets/images/20260727_131645.jpg
+  taken: '2026-07-27T13:16:46'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: false
+  note: 'excluded: signage/duplicate/people/personal'
+  cluster: 3
+- file: 20260727_134440.jpg
+  out: assets/images/20260727_134440.jpg
+  taken: '2026-07-27T13:44:41'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: false
+  note: 'excluded: signage/duplicate/people/personal'
+  cluster: 3
+- file: 20260727_140111.jpg
+  out: assets/images/20260727_140111.jpg
+  taken: '2026-07-27T14:01:12'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: false
+  note: 'excluded: signage/duplicate/people/personal'
+  cluster: 3
+- file: 20260727_140158.jpg
+  out: assets/images/20260727_140158.jpg
+  taken: '2026-07-27T14:01:58'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: false
+  note: 'excluded: signage/duplicate/people/personal'
+  cluster: 3
+- file: 20260727_140509.jpg
+  out: assets/images/20260727_140509.jpg
+  taken: '2026-07-27T14:05:09'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: false
+  note: 'excluded: signage/duplicate/people/personal'
+  cluster: 3
+- file: 20260727_153123.jpg
+  out: assets/images/20260727_153123.jpg
+  taken: '2026-07-27T15:31:23'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: false
+  note: 'excluded: signage/duplicate/people/personal'
+  cluster: 4
+- file: 20260727_153339.jpg
+  out: assets/images/20260727_153339.jpg
+  taken: '2026-07-27T15:33:40'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: false
+  note: 'excluded: signage/duplicate/people/personal'
+  cluster: 4
+- file: 20260727_154434.jpg
+  out: assets/images/20260727_154434.jpg
+  taken: '2026-07-27T15:44:34'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: true
+  crop:
+  - 0.28
+  - 0.31
+  - 0.68
+  - 0.88
+  cluster: 4
+- file: 20260727_154859.jpg
+  out: assets/images/20260727_154859.jpg
+  taken: '2026-07-27T15:48:59'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: false
+  note: 'excluded: signage/duplicate/people/personal'
+  cluster: 4
+- file: 20260727_155002.jpg
+  out: assets/images/20260727_155002.jpg
+  taken: '2026-07-27T15:50:02'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: false
+  note: 'excluded: signage/duplicate/people/personal'
+  cluster: 4
+- file: 20260727_155008.jpg
+  out: assets/images/20260727_155008.jpg
+  taken: '2026-07-27T15:50:08'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: false
+  note: 'excluded: signage/duplicate/people/personal'
+  cluster: 4
+- file: 20260727_155157.jpg
+  out: assets/images/20260727_155157.jpg
+  taken: '2026-07-27T15:51:57'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: true
+  cluster: 4
+- file: 20260727_160719.jpg
+  out: assets/images/20260727_160719.jpg
+  taken: '2026-07-27T16:07:20'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: false
+  note: 'excluded: signage/duplicate/people/personal'
+  cluster: 4
+- file: 20260727_162303.jpg
+  out: assets/images/20260727_162303.jpg
+  taken: '2026-07-27T16:23:03'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: false
+  note: 'excluded: signage/duplicate/people/personal'
+  cluster: 4
+- file: 20260727_162309.jpg
+  out: assets/images/20260727_162309.jpg
+  taken: '2026-07-27T16:23:10'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: false
+  note: 'excluded: signage/duplicate/people/personal'
+  cluster: 4
+- file: 20260727_162432.jpg
+  out: assets/images/20260727_162432.jpg
+  taken: '2026-07-27T16:24:32'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: false
+  note: 'excluded: presenter portrait close-up'
+  cluster: 4
+- file: 20260727_162722.jpg
+  out: assets/images/20260727_162722.jpg
+  taken: '2026-07-27T16:27:22'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: true
+  crop:
+  - 0.54
+  - 0.38
+  - 1.0
+  - 1.0
+  cluster: 4
+- file: 20260727_163309.jpg
+  out: assets/images/20260727_163309.jpg
+  taken: '2026-07-27T16:33:10'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: false
+  note: 'excluded: audience faces+lanyards'
+  cluster: 4
+- file: 20260727_165840.jpg
+  out: assets/images/20260727_165840.jpg
+  taken: '2026-07-27T16:58:41'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: true
+  crop:
+  - 0.635
+  - 0.09
+  - 0.845
+  - 0.83
+  cluster: 4
+- file: 20260727_165947.jpg
+  out: assets/images/20260727_165947.jpg
+  taken: '2026-07-27T16:59:48'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: false
+  note: 'excluded: signage/duplicate/people/personal'
+  cluster: 4
+- file: 20260727_171204.jpg
+  out: assets/images/20260727_171204.jpg
+  taken: '2026-07-27T17:12:04'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: false
+  note: 'excluded: two people at poster, faces'
+  cluster: 4
+- file: 20260727_172200.jpg
+  out: assets/images/20260727_172200.jpg
+  taken: '2026-07-27T17:22:00'
+  time_source: exif
+  faces: 1
+  kind: scene
+  include: false
+  note: 'excluded: audience faces, blur misplaced on chairs'
+  cluster: 4
+- file: 20260728_100544.jpg
+  out: assets/images/20260728_100544.jpg
+  taken: '2026-07-28T10:05:44'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: true
+  crop:
+  - 0.04
+  - 0.255
+  - 0.96
+  - 0.735
+  cluster: 5
+- file: 20260728_100606.jpg
+  out: assets/images/20260728_100606.jpg
+  taken: '2026-07-28T10:06:06'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: false
+  note: 'excluded: not a poster/slide'
+  cluster: 5
+- file: 20260728_104731.jpg
+  out: assets/images/20260728_104731.jpg
+  taken: '2026-07-28T10:47:31'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: false
+  note: 'excluded: signage/duplicate/people/personal'
+  cluster: 6
+- file: 20260728_105322.jpg
+  out: assets/images/20260728_105322.jpg
+  taken: '2026-07-28T10:53:22'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: false
+  note: 'excluded: signage/duplicate/people/personal'
+  cluster: 6
+- file: 20260728_105325.jpg
+  out: assets/images/20260728_105325.jpg
+  taken: '2026-07-28T10:53:25'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: false
+  note: 'excluded: signage/duplicate/people/personal'
+  cluster: 6
+- file: 20260728_110354.jpg
+  out: assets/images/20260728_110354.jpg
+  taken: '2026-07-28T11:03:54'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: true
+  crop:
+  - 0.0
+  - 0.215
+  - 1.0
+  - 0.78
+  cluster: 6
+- file: 20260728_134119.jpg
+  out: assets/images/20260728_134119.jpg
+  taken: '2026-07-28T13:41:19'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: true
+  cluster: 7
+- file: 20260728_134121.jpg
+  out: assets/images/20260728_134121.jpg
+  taken: '2026-07-28T13:41:21'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: false
+  note: 'excluded: signage/duplicate/people/personal'
+  cluster: 7
+- file: 20260728_134139.jpg
+  out: assets/images/20260728_134139.jpg
+  taken: '2026-07-28T13:41:39'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: true
+  crop:
+  - 0.03
+  - 0.05
+  - 0.89
+  - 0.97
+  cluster: 7
+- file: 20260728_134255.jpg
+  out: assets/images/20260728_134255.jpg
+  taken: '2026-07-28T13:42:56'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: true
+  crop:
+  - 0.09
+  - 0.235
+  - 0.95
+  - 0.735
+  cluster: 7
+- file: 20260728_134334.jpg
+  out: assets/images/20260728_134334.jpg
+  taken: '2026-07-28T13:43:35'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: true
+  crop:
+  - 0.0
+  - 0.19
+  - 0.97
+  - 0.8
+  cluster: 7
+- file: 20260728_170302.jpg
+  out: assets/images/20260728_170302.jpg
+  taken: '2026-07-28T17:03:02'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: true
+  crop:
+  - 0.1
+  - 0.255
+  - 0.89
+  - 0.75
+  cluster: 8
+- file: 20260728_171531.jpg
+  out: assets/images/20260728_171531.jpg
+  taken: '2026-07-28T17:15:31'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: false
+  note: 'excluded: signage/duplicate/people/personal'
+  cluster: 8
+- file: 20260728_172318.jpg
+  out: assets/images/20260728_172318.jpg
+  taken: '2026-07-28T17:23:18'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: true
+  cluster: 8
+- file: 1785380281277.jpg
+  out: assets/images/1785380281277.jpg
+  taken: '2026-07-28T17:56:38'
+  time_source: exif
+  faces: 1
+  kind: scene
+  include: false
+  note: 'excluded: signage/duplicate/people/personal'
+  cluster: 9
+- file: 1785380285045.jpg
+  out: assets/images/1785380285045.jpg
+  taken: '2026-07-28T17:56:38'
+  time_source: exif
+  faces: 1
+  kind: scene
+  include: false
+  note: 'excluded: signage/duplicate/people/personal'
+  cluster: 9
+- file: 1785380281170.jpg
+  out: assets/images/1785380281170.jpg
+  taken: '2026-07-28T17:56:49'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: false
+  note: 'excluded: signage/duplicate/people/personal'
+  cluster: 9
+- file: 1785380284963.jpg
+  out: assets/images/1785380284963.jpg
+  taken: '2026-07-28T17:56:49'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: false
+  note: 'excluded: signage/duplicate/people/personal'
+  cluster: 9
+- file: 20260729_120300.jpg
+  out: assets/images/20260729_120300.jpg
+  taken: '2026-07-29T12:03:01'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: true
+  crop:
+  - 0.01
+  - 0.24
+  - 0.89
+  - 0.805
+  cluster: 10
+- file: 20260729_120436.jpg
+  out: assets/images/20260729_120436.jpg
+  taken: '2026-07-29T12:04:36'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: true
+  crop:
+  - 0.19
+  - 0.04
+  - 0.78
+  - 0.98
+  cluster: 10
+- file: 20260729_120729.jpg
+  out: assets/images/20260729_120729.jpg
+  taken: '2026-07-29T12:07:29'
+  time_source: exif
+  faces: 1
+  kind: scene
+  include: false
+  note: 'excluded: signage/duplicate/people/personal'
+  cluster: 10
+- file: 20260729_123634.jpg
+  out: assets/images/20260729_123634.jpg
+  taken: '2026-07-29T12:36:34'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: true
+  crop:
+  - 0.11
+  - 0.195
+  - 0.97
+  - 0.69
+  cluster: 10
+- file: 20260729_125220.jpg
+  out: assets/images/20260729_125220.jpg
+  taken: '2026-07-29T12:52:20'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: false
+  note: 'excluded: signage/duplicate/people/personal'
+  cluster: 10
+- file: 20260729_151330.jpg
+  out: assets/images/20260729_151330.jpg
+  taken: '2026-07-29T15:13:30'
+  time_source: exif
+  faces: 1
+  kind: tech
+  include: true
+  crop:
+  - 0.32
+  - 0.08
+  - 0.56
+  - 0.7
+  cluster: 11
+- file: 20260729_154131.jpg
+  out: assets/images/20260729_154131.jpg
+  taken: '2026-07-29T15:41:31'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: false
+  note: 'excluded: signage/duplicate/people/personal'
+  cluster: 11
+- file: 20260729_154134.jpg
+  out: assets/images/20260729_154134.jpg
+  taken: '2026-07-29T15:41:34'
+  time_source: exif
+  faces: 0
+  kind: tech
+  include: true
+  crop:
+  - 0.02
+  - 0.245
+  - 1.0
+  - 0.735
+  cluster: 11

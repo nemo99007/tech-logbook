@@ -1,0 +1,68 @@
+# Titles taken from the official 63rd DAC program (PDF). Title/time/room only; content not summarized.
+source: https://confcats-siteplex.s3.amazonaws.com/dac/images/dac-2026_program_july-22.pdf
+topics:
+  - interest: Hybrid Virtual ICE / virtualized tester on emulation
+    sessions:
+      - {session: Engineering Poster Session One, when: "Mon Jul 27, 5-6pm", where: "DAC Pavilion, Exhibit Floor",
+         talks: ["Pre-Silicon Real Workloads Validation: Integration of Wireless Network Testers and Hardware Emulation via Virtualization (mine)",
+                 "A Security-Centric Virtual Platform for Accelerating Shift-Left Security Firmware Development",
+                 "Using Arm Native Acceleration with VLAB Virtual Platforms",
+                 "Transforming Linux Drivers for Pre-Silicon Verification and Emulation Using SystemVerilog DPI-C"]}
+      - {session: System & Software Deployment, when: "Mon Jul 27, 3:30-5pm", where: Seaside Ballroom B,
+         talks: ["Shifting System-Level Verification Left with Firmware-Driven Execution",
+                 "Enabling Automated Software Testing in Emulation Environments via Fastboot Virtualization and On-Premises LLM-Based Failure Analysis"]}
+  - interest: DFT automation (SystemRDL-to-RTL, DATP) and gate-level DFT emulation
+    sessions:
+      - {session: Engineering session (DFT), when: "Tue Jul 28, 10:30am-12pm", where: Seaside RM 7,
+         talks: ["Automating DFT Intelligence: Addressing TCPF HotSpots at Source through Design Aware Test Points in SystemRDL-to-RTL Generators"]}
+      - {session: Engineering Poster Session Two, when: "Tue Jul 28, 5-6pm", where: "DAC Pavilion, Exhibit Floor",
+         talks: ["Accelerating DFT Verification and Enhancing Debuggability Using Veloce-Based Full Chip Gate-Level Emulation"]}
+  - interest: AI/HPC multi-path network verification
+    sessions:
+      - {session: "Gladiator Arena - Poster Battle One", when: "Mon Jul 27, 5-6pm", where: "DAC Pavilion, Exhibit Floor",
+         talks: ["Flexible & Scalable Network Modeling for AI/HPC Network Verification (MangoBoost)"]}
+  - interest: Emulation, UVM acceleration and firmware-driven verification
+    sessions:
+      - {session: "Advancements in Emulation and Prototyping for Semiconductor: Hardware Tools, Challenges, and FPGA Solutions",
+         when: "Tue Jul 28, 3:30-5pm", where: Seaside RM 7, type: Engineering Special Session,
+         talks: ["Challenges and Solutions in the next-generation Emulation and Prototyping solutions (Synopsys)",
+                 "Role of HW based tools like Emulation and Prototyping in semiconductor design methodology (Synopsys, NVIDIA)",
+                 "Role of FPGAs in Emulation and Prototyping systems (Synopsys, AMD)"]}
+      - {session: "Beyond the Block: Verifying Complex Systems in Context", when: "Wed Jul 29, 1:30-3pm", where: Seaside Ballroom A,
+         talks: ["Accelerating X-State Aware Power Simulation using Advanced Hardware Emulation",
+                 "Automated System for FPGA-Based SoC Prototyping",
+                 "Scalable, Emulation-Friendly, Co-Simulation Testbench for Exhaustive RISC-V Cluster Configuration"]}
+      - {session: "Fast, Smart, and Agentic: Accelerated Verification with Fuzzing, RL, and LLMs", when: "Mon Jul 27, 3:30-5:30pm", where: Mtg Room 201B,
+         talks: ["TOB-Sched: Topological Order Balancing-Driven Static Scheduling for Processor-based Emulation",
+                 "A Boolean Processor-Based Hardware Emulation System with Reconfigurable Interconnects"]}
+  - interest: Power analysis with emulation
+    sessions:
+      - {session: Engineering Poster Session Three, when: "Wed Jul 29, 3-4pm", where: "DAC Pavilion, Exhibit Floor",
+         talks: ["Accelerating X-State Aware Power Simulation using Advanced Hardware Emulation"]}
+      - {session: Engineering Poster Session Two, when: "Tue Jul 28, 5-6pm", where: "DAC Pavilion, Exhibit Floor",
+         talks: ["Low power optimization through fast and accurate time-based power analysis"]}
+      - {session: Engineering Poster Session One, when: "Mon Jul 27, 5-6pm", where: "DAC Pavilion, Exhibit Floor",
+         talks: ["First-Time-Right Power Analysis: Data-Driven Test Selection Through Real-Time Validation of Clocks, ..."]}
+  - interest: CXL, near-memory and PIM
+    note: Mostly architecture/design papers, not verification talks.
+    sessions:
+      - {session: "The Dawn of the Computational Frontier: Pioneering Devices and Interconnects Empowering Memory-Centric, AI-Scale Systems", when: "Mon Jul 27, 10:30am-12:30pm", where: Mtg Room 202C,
+         talks: ["ReMemTier: Rethinking Memory Tiering for CXL-based SSD via Large Granularity Memory Access",
+                 "TierANNS: Scalable Graph-based ANNS with CXL-enabled Tiered Data Placement"]}
+      - {session: Intelligent Fetch & Match Architectures, when: "Mon Jul 27, 1:30-3pm", where: Mtg Room 202C,
+         talks: ["CANNON: A CXL-Based Near-Memory Processing Architecture for Approximate Nearest Neighbor Search",
+                 "PIMGRAG: A Heterogeneous PIM Architecture for Graph-based Retrieval-Augmented Generation"]}
+      - {session: "Move Less, Compute More: Memory-Centric Architectures for AI", when: "Wed Jul 29, 1:30-3pm", where: Mtg Room 203AB,
+         talks: ["PIMony: A DRAM-PIM Design for Harmonizing PIM and Memory Accesses with Minimal Interference"]}
+      - {session: Engineering Poster Session Two, when: "Tue Jul 28, 5-6pm", where: "DAC Pavilion, Exhibit Floor",
+         talks: ["Agentic AI Partition And Floorplan Assistance For PCIe/CXL Subsystem Physical Design"]}
+  - interest: Agentic AI and LLM for EDA / triage
+    sessions:
+      - {session: "Fast, Smart, and Agentic: Accelerated Verification with Fuzzing, RL, and LLMs", when: "Mon Jul 27, 3:30-5:30pm", where: Mtg Room 201B,
+         talks: ["UVMarvel: An Automated LLM-Aided UVM Machine for Subsystem-Level RTL Verification",
+                 "Stitch: Assertion-Guided Patching of On-Chip Protocol Implementations using LLMs"]}
+      - {session: Engineering Poster Session One, when: "Mon Jul 27, 5-6pm", where: "DAC Pavilion, Exhibit Floor",
+         talks: ["Agentic Time-Travel Debugging for HLS Code",
+                 "The new era of digital verification: a revolution driven by agentic AI acceleration"]}
+      - {session: Engineering Poster Session Two, when: "Tue Jul 28, 5-6pm", where: "DAC Pavilion, Exhibit Floor",
+         talks: ["XChip: A Guardrailed Agentic Gen-AI Front-End Flow from Intent to GDSII"]}

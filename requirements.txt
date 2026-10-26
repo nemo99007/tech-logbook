@@ -1,0 +1,9 @@
+mkdocs-material
+mkdocs-glightbox
+Pillow
+pillow-heif
+piexif
+opencv-python<5
+numpy
+pyyaml
+anthropic

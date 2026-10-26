@@ -1,0 +1,33 @@
+id: dac2026
+type: conference   # conference | seminar | forum | workshop
+topics: [semiconductor, verification, emulation]
+short_name: DAC 2026
+full_name: 63rd Design Automation Conference
+location: Long Beach, CA
+dates: 2026-07-26 ~ 2026-07-29
+url: https://dac.com/63rd-dac
+tagline: Front-End Verification & Emulation Perspective
+# Free text given to the vision model so it can recognise the author's own work.
+my_work: >-
+  The author (Kyuho SHIM, Samsung Electronics) presented an Engineering Track poster
+  "Pre-Silicon Real Workloads Validation: Integration of Wireless Network Testers and
+  Hardware Emulation via Virtualization" (Anritsu / Samsung / Synopsys ZeBu).
+  This is the author's Hybrid Virtual ICE work (virtualized tester interface to hardware emulation).
+  Set is_my_poster=true only for photos of that poster. Other posters (including
+  the Google/Agnisys SystemRDL-to-RTL DATP poster) are NOT the author's.
+# Topics the author was curious about; each lists the archived items that cover it.
+interests:
+  - title: Hybrid Virtual ICE / virtualized tester on emulation
+    note: My own poster, plus the other posters that virtualize the outside world around the emulator.
+    items: ["20260727_165840", "20260727_162722"]
+  - title: DFT automation (SystemRDL-to-RTL, DATP) and gate-level DFT emulation
+    items: ["20260728_134119", "20260728_134334"]
+  - title: AI/HPC multi-path network verification
+    items: ["20260728_172318"]
+  - title: Emulation, UVM acceleration and firmware-driven verification
+    items: ["20260727_155157", "20260727_165840", "20260728_134334"]
+  - title: Agentic AI and LLM for EDA / triage
+    items: ["20260728_110354", "20260727_162722"]
+  - title: CXL / near-memory / PIM and emulation power analysis
+    note: No photos of mine; see the program listing below for the sessions and papers.
+    items: []

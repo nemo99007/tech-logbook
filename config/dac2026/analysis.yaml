@@ -1,0 +1,241 @@
+20260727_114025.jpg:
+  is_technical: true
+  title: Voltage-droop mitigation on MAIA 200
+  presenter_or_company: Microsoft
+  is_my_poster: false
+  summary: Poster on voltage-droop mitigation for MAIA 200 with Pre-Si / Post-Si correlation
+    and Verilog-A models.
+  perspective: 'Pre-Si/Post-Si correlation is the useful part: it shows how far pre-silicon
+    power/droop analysis can be trusted against measured silicon.'
+  tags:
+  - power
+  - post-silicon
+20260727_154434.jpg:
+  is_technical: true
+  title: 'Evidence: Imsys IM3000 microcode CPU'
+  presenter_or_company: Stefan Blixt, Telesis Innovation
+  is_my_poster: false
+  summary: 'Evidence slide for the soft-microcode engine talk: IM3000 versus MSP430
+    on TI benchmarks (energy, execution time, code size), code size compared with
+    x86, and customer statements (Sony, MUNIC CAR DATA).'
+  perspective: The slide is mostly customer testimonials; for emulation use, a rewritable-microcode
+    CPU raises the question of how its state would be observed and debugged.
+  tags:
+  - cpu-architecture
+20260727_155157.jpg:
+  is_technical: true
+  title: Firmware-driven random verification on emulation
+  presenter_or_company: Samsung (image sensor / ISP)
+  is_my_poster: false
+  summary: UVM sequences generate randomized sensor usage intents (mode, resolution,
+    exposure, orientation). Firmware on the emulated DUT executes realistic configuration
+    sequences, and hardware outputs are observed and compared with a reference C-model
+    through DPI-C. UVM acceleration on the emulator makes long-running runs feasible.
+  perspective: 'This is the closest talk to everyday emulation work: UVM-acceleration
+    with real firmware. The things to check are testbench-to-DUT transaction overhead
+    in acceleration mode and how failures that need long-running state are debugged
+    with limited signal visibility.'
+  tags:
+  - emulation
+  - uvm
+  - firmware
+20260727_162722.jpg:
+  is_technical: true
+  title: Fastboot virtualization and on-prem LLM failure analysis (Main Idea slide)
+  presenter_or_company: Samsung Electronics
+  is_my_poster: false
+  summary: 'Main Idea slide: a software test platform drives a hybrid emulation environment
+    through a virtualized Fastboot interface, and an on-premises LLM (RAG) classifies
+    kernel logs as real software bugs or non-critical events.'
+  perspective: Virtualizing Fastboot removes the need for a physical USB link in emulation.
+    Keeping the LLM on-premises matters for confidentiality of logs; the cost is how
+    much emulation time the automated reboot/flash loop consumes.
+  tags:
+  - emulation
+  - virtualization
+  - llm
+20260728_100544.jpg:
+  is_technical: true
+  title: Multi-cycle dynamic vectorless analysis for PDN signoff
+  presenter_or_company: Qualcomm / Cadence
+  is_my_poster: false
+  summary: Poster on multi-cycle dynamic vectorless analysis for improving power-delivery-network
+    signoff.
+  perspective: Vectorless analysis is an alternative to waiting for realistic emulation
+    vectors; it is worth comparing which cases still need real activity from emulation.
+  tags:
+  - power
+  - signoff
+20260728_110354.jpg:
+  is_technical: true
+  title: AI-Assisted EDA Tools Development
+  presenter_or_company: IBM Austin
+  is_my_poster: false
+  summary: 'MCP building blocks (parsing, analysis, construction on an HDL parser)
+    plus an agentic framework (Intent Parser, Tool Synthesizer, Mediator, Executor/Validator)
+    that generate EDA tools from natural language. Evidence: new DFT structural checks
+    produced in under 30 minutes, 1110 injected LOC (~90% reusable blocks), ~4 person-weeks
+    of manual effort saved.'
+  perspective: Generated checks are only as good as the validation against known designs;
+    the poster reports correctness against target designs but not false-positive rates.
+    Interesting for in-house lint/rule-check scripting.
+  tags:
+  - llm
+  - agentic-ai
+  - dft
+20260728_134119.jpg:
+  is_technical: true
+  title: Design-aware test points in SystemRDL-to-RTL generators
+  presenter_or_company: Google / Agnisys
+  is_my_poster: false
+  summary: 'Engineering Track paper 64: DFT intelligence through design-aware test
+    points inserted by SystemRDL-to-RTL generators; reported ~40% pattern reduction.'
+  perspective: Moving DFT decisions into the RTL generator shifts work left; the downstream
+    effect on gate-level verification and emulation runtime is what to look for.
+  tags:
+  - dft
+  - rtl-generation
+20260728_134139.jpg:
+  is_technical: true
+  title: VT-skew MC analysis and load-splitting IR-ECO
+  presenter_or_company: TSMC (+ Synopsys)
+  is_my_poster: false
+  summary: 'Two TSMC posters: a Monte-Carlo feature with an analytical metric for
+    VT-skew impact (CPU time 1.4x/2.7x vs regular STA on 10k/100k paths) and slack-exploiting
+    load splitting for IR-drop mitigation (17.0% additional max dynamic IR-drop reduction,
+    20.2% fewer violations).'
+  perspective: Back-end topics; included for context on how signoff-side methods are
+    being tuned.
+  tags:
+  - signoff
+  - power
+20260728_134255.jpg:
+  is_technical: true
+  title: 'RDC methodology: noise reduction and accuracy'
+  presenter_or_company: Google
+  is_my_poster: false
+  summary: 'Reset-domain-crossing methodology: soft-reset handling reduced reported
+    items (707 to 403, 13 to 5, 567 to 67 in the cases shown).'
+  perspective: Large RDC noise reduction is a good sign for sign-off flows; the open
+    point is how much is waived by methodology versus truly resolved.
+  tags:
+  - rdc
+  - verification
+20260728_134334.jpg:
+  is_technical: true
+  title: DFT verification with Veloce full-chip gate-level emulation
+  presenter_or_company: Samsung / Siemens
+  is_my_poster: false
+  summary: 'Veloce-based full-chip gate-level emulation for DFT verification: roughly
+    x513 faster shift and x322 faster capture than simulation, with a Debug STIL flow
+    for debuggability.'
+  perspective: Highly relevant. Gate-level emulation speedups are easy to quote; the
+    real cost is netlist compile time and debug visibility, which this poster addresses
+    with Debug STIL.
+  tags:
+  - emulation
+  - dft
+  - debug
+20260728_170302.jpg:
+  is_technical: true
+  title: Automated LVS rule deck qualification
+  presenter_or_company: Samsung / Siemens
+  is_my_poster: false
+  summary: Poster on automating LVS rule-deck qualification.
+  perspective: (not yet commented)
+  tags:
+  - signoff
+  - lvs
+20260728_172318.jpg:
+  is_technical: true
+  title: Flexible and scalable network modeling for AI/HPC network verification
+  presenter_or_company: MangoBoost
+  is_my_poster: false
+  summary: UVM-based network model with a white-box library and telemetry-driven steering
+    for verifying AI/HPC network designs.
+  perspective: Network-scale verification of this kind is hard to fit in an emulator;
+    the question is which parts run on emulation and which stay as models.
+  tags:
+  - uvm
+  - network
+  - verification
+20260729_120300.jpg:
+  is_technical: true
+  title: SLC-based real-time traffic buffering
+  presenter_or_company: Samsung
+  is_my_poster: false
+  summary: Poster on system-level-cache buffering for real-time traffic with DRAM
+    row-aware write-back.
+  perspective: (not yet commented)
+  tags:
+  - soc
+  - memory
+20260729_120436.jpg:
+  is_technical: true
+  title: 'Zero-glitch confidence: static, formal and simulation'
+  presenter_or_company: Meta / Synopsys
+  is_my_poster: false
+  summary: Combined static CDC, formal CDC glitch checking and VCS simulation flow,
+    applied to async FIFOs, mux structures, FSMs and memory DS/LS pins.
+  perspective: A layered flow is realistic; since gate-level behavior matters for
+    glitches, the interesting question is where emulation could fill the remaining
+    gap.
+  tags:
+  - cdc
+  - formal
+  - verification
+20260729_123634.jpg:
+  is_technical: true
+  title: Accelerating circuit verification with Calibre nmLVS Recon
+  presenter_or_company: Microsoft / Siemens
+  is_my_poster: false
+  summary: Poster on accelerating circuit verification with Calibre nmLVS Recon SI.
+  perspective: (not yet commented)
+  tags:
+  - lvs
+  - signoff
+20260729_151330.jpg:
+  is_technical: true
+  title: Best Presentation Award — Systems & Software
+  presenter_or_company: Samsung
+  is_my_poster: false
+  summary: 'Award slide for the Engineering Track Systems and Software category: adaptive
+    QoS with dueling double deep Q-networks.'
+  perspective: (not yet commented)
+  tags:
+  - award
+  - soc
+20260729_154134.jpg:
+  is_technical: true
+  title: AI-powered batch flow for memory cache verification
+  presenter_or_company: Qualcomm / Siemens (Solido)
+  is_my_poster: false
+  summary: 'Solido worst-case yield solver: adaptive AI predicts yield, reinforcement
+    learning drives high-sigma verification; 726 netlists, 3.25x runtime speedup per
+    job and 2.4x simulation speedup per job against the previous method.'
+  perspective: Analog/memory yield rather than digital emulation, but the batch-flow
+    pattern (scripted, resumable after IT failures) applies to any long regression.
+  tags:
+  - ai
+  - signoff
+20260727_165840.jpg:
+  is_technical: true
+  title: 'My poster: Hybrid Virtual ICE — Pre-Silicon Real Workloads Validation'
+  presenter_or_company: Anritsu / Samsung / Synopsys (ZeBu)
+  is_my_poster: true
+  summary: 'Our Engineering Track poster (right; the Samsung Fastboot poster is on
+    the left). A hybrid virtual ICE: instead of a physical target cable, speed adapter
+    and real tester hardware, a wireless network tester (Anritsu) is connected to
+    the ZeBu-emulated modem SoC through a virtualized packet-based IQ interface, so
+    real network workloads run against cycle-accurate RTL before silicon.'
+  perspective: Traditional ICE ties emulation to physical cables and speed adapters,
+    which causes frequency mismatch, hard-to-reproduce runs and no remote access,
+    while a pure virtual platform is not cycle accurate. Hybrid virtual ICE keeps
+    the RTL in the emulator and virtualizes the outside world. We frame it as an industry
+    interoperability challenge between tools and emulators, not a one-off internal
+    fix.
+  tags:
+  - emulation
+  - virtualization
+  - virtual-ice
+  - my-work

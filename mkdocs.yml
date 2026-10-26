@@ -1,0 +1,36 @@
+site_name: Tech Logbook
+site_description: Front-End Verification & Emulation perspective on the 63rd DAC (Long
+  Beach, July 2026)
+site_author: Nemo Kyuho SHIM
+site_url: https://nemo99007.github.io/tech-logbook/
+repo_url: https://github.com/nemo99007/tech-logbook
+theme:
+  name: material
+  features:
+  - navigation.sections
+  - navigation.top
+  - content.code.copy
+  palette:
+  - media: '(prefers-color-scheme: light)'
+    scheme: default
+    toggle:
+      icon: material/weather-night
+      name: Switch to dark mode
+  - media: '(prefers-color-scheme: dark)'
+    scheme: slate
+    toggle:
+      icon: material/weather-sunny
+      name: Switch to light mode
+plugins:
+- search
+- glightbox
+markdown_extensions:
+- admonition
+- pymdownx.details
+- pymdownx.superfences
+- attr_list
+- md_in_html
+nav:
+- Home: index.md
+- DAC 2026: dac2026/index.md
+- Papers (yt-paper): https://nemo99007.github.io/yt-paper/
