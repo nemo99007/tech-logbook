@@ -1,0 +1,1097 @@
+note: Presentation pages of the official searchable program (title -> URL), scraped from the program site.
+pages:
+  2026 DAC Early Career Workshop: https://63dac.conference-program.com/?post_type=page&p=16&id=NE101&sess=sess300
+  '3D-DuRA: Accelerating Next-Resolution Generation via 3D Near/in-Memory Architecture with Dual-Ring Sparse Attention': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1357&sess=sess116
+  ? '3D-ReSAC: A Near-3D-Stacked-DRAM Processor with Area-Efficient Sequential Refresh-Skip and High-Link-Utilization Arrowmesh Communication for Fast Low-Batch LLM Inference'
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH270&sess=sess116
+  3DEM-Driven STA for Cross-Die Timing Signoff in 3DIC Chiplets Heterogeneous Integration: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST461&sess=sess297
+  A 1.31 TOPS/W CGRA Hardware with SIMD and Programmable Memory Address Generation Unit for Edge AI: https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3306&sess=sess307
+  A Boolean Processor-Based Hardware Emulation System with Reconfigurable Interconnects: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH3153&sess=sess164
+  'A Chip-Level DTCO Framework for Yield-Aware Back-End Design: Layout-Aware Misalignment Correction in DRAM': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST040&sess=sess295
+  A Compact Digital IP for FMCW Chirp Linearity Monitoring in Automotive Radar Systems: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST215&sess=sess295
+  A Correlation-Aware GKP Decoder for Fault-Tolerant Continuous-Variable Photonic Quantum Computers: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH727&sess=sess134
+  'A Differentiable Approach to Task Graph Partitioning: A Case Study in RTL Simulation': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH068&sess=sess175
+  A Distributed and Scalable Dynamic Power Integrity Flow from Early Analysis to Sign-off for Large-Scale Serdes Designs: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES222&sess=sess272
+  A Fast and Accurate Surrogate Model for Clock-Mesh Timing Analysis: https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3300&sess=sess307
+  A Fully Analog Continuous-Time CIM Neural ODE Solver for Flow-Matching-Based Fluid Dynamics Generation: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1016&sess=sess139
+  A Hamiltonian-Guided Pre-Trainer for Variational Quantum Algorithms: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1966&sess=sess133
+  A Hierarchical and Scalable Power Supply Network (PSN) Analysis Framework for FCBGA Packages in High-Power AI Applications: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES246&sess=sess276
+  A Hybrid SRAM-DRAM Memory Architecture for Ultra-Low-Power Wakeup in SoCs: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST479&sess=sess223
+  A Hybrid Simulation and Formal Verification Approach for Exhaustive Interrupt and Status Flag Verification: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST242&sess=sess295
+  A Levelized Load-Balanced and Structure-Adaptive GPU LU Factorization Method for Circuit Simulation: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1196&sess=sess117
+  A Locality-Aware Temporal Motif Mining Accelerator with Chunk-Based Search Tree Expansion: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH240&sess=sess121
+  ? A Method to Automate the Conversion of .def File into .save.io One to Speed up the BE Digital Flow in Analog-on-Top Designs
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST464&sess=sess297
+  A Mixed-Domain Modeling Approach for Hatched Ground Planes in 3D Chiplet Die-to-Die Interconnect: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES095&sess=sess275
+  A Novel Automated Methodology Python Driven for Test Coverage Improvement via Fault Injection and Simulation: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST017&sess=sess264
+  A Novel Design Approach for Optimized EMC and Thermal Performance in Next-Generation Automotive Applications: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST108&sess=sess295
+  'A Novel Methodology for Automated LVS Rule Deck Verification: Truth Table and Device Extraction Qualification': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST188&sess=sess295
+  A Novel Way to Handle Non-Convergence of Properties in Formal Verification of Digital Systems: https://63dac.conference-program.com/?post_type=page&p=16&id=WIP757&sess=sess307
+  ? 'A Physics-Prior Intelligent Compact Modeling Framework for BEOL-Compatible DTCO: EKAN-Based Distillation from Neural to Symbolic Models'
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2336&sess=sess153
+  A Probe-Based Time-Domain Methodology for Dynamic Thermal Management in Stacked-Die Architectures: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES321&sess=sess275
+  A Programmable, Synthesizable CMOS Analog Optimization IP Core for Real-Time Control: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES333&sess=sess272
+  A Quantitative Approach to Exploring Novel Image Sensor Architectures Towards Autonomous Edge Machine Vision: https://63dac.conference-program.com/?post_type=page&p=16&id=SSSN118&sess=sess254
+  A Real-Time Metric‑Driven Scorecard for Quantifying and Benchmarking Physical‑Design Quality and Deployment Progress: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST254&sess=sess296
+  'A Remote Side-Channel Attack on Post-Quantum Key Encapsulation Mechanisms: A Case Study of ML-KEM on Intel x86': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH296&sess=sess107
+  A Rule-Aware Layout Conversion Framework for Back-End Physical Design: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES027&sess=sess279
+  A Scalable Timing Analysis and Closure Methodology for Ultra-Large Designs: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST446&sess=sess296
+  A Security-Centric Virtual Platform for Accelerating Shift-Left Security Firmware Development: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST135&sess=sess264
+  A Service-Aware Energy-Efficient DVFS Framework for System-on-Chip Architectures: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES385&sess=sess263
+  A Simple and Predictable Solution for Early Full-Chip LVS Convergence: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST110&sess=sess295
+  A Soft-Microcode Engine to Power the Next Wave of Edge Intelligence: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES406&sess=sess263
+  A Unified Agentic Architecture for Rapid Deployment of Zero-Hallucination GenAI Applications: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGINV110&sess=sess284
+  A Unified QA Framework for Intel Library Validation Using Siemens Solido Crosscheck: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES309&sess=sess271
+  A Unified Silicon-Correlated Characterization Flow for High-PPA Standard Cell Libraries at Advance Nodes: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST469&sess=sess224
+  A View from Wall Street: https://63dac.conference-program.com/?post_type=page&p=16&id=AP101&sess=sess189
+  'ACE-NAS: A Zero-Cost NAS Framework for Co-Design of Architecture and Encoding in Spiking Neural Networks': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1899&sess=sess176
+  ACM SIGDA/IEEE CEDA University Demonstration: https://63dac.conference-program.com/?post_type=page&p=16&id=AM113&sess=sess305
+  ? 'ADAPT: An Algorithm-Hardware Co-Design for Spiking Transformer with Training-Free Adaptive Token Pruning and Hierarchical Sparsity'
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1480&sess=sess120
+  'AHASD: Asynchronous Heterogeneous Architecture for LLM Adaptive Drafting Speculative Decoding on Mobile Devices': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH384&sess=sess157
+  'AI Supercomputing Meets EDA: Accelerating the Future of Chip and System Design': https://63dac.conference-program.com/?post_type=page&p=16&id=ST101&sess=sess181
+  'AI and Multi‑die: A Reinforcing Cycle': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGINV006&sess=sess286
+  'AI for Specifications Across the Stack: Formalization, Alignment, Reconstruction, and Handoff': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGINV112&sess=sess284
+  AI-Accelerated Optimization Flow for Robust Analog and Mixed-Signal Circuit Design Against Process Variation: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST268&sess=sess296
+  AI-Accelerated Signoff Verification and Glitch Analysis for Single and Multibit Level Shifters: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST352&sess=sess296
+  AI-Assisted EDA Tools Development: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES389&sess=sess267
+  AI-Driven Co-Optimization of Power Delivery Network for High-Power Cores in 2.5D Advanced Packaging: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST170&sess=sess295
+  AI-Driven Design Automation for Analog and Mixed-Signal Circuit Design: https://63dac.conference-program.com/?post_type=page&p=16&id=EF125&sess=sess298
+  AI-Enabled EDA Cloud Infrastructure and Design Optimization for Next-Generation Semiconductor Design: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST460&sess=sess267
+  AI-Enabled Flow for Silicon Area Reduction and Design Closure: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST085&sess=sess295
+  AI-Enabled High-Fidelity Power Amplifier Behavioral Modeling with Commercial EDA Tools: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST025&sess=sess264
+  AI-Enhanced Early Thermal Aware Module Placement for 3DIC PPA Optimization: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES120&sess=sess275
+  AI-Native Workflows from Architecture to Production Readiness: https://63dac.conference-program.com/?post_type=page&p=16&id=EF128&sess=sess299
+  'AI‑Assisted Formal Verification: Improving Practical Adoption and Scalability': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST437&sess=sess296
+  'ALOHA: Area-Efficient and Low-Power Stochastic Computing with Hammersley Sequences': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2256&sess=sess174
+  'AMBER: A Unified Accelerator for Multi-Precision LLM Inference Exploiting Bit-Level Redundancy and Reconfigurability': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH640&sess=sess156
+  AMS Layout Automation Using Circuit-Level Analog Standard Cells and Self-Biasing Techniques in Digital PnR Tools.: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH407&sess=sess136
+  'ANA-MODELGEN: Automating Analog IP Model Generation and Validation for Efficient Mixed-Signal Verification': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES367&sess=sess272
+  'AQR-HNSW: Accelerating Approximate Nearest Neighbor Search via Density-Aware Quantization and Multi-Stage Re-Ranking': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1629&sess=sess127
+  'ARC-SRAM: A Memory Subarray with Local Addressing and Reduced Access Energy': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2631&sess=sess130
+  'ARCHITECT LABS: Ada: A Self-Improving AI System for HW-SW co-Design and Verification': https://63dac.conference-program.com/?post_type=page&p=16&id=EF116&sess=sess238
+  'ARTEMIS: Adaptive RL Test-Time Ensemble for Model Inference in SSD Testing': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1138&sess=sess164
+  'ARTEMIS: Agentic AI for EDA': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST163&sess=sess295
+  ? 'ASG-MOENN: Adaptive Sparsely-Gated Mixture of Experts Neural Network for Digital Predistortion in Quadrature Switched-Capacitor Power Amplifiers'
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH656&sess=sess125
+  'ATLAS: AI-Assisted Threat-to-Assertion Learning for System-on-Chip Security Verification': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2886&sess=sess108
+  'ATLAS: Asynchronous Topological Learning for Accurate FIT Prediction via Decoupled Graph Neural Networks': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1390&sess=sess118
+  'ATOM-3D: Analytical Three-Dimensional Orientation-Aware Mixed-Size Placer': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH934&sess=sess132
+  'ATTINA: Spatial Acceleration of Additive Number Theoretic Transform for Energy-Efficient zkSNARKs at the Edge': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH983&sess=sess174
+  'Acc-SpMV: Accelerating General-Purpose Sparse Matrix-Vector Multiplication with GPU CUDA Cores': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2105&sess=sess127
+  'AccDRC: FPGA Acceleration for VLSI DRC with Cell-Aware Layout Partitioning': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1080&sess=sess164
+  'Accelcim: Systematic Dataflow Exploration for SRAM Compute-in-Memory Accelerator': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH155&sess=sess138
+  Accelerated Dynamic Voltage Drop Prediction Using a Lightweight Machine Learning Model: https://63dac.conference-program.com/?post_type=page&p=16&id=WIP1660&sess=sess307
+  Accelerating AI+SAR Applications Through Enhanced Graph Optimization: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1382&sess=sess125
+  Accelerating CPU Design in Advanced Nodes with AI-Powered Floor Planning and VT Optimization: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST134&sess=sess295
+  Accelerating DFT Verification and Enhancing Debuggability Using Veloce-Based Full Chip Gate-Level Emulation: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST315&sess=sess295
+  Accelerating Formal Closure on Complex Hardware Designs via AI-Driven Helper Generation: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES065&sess=sess266
+  Accelerating Full Flat EMIR Sign-Off in Multi-Billion Instance: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST245&sess=sess296
+  Accelerating Functional Fault Grading for Flash and DRAM Designs: https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3271&sess=sess307
+  Accelerating GPU Inference of Large Language Models with Moderately Unstructured Sparse Weight Matrices: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1839&sess=sess140
+  Accelerating IR and Timing Convergence with Revolutionary IR-ECO: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST136&sess=sess295
+  Accelerating Memory Cache Verification with AI-Powered Batch Flow Methodology: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST351&sess=sess296
+  Accelerating RTL and Verification Development via Automated Visual-to-Executable Specification Generation: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES180&sess=sess262
+  Accelerating X-State Aware Power Simulation Using Advanced Hardware Emulation: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES153&sess=sess269
+  'Accshield: Operator-Aware Robust Scheduling for Fault-Tolerant AI Accelerators': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2057&sess=sess160
+  ? Accurate Characterization Methodology for Combo-IO Design with Concurrent Switching Outputs for Precise Power Analysis at SoC
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST362&sess=sess296
+  Accurate Full-Custom Thermal and EM Analysis for Advanced Nodes: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST474&sess=sess223
+  Accurate Impact Modeling for Threshold Voltage Mismatch of Transistors in Same Chip: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES058&sess=sess278
+  Achieving "zero Defect" Quality in Automotive Ethernet Solutions with AI-Accelerated Trimming & Verification: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST355&sess=sess296
+  ? 'Achieving High-Integrity Safety for 360-Degree Automotive Display Soc''s RETIME-IP: A Static Analysis Approach to ASIL-D Compliance'
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST344&sess=sess296
+  Achieving Intra- and Inter-Operator Communication Lower Bounds in Near-Memory Processing: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1113&sess=sess116
+  'Actionflow: A Pipelined Action Acceleration for Vision Language Models on Edge': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1400&sess=sess137
+  Active Imitation Learning for Thermal- and Kernel-Aware LFM Inference on 3D S-NUCA Many-Cores: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1302&sess=sess125
+  ? 'Activity Reloaded: Joules Flash Replay - A Methodology for Accurate, Delay-Based Activity Generation for Driving Optimization and Power Sign-off'
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST290&sess=sess296
+  Activity-Aware Partitioning for Effective Multi-Threaded Event-Driven RTL Simulation: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH440&sess=sess164
+  'Adagscale: Viewpoint-Adaptive Gaussian Scaling in 3D Gaussian Splatting to Reduce Gaussian-Tile Pairs': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2845&sess=sess177
+  'Adahuff-GNN: A Convergency-Aware Adaptive Huffman Compression for Communication Reduction in Distributed GNN Training': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1468&sess=sess110
+  'Adana: Accelerating Large Language Models via Adaptive Nonuniform Asymmetric Quantization': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2184&sess=sess140
+  Adaptive AI and Additive AI Techniques for High-Sigma Standard Cell Verification: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES154&sess=sess271
+  Adaptive Multi-Agent Framework for Automated Constraint Generation: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST107&sess=sess264
+  Adaptive Multiply-Accumulate Unit with Scalable Critical Path for Aggressive Voltage Underscaling DNN Accelerators: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2364&sess=sess130
+  Adaptive QoS Optimization for SoC Performance Enhancement Using Dueling Double Deep Q-Networks: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES048&sess=sess269
+  Adaptive Read Retry Table Extension for Enhanced Data Reliability in 3D NAND Flash Memory: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2686&sess=sess162
+  Adaptive Spiking Neural Networks for Real-Time Multi-Object Detection Tasks: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH920&sess=sess120
+  'Additional Meeting - Accellera Luncheon: Embracing AI for Advanced Design and Verification': https://63dac.conference-program.com/?post_type=page&p=16&id=AM104&sess=sess211
+  'Additional Meeting - CEDA Lunch: The Role of Open-Source Hardware in AI for EDA': https://63dac.conference-program.com/?post_type=page&p=16&id=AM114&sess=sess210
+  ? Advanced Automation Framework for Clock and Reset Management in SoC Designs – Bridging Design Intent, Verification, Test and Implementation
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES238&sess=sess268
+  Advanced Automation for DC Die Generation and Verification: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST076&sess=sess264
+  Advanced Hard IP Integration Requirement Extraction and Checker: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST062&sess=sess264
+  'Advanced Packaging: From Concept to Deployment': https://63dac.conference-program.com/?post_type=page&p=16&id=SSSN124&sess=sess256
+  Advancements in Heterogeneous Integration and 3D Packaging for Next-Generation Scalable Photonic Integrated Systems: https://63dac.conference-program.com/?post_type=page&p=16&id=SSSN123&sess=sess255
+  'Advances in AI-Driven Hardware Code Generation: Insights from the Comprehensive Verilog Design Problems Benchmark': https://63dac.conference-program.com/?post_type=page&p=16&id=SSSN105&sess=sess251
+  Advancing CDC Formal Verification in Low-Power SoCs Using Power Intent and Smart Waiver Techniques: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST018&sess=sess264
+  'Advancing Macro Placement: Integrating Proven Design Practices with Reinforcement Learning': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH365&sess=sess132
+  Advancing Silicon Lifecycle Management with Embedded Trace: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES283&sess=sess263
+  'Agent-Per-Qubit: Automated Qubit Placement for Fault-Tolerant Quantum Computing': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1312&sess=sess125
+  Agentic AI Partition And Floorplan Assistance For PCIe/CXL Subsystem Physical Design: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST141&sess=sess295
+  'Agentic AI and Friends: Why Everyone Suddenly Wants CPUs Again': https://63dac.conference-program.com/?post_type=page&p=16&id=AP102&sess=sess190
+  'Agentic AI for Chip Design and Verification: Results and Limitations from CVDP': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3253&sess=sess307
+  'Agentic AI in EDA: Who''s in Control?': https://63dac.conference-program.com/?post_type=page&p=16&id=PAV101&sess=sess218
+  Agentic Time-Travel Debugging for HLS Code: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST272&sess=sess264
+  ? 'Agenticdse: A Multi-Agent Design Space Exploration Framework with Multi-Phase Bayesian Optimization for Chiplet Accelerators'
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1519&sess=sess113
+  'Agile Silicon: A Gitops-Based PD Orchestration Framework Enabling <10-Person PD Team to Deliver CPO Tapeouts': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST477&sess=sess224
+  Ai&cell Based Analog Circuit Topology Generator(ctgen): https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST113&sess=sess295
+  'Akirarust: Re-Thinking LLM-Aided Rust Repair Using a Feedback-Guided Thinking Switch': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2871&sess=sess146
+  Algorithm and Hardware Co-Design for Efficient Complex-Valued Uncertainty Estimation: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1610&sess=sess121
+  'Alphaplacer: Analog Placement Enhanced by Monte Carlo Tree Search': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH713&sess=sess118
+  'Amoeba: Runtime Tensor Parallel Transformation for LLM Inference Services': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH538&sess=sess109
+  An AI-Enhanced Web-Based Real-Time Analytics & Prediction Platform for ASIC Physical Design (PD) Flows: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST470&sess=sess223
+  An Adaptive Dynamic Power Reduction Technique for Digital Filters: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST216&sess=sess295
+  An Adaptive Prediction of Tokens Fluctuation for Decoupled Prefetching to Accelerate Long-Context LLM Decoding: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1441&sess=sess109
+  An Adjustable Length Compression Method for MBIST Repair Information: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES350&sess=sess277
+  'An Agile and Accurate Energy Estimation Methodology for CGRA-Mapped Algorithms: The Synchoros Approach': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2851&sess=sess113
+  An Autonomous Design Agent of Parallel Feedforward Equalizer for Advanced Wireline Receivers: https://63dac.conference-program.com/?post_type=page&p=16&id=WIP1002&sess=sess307
+  An Efficient Heterogeneous Co-Design for Fine-Tuning on a Single GPU: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1286&sess=sess110
+  An Energy-Efficient Automated Hardware Generator for Edge BCI Systems: https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3283&sess=sess307
+  An Energy-Efficient Dataflow Architecture for Efficient MoE Model Inference: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2753&sess=sess142
+  An Engineering Case Study of Autonomous AI PCB Layout Under Real Manufacturing and System Integration Constraints: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST414&sess=sess264
+  An Optimized Full-Chip Analog Mixed-Signal (AMS) Verification Approach for PVT Calibration in FPGA Systems: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST276&sess=sess295
+  'Analog Intelligence: Physics-Aware AI for Faster, More Accurate Verification': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGINV115&sess=sess289
+  Analog Quantum Simulation on Google’s Willow Processor: https://63dac.conference-program.com/?post_type=page&p=16&id=SSSN109&sess=sess252
+  Analysis of Power Delivery Network (PDN) in 12-High HBM 3DIC for Heterogeneous Integration: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES031&sess=sess276
+  Analytically-Derived Hybrid Net–pin Weighting for Timing-Driven Global Placement: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1290&sess=sess132
+  Applying AI to Transform Specification-Driven Development and Engineering Productivity: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGINV109&sess=sess284
+  Architectural Coverage Analysis and ML-Based Automated-Test Generation: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES431&sess=sess265
+  Architectural Formal Verification of Configurable Address Translation Logic for Early Bug Exposers: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES181&sess=sess266
+  Are They All Safe? Practical Fault Injection Attacks on FPGA Logic Synthesis Tools: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2306&sess=sess108
+  Area-Optimal and Routability-Driven Layout Synthesis for Multi-Row Complementary-FET Standard Cells: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2416&sess=sess129
+  'Asymcheck: Asymmetric Partitioned Checkpointing for Efficient Large Language Model Training': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH513&sess=sess109
+  'Athena: Analytical Timing-Aware Pre-Silicon Estimation of Side-Channel Leakage': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1949&sess=sess108
+  'Attacking AES-XTS in Simulation: Pre-Silicon Side-Channel Leakage Assessment': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES407&sess=sess273
+  'Attackonctf: Defending Hardware Security Competition Benchmarks in the Age of LLMs': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1628&sess=sess107
+  'Attentioncap: Transformer Based Capacitance Matrix Learning Toward Full-Chip Extraction': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1222&sess=sess153
+  'Attestllm: Efficient Attestation Framework for Billion-Scale On-Device LLMs': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH625&sess=sess152
+  'Atto-Spinformer: An Energy-Efficient Magneto Electric Spin Orbit Logic-Based Compute-in-Memory Transformer Architecture': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3301&sess=sess307
+  'Auto-Chk: Closing the Last-Mile Interpretation Gap in Digital Sign-off via a Neuro-Symbolic Compiler Framework': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES210&sess=sess277
+  Auto-Formalization to Bridge Design Specifications Into Verifiable Hardware Logic: https://63dac.conference-program.com/?post_type=page&p=16&id=EF126&sess=sess299
+  ? 'Automated 3Dblox File Generation: Enabling Extremely Rapid Solution Exploration by Streamlining Thermal and IR Analysis of 3D SOICs'
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST129&sess=sess264
+  Automated Design of Device Fingerprinting Circuits for FPGAs: https://63dac.conference-program.com/?post_type=page&p=16&id=LBR155&sess=sess308
+  Automated Discovery, Classification, and Systematic Security Verification Methodology for Undocumented Instructions: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2804&sess=sess111
+  Automated System for FPGA-Based SoC Prototyping: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES224&sess=sess269
+  Automated Validation of Liberty Models: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES219&sess=sess271
+  Automated Verification and Performance Analysis for Chiplets: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES250&sess=sess262
+  ? Automated Workload Analysis for Dynamic Voltage Drop Optimization and Faster Power Integrity Signoff in Complex SoC Designs
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST243&sess=sess296
+  Automatic SDC Creation for Static Timing Analysis: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST380&sess=sess296
+  ? 'Automating DFT Intelligence: Addressing TCPF Hotspots at Source Through Design Aware Test Points in Systemrdl-to-RTL Generators'
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES064&sess=sess277
+  Automotive Logic Test Power Management: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST051&sess=sess295
+  'Autonomous Evolution of EDA Tools: Multi-Agent Self-Evolved ABC': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1784&sess=sess168
+  Autonomously Handling of Digital Blocks From Initial Concept to Timing Constraints: https://63dac.conference-program.com/?post_type=page&p=16&id=EF129&sess=sess299
+  'B-Flex: Exploration of Broader Flip-Flop Design Space Based on FSM Exhaustive Search': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2394&sess=sess173
+  'BIMEM-RAG: Reinforced Dual Memory Retrieval with Bidirectional Reasoning for RTL Synthesis and Summarization': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES422&sess=sess267
+  'BLADE: Bi-Level Bayesian Optimization for Metal-Density-Constrained Multi-Layer Package Power/ground Plane Synthesis': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH073&sess=sess112
+  'BREW-RC: Bit-Exact Recovery of ECCs from Write Timing in ReRAM Crossbars': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH3042&sess=sess111
+  'BRONCO AI: AI-Native EDA in Production: Lessons from Customer Deployments': https://63dac.conference-program.com/?post_type=page&p=16&id=EF118&sess=sess227
+  'BRONCO AI: Introducing Dvbench: A Production-Grade Benchmark for Design Verification AI': https://63dac.conference-program.com/?post_type=page&p=16&id=EF119&sess=sess234
+  'BSGCN: Taming Diverse Sparsities in GCNs via Adaptive Band-Segmentation and Tailored Caching': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1242&sess=sess161
+  'BSPDN-Elite: A Comprehensive Framework for Optimizing Timing, Power and Routing Resources in BSPDN Designs': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH335&sess=sess114
+  ? 'BSPDN: A Power Delivery Architecture for 19.8% Core Power Reduction and 9.3C Thermal Mitigation in Next-Generation AI Processors'
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST459&sess=sess297
+  'Beyond Exact: Tight WCET Analysis of GPU Kernels with Branch Divergence': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1552&sess=sess171
+  'Beyond Flat Netlist: Hierarchical Graph Representation Learning for Scalable Analysis of Sequential Circuits': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH080&sess=sess167
+  'Beyond Fuzzer Islands: CPU Fuzzing via Smart Coordination': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2533&sess=sess164
+  'Beyond Hierarchical Static Verification: Smart Stubbing for Next-Gen AI Accelerators': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST427&sess=sess296
+  'Beyond Scripting: API Based HDL Generation': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST275&sess=sess295
+  'Beyond Static Policies: Dynamic-PRAC for Balanced and Efficient Rowhammer Mitigation': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3288&sess=sess307
+  'BiBNN: 88.6% Computation Reduction in Bayesian Neural Networks via Post-Training Bernoullization': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2698&sess=sess120
+  'Bident: Optical Logic Synthesis via Optimal Configuration of Binary-Combiner Trees': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1268&sess=sess172
+  Boosting IP Quality and Productivity Through Ipdelta Profile-Driven Change Detection: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST339&sess=sess296
+  Brain-Like Hyper-Dimensional Graph Learning System with Hardware-Efficient Adaptive Sparsity: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH052&sess=sess120
+  ? 'Breaking Sequential Depth Barriers: An FSM-Driven Bridge for the Formal Verification of Virtually Address-Mapped Hardware Registers'
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST257&sess=sess295
+  Breaking the EDA Bottleneck for Agentic Chip Design: https://63dac.conference-program.com/?post_type=page&p=16&id=EF131&sess=sess298
+  Breaking the Simulation Wall – Practical Acceleration for Pre-Silicon Validation: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST104&sess=sess295
+  'Breaking the Tuning Barrier: Zero-Hyperparameters Yield Multi-Corner Analysis Via Learned Priors': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1646&sess=sess153
+  Bridging Analog Fidelity and Digital Performance in Chiplet Interface Mixed-Signal IP Verification: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST278&sess=sess296
+  Bridging Hardware-Software Abstraction In UVM Verification: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST106&sess=sess264
+  'Bridging Physics and Engineering: Quantum EDA for Superconducting Qubits and Amplifiers': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGINV107&sess=sess292
+  'Bridging Quantum, AI, and EDA: The Next Frontier of Design Automation': https://63dac.conference-program.com/?post_type=page&p=16&id=PANEL102&sess=sess205
+  'Bridging the Modeling Gap: State-Aware Liberty Enhancements for Multimode IP Designs': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST366&sess=sess296
+  'Bringing Graphs Closer to Memory: Compiler-Driven Data Transfer Reduction in the PIM Accelerator': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1365&sess=sess110
+  'Build vs Buy: Who Owns the Intelligence Behind Tomorrow''s Chips?': https://63dac.conference-program.com/?post_type=page&p=16&id=PAV102&sess=sess222
+  Building an Ontology-Driven Knowledge Graph for Constraint-Aware Navigation of Semiconductor Design Documents: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES068&sess=sess265
+  'C2C-Explorer: An Exploration Framework for Chip-to-Chip Interconnect Architectures in LLM Cloud Computing Systems': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH130&sess=sess109
+  'CADENCE DESIGN SYSTEMS: LLMs in Production With Chip Teams: Opportunities, Challenges, and Lessons Learned': https://63dac.conference-program.com/?post_type=page&p=16&id=EF114&sess=sess226
+  'CADSTROM: Beyond DRC: How AI-Driven Component Modeling Is Closing the Verification Gap Between Schematic and Silicon': https://63dac.conference-program.com/?post_type=page&p=16&id=EF110&sess=sess258
+  'CANNON: A CXL-Based Near-Memory Processing Architecture for Approximate Nearest Neighbor Search on Real Hardware': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH108&sess=sess119
+  'CAPA: Convertibility-Aware Mixed-Precision Accelerator for Asymmetric GEMM in Weight-Only Quantized LLMs': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2410&sess=sess142
+  'CARAMEL: Boosting Device Utilization in Control Flow Auditing': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1665&sess=sess122
+  'CDG-DNN: Scalable Test Template Generation Using Adaptive Neural Architecture for Industry Class CDG Hardware Verification': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST392&sess=sess296
+  'CHIPAGENTS AI: AI Agent-Driven Timing Closure': https://63dac.conference-program.com/?post_type=page&p=16&id=EF103&sess=sess236
+  'CHIPAGENTS AI: Autonomous Root Cause Analysis: Agentic AI for Debugging at Commercial Scale': https://63dac.conference-program.com/?post_type=page&p=16&id=EF102&sess=sess229
+  'CHiRM-DSE: CodeLLM-Based Hierarchical and Rule-Mining Guided DSE for FPGA Accelerators': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2083&sess=sess173
+  'CLUE-ECC: Low-Cost LPDDR6 Reliability Enhancement by Integrating System ECC with On-Die ECC': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH676&sess=sess130
+  CMP-Aware Dummy-Fill Optimization via Generative Modeling and Measurement-Calibrated Prediction: https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3299&sess=sess307
+  'CO-MAC: A Center-Out Ordered Stochastic MAC for Low-Latency Inference': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH3029&sess=sess174
+  'CODA: A Computation-Data Decoupled Dataflow Paradigm for DNN Computing on NPUs': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1409&sess=sess110
+  'CODA: Cooperative Register Distribution and Arbitration Among Partitioned GPU Sub-Cores': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH387&sess=sess143
+  'COLA: Enabling Low-Latency Reads for Flash-Based SSDs via Code Length Adaptation': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH607&sess=sess171
+  'COM-BNN: A Configurable Low Power MRAM-Based Computing-in-Memory Accelerator for Binary Convolutional Computations': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2425&sess=sess161
+  'COOL: A Cooling-Aware Point Transformer Framework for Thermal Prediction in Advanced 3D/3.5D IC Packaging': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1846&sess=sess112
+  ? 'CORE: Compact, Optimized, and Resource-Efficient Compute Engine for FP-INT GEMM Acceleration with Binary Coding Quantization'
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1692&sess=sess142
+  'COmPOSER: Circuit Optimization of mm-Wave/rf Circuits with Performance-Oriented Synthesis for Efficient Realizations': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1407&sess=sess118
+  'CPA-BNN: A Secure and Efficient CIM and PUF Architecture for BNN Accelerator': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1185&sess=sess107
+  CPPR-Aware Tap-Point Reassignment in Flex-H and Multi-Point CTS for Timing Closure in High-Performance Cores: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES373&sess=sess279
+  'CPW-SMO: Generating Mask Sets and Common Source for Maximum Common Process Window': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1282&sess=sess154
+  'CQ-CiM: Hardware-Aware Embedding Shaping for Robust CiM-Based Retrieval': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH752&sess=sess119
+  'Cache Where It Counts: Towards Workload-Aware I/O Coordination for NUMA Storage Systems': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH651&sess=sess162
+  'Cachence: Fine-Grained Cache Partitioning in Both Time and Space': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH441&sess=sess147
+  'Cacheparallel: Comprehensively Exploring Multi-Level Acceleration for Diffusion Models': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1976&sess=sess127
+  Can Asymmetric Tile Buffering Be Beneficial?: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1000&sess=sess147
+  Capacitance Modeling for Meander Co-Planar Waveguide Devices Used in Quantum Computers: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST270&sess=sess296
+  'Capacitive Touchscreens at Risk: Recovering Handwritten Trajectory on Smartphone via Electromagnetic Emanations': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH315&sess=sess131
+  'Capbench: A Multi-PDK Dataset for Machine-Learning-Based Post-Layout Capacitance Extraction': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1224&sess=sess167
+  Capturing Quantum Components in Quantum EDA: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGINV106&sess=sess292
+  'Celestialeye: A Synergistic CPU-FPGA Engine for Accurate Frequency Measurement in High-Speed Data Streams': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1587&sess=sess175
+  Cell-Structure-Independent Transistor-Level Placement and MOL-Aware Routing Framework Beyond the Standard-Cell Paradigm: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2006&sess=sess132
+  'Celle: Automated Standard Cell Library Extension via Equality Saturation': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH278&sess=sess153
+  Central DMA IP Verification Using Layered UVM Scoreboard: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST070&sess=sess264
+  Challenges and Solutions in the next-Generation Emulation and Prototyping Solutions: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGINV102&sess=sess294
+  Channel Width Optimization for IR Drop Reduction in Advanced SoCs: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST128&sess=sess295
+  'ChatSVA: Bridging SVA Generation for Hardware Verification via Task-Specific LLMs': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1356&sess=sess166
+  'ChiSER: Surrogate-Enhanced Resource-Aware Exploration of Chiplet-Based Deep Neural Network Accelerators': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH399&sess=sess110
+  'Chimera: A Unified FHE Accelerator with Enhanced Compatibility for TFHE': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH885&sess=sess107
+  'Chiplanner: Physically-Aware and Timing-Driven Design Planner for 2.5D Multi-Chiplet Systems': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH380&sess=sess114
+  'Chiplite: High-Level Performance Modeling Methodology for Automotive Chiplet Systems': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3272&sess=sess307
+  'Chipmodeler: LLM-Aided Reference Model Design for Agile Hardware Verification': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2319&sess=sess166
+  Chipshub Faculty Fellows Train the Trainers Workshop: https://63dac.conference-program.com/?post_type=page&p=16&id=WKSHP106&sess=sess200
+  'Ciphershield: Safeguarding DNN Inputs from Ciphertext Side-Channels in TEE': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1764&sess=sess152
+  'Circuitdiff: Bridging Netlist Knowledge with RTL Based on Graph Denoising Diffusion': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2793&sess=sess167
+  Closing the Loop Between AI and the Hardware That Fuels It: https://63dac.conference-program.com/?post_type=page&p=16&id=EF130&sess=sess298
+  'Closing the Loop: Hybrid NAS Guided by Analytical and Hardware-Calibrated Quantum Cost Modeling': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH577&sess=sess133
+  Co-Designed Compute Memories for Ultra-Efficient DNN Inference: https://63dac.conference-program.com/?post_type=page&p=16&id=SSSN117&sess=sess254
+  'CoX-MoE: Coalesced Expert Execution for High-Throughput MoE Inference with AMX-Enabled CPU-GPU Co-Execution': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2235&sess=sess140
+  Cognitively Guided EM-Aware Routing Approach for Efficient Layout Implementation: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST087&sess=sess295
+  Compact ML-Based Glitch Propagation Modeling of Standard Cells: https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3276&sess=sess307
+  'Compart: Community-Guided Post-Coarsening for High-Quality Hypergraph Partitioning': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1300&sess=sess129
+  Compilation Pipeline for Predicting Algorithmic Break-Even in an Early-Fault-Tolerant Surface Code Architecture: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1709&sess=sess134
+  'Compilation Tells Energy: Rethinking Power Modeling for DNN Accelerator Agile Design': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1474&sess=sess112
+  ? 'Compiler Framework for Directional Transport in Zoned Neutral-Atom Systems with AOD Assistance: A Hybrid Remote CZ Approach'
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1608&sess=sess134
+  Comprehensive Physical Verification Approach for Heterogeneous 2.5/3D Integration: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES055&sess=sess275
+  Comprehensive SoC Power System Verification Using Optimized Mixed-Signal Verification Methodology: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST281&sess=sess296
+  Cooley's DAC Troublemaker Panel: https://63dac.conference-program.com/?post_type=page&p=16&id=PAV105&sess=sess217
+  Coordinated Clip-Wise Gradient Scheduling for Full-Chip ILT via Policy Learning: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2525&sess=sess154
+  Correct-by-Construction Framework for Robustness Against Divergent Voltage Drops and High Clock Divergence: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES156&sess=sess277
+  Cost-Based Partial Subgraph Matching for Circuit Pattern Recognition: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST475&sess=sess223
+  'Credix: A Credit-Driven Distributed Buffer Management for Large-Scale Switching Chips': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH837&sess=sess147
+  Crosstalk Effect Prediction and Optimization for Detail Routing Using CNN Models and Reinforcement Learning Flow Framework: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES436&sess=sess279
+  Crosstalk Hotspot Map Creation at Placement Stage Using CNN UNET Prediction Model: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST444&sess=sess296
+  Crosstalk Timing Prediction via Graph Prompt Learning in Aggressor-Victim RC Networks: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2537&sess=sess155
+  'Cryozip: An Efficient Cryogenic Compressor for Quantum Error Correction Syndromes': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH210&sess=sess135
+  'Crystal-KV: Efficient KV Cache Management for Chain-of-Thought LLMs via Answer-First Principle': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH375&sess=sess145
+  'Ctxmem: OS-Hardware Co-Designed Tiered Memory with DRAM-SSD Hybrid CXL Devices': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1028&sess=sess162
+  'Cupilot: A Strategy-Coordinated Multi-Agent Framework for CUDA Kernel Evolution': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH561&sess=sess168
+  Custom Implementation of High-Speed Digital Blocks Using Virtuoso Studio: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES172&sess=sess272
+  'DAP: A Software/hardware Co-Design for Accelerating Multi-Chip-Based Distributed Sparse-Dense Matrix Multiplication': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1256&sess=sess130
+  'DAPA: Distribution Aware Piecewise Activation Functions for On-Device Transformer Inference and Training': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2094&sess=sess142
+  'DCTS: Differentiable Clock Tree Synthesis Based on Probabilistic Graphical Model': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1211&sess=sess136
+  'DCgAA 2026: The 3rd International Workshop on Deep Learning-Hardware Co-Design for Generative AI Acceleration': https://63dac.conference-program.com/?post_type=page&p=16&id=WKSHP103&sess=sess197
+  'DFA-DRIVE: A Cross-Layer Delay Fault Analysis and Optimization Framework for Robust Multi-Task Driving Perception': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1585&sess=sess137
+  'DFT Ready Design with SCO Canvas : Shift Left of DFT Designs': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES149&sess=sess265
+  ? 'DIA-CIM: A Dynamic Iterative Aggregation Graph Neural Network and Its Hardware Co-Design for Energy-Efficient Graph Processing'
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1194&sess=sess123
+  'DM-MARK: Software and Hardware Co-Design of Watermarking Accelerator for Authorized Diffusion Model Usage on Edge Devices': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1085&sess=sess156
+  'DR. OPC: Differentiable Rasterization for Advanced Optical Proximity Correction': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH827&sess=sess154
+  'DRCA: Reliable Bitwise Logic in DRAM via Dual-Rail Compute and Access': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH544&sess=sess123
+  'DRCGen: A Controllable DRC Violation Case Generator with Cross-PDK Transferability for Rule-Deck and Tool Validation': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH907&sess=sess136
+  'DRIFT: Harnessing Inherent Fault Tolerance for Efficient and Reliable Diffusion Model Inference': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH816&sess=sess174
+  'DRΛMA: Detailed Routing by a Versatile Maze Routing Algorithm': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1534&sess=sess136
+  ? 'DSPE: An Energy-Efficient Edge Processor for Deepseek Inference with Merkletree-Based Incremental Pruning, Multi-Stage Boothing Lookup and Dynamic Adaptive Posit Processing'
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1206&sess=sess156
+  'DScNMP: A Dataflow Scheduling for the Precision-Scalable Near-Memory Processing Microarchitecture': https://63dac.conference-program.com/?post_type=page&p=16&id=LBR125&sess=sess308
+  'DUET: Disaggregated Hybrid Mamba-Transformer LLMs with Prefill and Decode-Specific Packages': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH3120&sess=sess157
+  'Dart: Towards Redundancy-Free RTL Simulation via DAG-Driven Execution': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2011&sess=sess164
+  'Dataflowgen: An MLIR-Based Compiler for Efficient Dataflow Accelerator Generation': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH083&sess=sess114
+  'Debug Like a Human: Scaling LLM-Based Fault Localization to Processor Design via Block-Level Instruction-Oriented Slicing': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1355&sess=sess166
+  'Decoding the Past: Recovering Sensitive Data from SRAM Aging Imprints': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH3019&sess=sess111
+  Deep Reinforcement Learning Paradigm for Analog Design Automation: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES259&sess=sess278
+  Defending Side-Channel Attacks in Client-Side Deduplication with Hardware/software Codesign: https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3158&sess=sess307
+  'Deinfer: Efficient Parallel Inferencing for Decomposed Large Language Models': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2620&sess=sess126
+  Delay-Constrained Area Optimisation Using SAT-Based Local Improvement: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH754&sess=sess172
+  'Deltasight: Architecting Efficient Video AIoT Systems via Cross-Stage Consistent Redundancy Elimination': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH952&sess=sess130
+  'Design Automation for Emerging AI: From AI Pins to Datacenter': https://63dac.conference-program.com/?post_type=page&p=16&id=K102&sess=sess179
+  Design Rule Checking for Rigid-Flex PCB: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST205&sess=sess264
+  Design Spec to Die-Size Estimation Using ML Based Framework for Automotive SoCs: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES206&sess=sess262
+  ? Design Technology Co-Optimization for Network on Chip in High Performance CPUs at 3nm Node Using Monolithic 3D and Backside Interconnect Technologies
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2290&sess=sess169
+  Design Verification Automation (DVA) for PCB Signal and Power Integrity: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST111&sess=sess295
+  Design-for-FV Approach on a RISC-V Memory Page Walker: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST096&sess=sess264
+  Designing Power- and Area-Efficient Custom NPUs for Edge AI: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES262&sess=sess273
+  ? 'Deterministic, Solver‑Accurate Physics Intelligence for Chips‑to‑Systems Design: What Breaks, What Validates, What Automates'
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=ENGINV002&sess=sess291
+  'Detrojan: Detecting Trojan Circuits Using a Purpose-Built Graph Neural Network with Community-Enhanced Classification': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2179&sess=sess111
+  Development of Machine Learning Framework for Split-Parameter Optimization of LDMOS Devices: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST316&sess=sess296
+  'DiffDEG: Diffusion-Enhanced Design Evolution Graph Representation Learning for Post-Layout Optimization': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH692&sess=sess125
+  Differentiable Fill Insertion with Explicit Delay Optimization: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH648&sess=sess154
+  'Differential Validator: Ensuring SoC ROM to Hierarchical Blocks Node Voltage Integrity': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST165&sess=sess295
+  'Diffsp: Differentiable Sequence Pair-Based Analog Placement': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH776&sess=sess118
+  'Digital Inside Analog: Continuous-Time Pipelined ADCs for Wideband Analog-to-Digital Conversion': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGINV114&sess=sess289
+  Digitally Assisted Analog Techniques for Next‑Generation Data Converters, Test, and Clocking: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGINV113&sess=sess289
+  Disentangled Differentiable Timing-Power Co-Optimization with Quad-Gradient Gate Sizing: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH843&sess=sess155
+  'Drcagent: A Design Rule Aware LLM Agent for DRC Auto-Fix with Adversarial Reinforcement Learning': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2145&sess=sess166
+  'Drop-In Masked Modular Reduction for ML-DSA: Cutting Side-Channel Cost in the Root-of-Trust': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1732&sess=sess107
+  Dropping Multiple Literals per SAT Call in IC3 Model Checking: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2512&sess=sess163
+  'Duet: Exploiting High-Order Lossless Sparsity for Bit-Serial Transformer Acceleration via Distribution-Aware Pruning': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1419&sess=sess110
+  Duplication-Aware Retiming and Cell Interface Redesign for Superconductor Circuit Minimization: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH520&sess=sess172
+  'DySL-VLA: Efficient Vision-Language-Action Model Inference via Dynamic-Static Layer-Skipping for Robot Manipulation': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2721&sess=sess146
+  Dynamic CDC Verification Using SVA for Waiver Review: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST342&sess=sess296
+  Dynamic-Cost Area Recovery for Fracturable LUT-Based FPGAs: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1183&sess=sess172
+  'Dypamear: Efficient and Scalable Dynamic Graph Pattern Mining on Practical Processing-in-Memory Architecture': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2123&sess=sess139
+  'EARL: Entropy-Aware RL Alignment of LLMs for Reliable RTL Code Generation': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1612&sess=sess166
+  'EASY-ZKP: An End-to-End FPGA-Accelerated System for Zero Knowledge Proofs': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2504&sess=sess174
+  ECO Strategy for BIG DIE SOC Convergence: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST209&sess=sess296
+  EDA Opportunities in Building High Performance AI Accelerators: https://63dac.conference-program.com/?post_type=page&p=16&id=ST104&sess=sess184
+  'EHPC: Efficient Heterogeneous Probabilistic Computing Architecture for Combinatorial Optimization Acceleration': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2817&sess=sess174
+  'ENACT: Ensemble Neural Fields for Reactive Robot Control': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2959&sess=sess177
+  ENHANCED AUTOMATION FOR GENERATING LOGIC-OPTIMIZATION ECOs (EAGLE) IN SIGNOFF: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST393&sess=sess296
+  'EPAR: Electromagnetic Pathways to Architectural Reliability in Quantum Processors': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH3059&sess=sess135
+  'ESCAPE: Elegant Scan Chain Activity Probability Establishment for Programmable Low-Power LBIST': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1180&sess=sess160
+  'EXRA: Efficient Execution of Data-Dominated Applications via ISA Extensions for Expandable Register Files': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2897&sess=sess115
+  'Early Antenna Analysis for IC Design: A Shift-Left Approach to Improve Productivity and Signoff Quality': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST050&sess=sess295
+  Early DEF-Based Hierarchical Power Grid Shorts Analysis: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST332&sess=sess296
+  'Early Design Stage Thermal Prediction and Optimization: Machine-Learning Driven Approach': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH706&sess=sess112
+  Early Thermal Analysis and Silicon Correlation for Face-to-Face 3DIC Physical Design: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES310&sess=sess275
+  Early, Efficient and Scalable Parasitic-Aware Layout Design Methodology for High-Precision ICs: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST145&sess=sess295
+  'EastPCG: An Efficient and Self-Tuning Graph Sparsification Based PCG Solver for Circuit Simulation': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2131&sess=sess112
+  'Ecprefix: Erasure-Coded Prefix KV Cache for Optimizing Load Balancing in Large Language Model Serving': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1632&sess=sess140
+  ? 'EdgeQ‑GEMM: INT4/INT8 Mixed‑Precision GEMM Accelerator with On‑the‑Fly Quantization for Accuracy–Energy Tunability in Edge AI Processors'
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3273&sess=sess307
+  'Edgesc: Universal Stochastic Computing Architecture for Efficient Edge Detection': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH239&sess=sess126
+  ? Efficient Electromagnetic Extraction of Superconducting Circuits Used with Quantum Computers and Rapid Single Flux Quantum Designs
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST462&sess=sess297
+  Efficient HLS Accelerator Floorplan on Multi-Die FPGA Aided by Graph Neural Networks: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2048&sess=sess173
+  Efficient IR-Aware Powergrid Optimization: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES318&sess=sess276
+  Efficient Power Management in USB4 Routers: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST109&sess=sess295
+  Efficient Power Modeling of Multi-Domain Clock Gating Circuits: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES334&sess=sess278
+  Efficient Routing and Connectivity Repair for Large-Scale Hierarchical Metal Networks: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES399&sess=sess279
+  'Emudrop: A Minimalistic, Hardware-Based Emulation Detection Approach Through Intel Reserved Opcodes': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH663&sess=sess131
+  Enabling AI ASICs for Zero Knowledge Proof: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2888&sess=sess122
+  Enabling AI Agent Flows for Verification Triage & Debug: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES420&sess=sess267
+  ? Enabling Automated Software Testing in Emulation Environments via Fastboot Virtualization and On-Premises LLM-Based Failure Analysis
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES061&sess=sess263
+  Enabling Early Thermal Insight in Heterogeneous Integration Through Implementation-Driven Power Modeling: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES395&sess=sess276
+  Enabling PSS-Driven Early SoC Verification By Enriching IP-XACT Information: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES228&sess=sess262
+  Enabling Robust On-Device Personalization via Pulse-Based Mapping and Noise Suppression for Non-Ideal CIM Architecture: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2128&sess=sess139
+  Enabling Time-Aware Systems Across Silicon-System Boundary: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST330&sess=sess264
+  ? End-to-End Physical Design Automation Flow for Yield-Optimized Inverse-Designed Large-Scale Electronic-Photonic Integrated Circuits
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=SSSN122&sess=sess255
+  Energy-Efficient Edge AI and Autonomy: https://63dac.conference-program.com/?post_type=page&p=16&id=TUT103&sess=sess194
+  'Energyhdc: Intermittent Hyperdimensional Inference on Energy-Harvesting IoT': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH962&sess=sess158
+  Engineering Life - Where Biology and Technology Meet: https://63dac.conference-program.com/?post_type=page&p=16&id=K103&sess=sess180
+  Enhancing Scientific Discovery via Reliability vs Performance Trade-Offs for Scientific Computing at Sun-Earth L2: https://63dac.conference-program.com/?post_type=page&p=16&id=SSSN116&sess=sess253
+  ? 'Enhancing Thermal Aware Optimization for 3D Heterogeneous Chiplets Integration: A System-Technology Co-Optimization (STCO) Perspective on Spatial-Temporal Temperature Uniformity'
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST089&sess=sess264
+  Enhancing UVM RAL for Secure and Privileged Flash Memory Interface Verification Using Cadence AMBA VIP: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST253&sess=sess296
+  Enhancing the Robustness of Impinj RAIN RFID Design Through the Application of AI-Powered Process Flow: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST323&sess=sess295
+  'Epicell: Electro-Physical Co-Modeling for Standard Cell PPA Prediction': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH550&sess=sess153
+  'Escaping Flatland: A Placement Flow for Enabling 3D FPGAs': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH3100&sess=sess175
+  'Etch-Vigen: A Video Generation Model for Etching Simulation': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3295&sess=sess307
+  'Etherssd: An In-Storage Ethereum Analytics Platform with Minimized I/O and Authentication Overhead': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH297&sess=sess161
+  Excavating Consistency Across Editing Steps for Effective Multi-Step Image Editing: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2778&sess=sess177
+  'Expcheck: Dynamic Expert-Aware Checkpointing for Mixture-of-Experts Based Models': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1414&sess=sess161
+  'Expertflow: Efficient Mixture-of-Experts Inference via Predictive Expert Caching and Token Scheduling': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2199&sess=sess140
+  'Exploiting Dependency and Parallelism: Real-Time Scheduling and Analysis for GPU Tasks': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1524&sess=sess146
+  Exploiting Function-Family Structure in Analog Circuit Optimization: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH951&sess=sess118
+  Exploiting Movable Logical Qubits for Lattice Surgery Compilation: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2596&sess=sess134
+  'Exploiting Per-Core Leakage: Electromagnetic Side-Channel Monitoring of Multicore Architectures': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH213&sess=sess131
+  'Exquant: Global Expert Ranking–guided Mixed-Precision Quantization for Efficient MoE Inference': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH121&sess=sess145
+  'E³-CODE: Embedded and Efficient Error-Correcting Code for Error-Resilient Neural Networks': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH800&sess=sess158
+  'FBS: Accelerating CNN Inference over RNS-CKKS with Fewer Bootstrapping Sparsity': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1187&sess=sess150
+  'FILCO: Flexible Composing Architecture with Real-Time Reconfigurability for DNN Acceleration': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1569&sess=sess175
+  'FLASH3D: A Fast Layered Analytical Solver for High-Accuracy Steady-State Thermal Simulation of 3D ICs': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1065&sess=sess112
+  FPGA-to-ASIC Conversion via Hierarchical Wrapping: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST404&sess=sess296
+  'FSGen: Agile Fused and Sparse Accelerator Generator with Accurate Power Model for LLM Applications': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH868&sess=sess156
+  'FUSE-TCAD: A Diffusion-Based Multi-Field Surrogate for High-Fidelity TCAD Device Simulation': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1156&sess=sess117
+  'Factored Floating-Point MAC: Eliminating Redundant Normalization for Energy-Efficient Systolic Arrays': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1837&sess=sess130
+  'Fair Play in the Multiplex: Formal Verification of Complex Arbmux Designs': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST448&sess=sess296
+  Fast Template Matching for Quantum Circuits Using Hypergraph: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1052&sess=sess133
+  Fast and Accurate RRAM Write-and-Verify via Hadamard-Encoded Read and ADC-Energy-Reduced HARP: https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3302&sess=sess307
+  'Faster-MoA: Low-Latency Tree-Structured MoA Serving with Early Exit and Agent-Aware Prefill-Decode Overlap': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH628&sess=sess124
+  Finding Behavior Bugs in IoT Messaging Protocols with Automated Oracle Generation and Monitoring: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH177&sess=sess146
+  ? 'First-Time-Right Power Analysis: Data-Driven Test Selection Through Real-Time Validation of Clocks, Gating and Traffic-Dependent Metrics'
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST326&sess=sess264
+  'Flashfps: Efficient Farthest Point Sampling for Large-Scale Point Clouds via Pruning and Caching': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH124&sess=sess177
+  'Flashhd: A Flash-Based In-Storage Hyperdimensional Computing Framework for Hierarchical Sequence Matching': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2773&sess=sess161
+  Flexible & Scalable Network Modeling for AI/HPC Network Verification: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST463&sess=sess223
+  'Flexible NoC IP: Software Based Configuration and Fast Performance Validation': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST408&sess=sess296
+  'Flexicts: CPPR-Aware 3D Clock Tree Synthesis for Face-to-Face Bonded ICs': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH518&sess=sess114
+  Flip-FET-Based VLSI Design Framework with Congestion-Aware Dual-Side Routing: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2139&sess=sess136
+  Floquet-Based Subspace Projection Method for Time-Domain PPV Computation: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2838&sess=sess117
+  'Florella: Accelerating Graph Neural Networks by Sliding Reduction Convention and Flexible Architecture': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH588&sess=sess156
+  'Flowplace: Flow Matching for Chip Placement': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2476&sess=sess177
+  Formal Verification Engineering for Integer Vector Neural Network Instructions: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST452&sess=sess296
+  Formally Validating Industry Standard BCH‑ECC/CRC Codes – A Step by Step Recipe: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES028&sess=sess266
+  Foundry-SRAM-Compatible Compute-Near-Memory Macro for Microscaled Block-FP in 12-nm CMOS: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1605&sess=sess139
+  Free Hand Routing- Sketch to Layout: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST403&sess=sess296
+  'Freebit: Unleashing the Performance Potential of Low-Bit LLMs Through PIM': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH146&sess=sess138
+  'Freezone: An On-Device Out-of-Order Writes Reordering Scheme for Consumer Zoned Storage': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH698&sess=sess162
+  'FreqSEM: Frequency-Aware High-Precision Contour Extraction for Lithographic SEM Images': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1298&sess=sess160
+  'From 7nm to 7Å: A Retrospective Looking into the Future': https://63dac.conference-program.com/?post_type=page&p=16&id=ST103&sess=sess183
+  'From Block to Range: Rethinking the Fundamental Unit of Log-Structured File Systems for ZNS SSDs': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2637&sess=sess162
+  From Bottleneck to Breakthrough! Accelerating Circuit Verification Beyond Expectations: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST265&sess=sess296
+  ? From Broken Regression to Root-Cause Commit in One Click A Two-Stage Regression-Aware Git-Bisect Framework for Large-Scale Hardware Verification
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST277&sess=sess295
+  'From Characterization to Microarchitecture: Designing an Elegant and Reliable BFP-Based NPU': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1139&sess=sess158
+  From Concept to PPA Confidence - Methodology for Rapid RTL Evaluation and Signoff with Joules RTL Design Studio.: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST146&sess=sess295
+  'From Design to Defense: Pioneering Pre-Silicon Leakage Detection for Novel ECC Crypto Core': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES347&sess=sess273
+  ? 'From Fab to Mask Shop: A Differentiable MDP-ILT Framework for Co-Optimization of Wafer Pattern Fidelity and Mask Writability'
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1287&sess=sess154
+  'From Fluid Dynamics to Chip Design: PDE Foundation Model Address Data Bottleneck in 3D-ICs Thermal Simulation': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH553&sess=sess167
+  From Fundamental Science to Building a Superconducting Quantum Computer: https://63dac.conference-program.com/?post_type=page&p=16&id=K101&sess=sess178
+  'From Hype to Impact: Where Agentic AI Actually Delivers Value in Chip Design Today': https://63dac.conference-program.com/?post_type=page&p=16&id=TT103&sess=sess188
+  'From RTL to Reality: Building Security into the Silicon Lifecycle': https://63dac.conference-program.com/?post_type=page&p=16&id=PAV103&sess=sess216
+  'From Silicon to Systems: Heterogeneous Integration as the Engine of AI Performance': https://63dac.conference-program.com/?post_type=page&p=16&id=ST102&sess=sess182
+  'From Tools to Agents: Realizing Fully Autonomous EDA Workflows': https://63dac.conference-program.com/?post_type=page&p=16&id=TT101&sess=sess186
+  'From Vibe Coding to Silicon: Engineering Agentic Systems for Hardware Design': https://63dac.conference-program.com/?post_type=page&p=16&id=TUT102&sess=sess193
+  Fully Automated On‑Chip Inductor Synthesis for High‑Frequency VCO with ML Based Optimization Flow: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST193&sess=sess295
+  'Fusedot: A Multiplication-Fused Dot Product Accelerator for Efficient LLM Inference': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1182&sess=sess156
+  'G-Matcher: GPU-Accelerated Multi-Level, Multi-Stage Framework for Large-Scale Layout Pattern Matching': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1434&sess=sess136
+  'G-Power: Architecture-Level GPU Power Modeling with Aggregated Knowledge Foundations from Known GPUs': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1431&sess=sess115
+  'GEMIR: Graph-Based Joint Modeling of Electromigration and IR Drop for Power Grid': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH046&sess=sess112
+  'GEMM-GS: Accelerating 3D Gaussian Splatting on Tensor Cores with GEMM-Compatible Blending': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH054&sess=sess137
+  'GOOGLE: From Infrastructure to AI: Taping Out Data Center Silicon on a Workload-Optimized, Agent-Driven EDA Stack': https://63dac.conference-program.com/?post_type=page&p=16&id=EF104&sess=sess240
+  'GPU-Fuzz: Finding Memory Errors in Deep Learning Frameworks': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2056&sess=sess152
+  'GRACE: A Ground Plane Generation and Re-Routing Aware Co-Design Engine': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1473&sess=sess129
+  GREAT (gen-AI Red-Team Evaluation of Microelectronics Assurance and Trust): https://63dac.conference-program.com/?post_type=page&p=16&id=WKSHP104&sess=sess198
+  'GREEN: Towards Scalable Energy-Efficient Workload Scheduling and Placement in the Cloud': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2970&sess=sess141
+  'GSR-GNN: Training Acceleration and Memory-Saving Framework of Deep GNNs on Circuit Graph': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH795&sess=sess177
+  'GTX: Graph Transformer for Parasitic Extraction on Analog Circuits': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2177&sess=sess117
+  'Galaxydit: Efficient Video Generation with Guidance Alignment and Adaptive Proxy in Diffusion Transformers': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH999&sess=sess124
+  Gaps Between MBSE and Semiconductor Design in Aerospace and Defense, Will They Ever Connect?: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGINV004&sess=sess287
+  'Gearls: Generalizable Reinforcement Learning Framework for Logic Optimization via Policy Similarity Metric': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1042&sess=sess172
+  'GenAI for Aerospace and Defense Silicon: Design Authority or Design Assist?': https://63dac.conference-program.com/?post_type=page&p=16&id=PANEL103&sess=sess206
+  'GenDSE: Generative CPU Design Space Exploration via Sequential Decision Making': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1047&sess=sess113
+  Generalized Structural Bias Analysis for Corrupt-and-Correct Logic Locking: https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3304&sess=sess307
+  Google's Faster and Earlier Chip Finishing with Seamless Power Grid Enhancement Integration: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST303&sess=sess296
+  Graph Isomorphism for Explainable Transistor-Level Circuit Comparison: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES346&sess=sess278
+  Graph-Based Attack-Chain Traceback Across Multiple In-Vehicle Network Domains: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1920&sess=sess122
+  'Greenllm: SLO-Aware Dynamic Frequency Scaling for Energy-Efficient LLM Serving': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH976&sess=sess124
+  'Gwrite: Offloading Replication in Disaggregated Memory Systems': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH444&sess=sess169
+  'Gzswap: Mitigating GPU I/O Bottlenecks in Heterogeneous Memory Systems Through On-Device Zswap': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3286&sess=sess307
+  'HAP: Efficient Quantization Harnessing Adaptive Precision for DNN Hardware Acceleration': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1999&sess=sess142
+  'HDDB: Efficient In-Storage SQL Database Search Using Hyperdimensional Computing on Ferroelectric NAND Flash': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1619&sess=sess120
+  'HIP-MaN: Hippocampus-Inspired Periodic Mapping and Navigation for Autonomous Mobile Robot': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2670&sess=sess121
+  'HP-CIM: A Computing-in-Memory Transformer Accelerator with ReRAM-Based Hash Predictor for Attention Sparsity Exploitation': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2330&sess=sess138
+  'HRL-Topo: Hierarchical Reinforcement Learning with Large Language Models for Analog Circuit Topology Synthesis': https://63dac.conference-program.com/?post_type=page&p=16&id=SSSN103&sess=sess250
+  'HW-Router: Hardware-Aware Routing for Scalable Multi-LLM Serving': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH3129&sess=sess140
+  'HYPER-CIM: Hierarchical Predictive Exploration and Realizable Design Flow for High-Efficient Digital CIM': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1101&sess=sess123
+  'Hades: Harnessing Architecture Design Automation for Application-Specific FHE Accelerators': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH912&sess=sess122
+  'Handling Timing Loops Across Non-Resettable Flops in a Synchronous Resets Design: An Innovative Technique': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST079&sess=sess264
+  Hardening Security of HW IPs by Verifying Their Negative Space Formally: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES327&sess=sess266
+  Hardware-Aware Neural Architecture Search for Real-Time BEV-Based 3D Object Detection: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1878&sess=sess176
+  'Hbspec: A Hybrid-Bonding-Based Heterogeneous Accelerator for Efficient Tree-Structured Speculative Decoding': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2417&sess=sess142
+  'Hero: Adaptive Orchestration of Retrieval-Augmented Generation on Heterogeneous Mobile SoC': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2300&sess=sess141
+  'Hestia: Hyperthread-Level Scheduling for Cloud Microservices with Interference-Aware Attention': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2395&sess=sess171
+  ? 'Hiband: A Hierarchical Bandwidth-Aware HB-DRAM Accelerator with Array-Level Co-Execution and Reconfigurable NoC for LLM Inference'
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH282&sess=sess142
+  'HierPAS: Accelerating Video Generation Models with Hierarchical Precision and Adaptive Sparsity': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH259&sess=sess127
+  'Hierarchical Boundary Recovery: Overcoming Synthesis Obscurity via SAT Sweeping': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1638&sess=sess173
+  Hierarchical Cost-Efficient IR Methodology for AI SoCs: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST417&sess=sess296
+  ? Hierarchical Functional Fault Grading with Auto-Identification of Observation Points for Faster Fault Coverage Closer in Complex SoCs
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES092&sess=sess277
+  Hierarchical IP Block Resizing on the Fly: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST251&sess=sess296
+  Hierarchical Learning–based Digital Circuit Design Tuning Framework for Power-Delay Optimization: https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3152&sess=sess307
+  Hierarchical ML-Framework for Rapid RDL and Bump Optimisation in GPIO-Encroached Flip-Chip SoCs: https://63dac.conference-program.com/?post_type=page&p=16&id=LBR007&sess=sess308
+  Hierarchical Pareto-Prompted Optimization for Probabilistic DAG Scheduling on Real-Time Systems: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2360&sess=sess115
+  ? 'High Fan-in Dynamic Leakage Suppression Standard Cells for Improved Power, Performance, and Area in Ultra-Low Power Circuits Authors: Suprio Bhattacharya and Benton Highsmith Calhoun'
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3292&sess=sess307
+  Highly-Parallel Atom-Detection Accelerator for Tweezer-Based Neutral Atom Quantum Computers: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2540&sess=sess135
+  'Holocode: Hybrid Optical-Electronic Edge Encoding for Privacy-Preserving Cloud Training': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2996&sess=sess150
+  How Can Reinforcement Learning Achieve Expert-Level Placement?: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2560&sess=sess177
+  'Hunting RTL Glitches Before They Burn Power: A Practical RTL Success Story': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES338&sess=sess268
+  'HyPAS: A Hybrid Optimization Framework for Placement and Sizing Co-Optimization': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1317&sess=sess132
+  Hybrid PIM-Oriented Architecture-Dataflow Co-Design for Heterogeneous LLM Inference: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2432&sess=sess141
+  'Hyperanalog: Domain-Aware Hypergraph Transformer for Analog Circuit Representation Learning': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH445&sess=sess125
+  'Hyperefs: Adaptive Clique Sampling for Scalable Effective Resistance Estimation in Large Hypergraphs': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2887&sess=sess129
+  'Hyperlidar: Adaptive Post-Deployment LiDAR Segmentation via Hyperdimensional Computing': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1960&sess=sess158
+  'Hyperwafer: Communication-Aware Sparse Matrix Multiplication on Wafer-Scale Chips': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2132&sess=sess169
+  'Hyspecpro: Scalable Hypergraph Partitioning via Spectral Projection Optimization': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2694&sess=sess129
+  'IEEE 2416 Working Group Meeting: Kickoff for Next Revision': https://63dac.conference-program.com/?post_type=page&p=16&id=AM108&sess=sess208
+  'IGNITE: An Inquisitive and Graph-Aware Neural Circuit Simulator with Two-Stage Enhanced In-Context Learning': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1420&sess=sess117
+  INTENT-AWARE RDC ANALYSIS USING MINIMALLY BOOLEAN REASONING: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST371&sess=sess296
+  IR-Drop Aware Global Placement with PDN Optimization and GPU-Accelerated Analysis for Mitigating Global and Local IR-Drop: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2297&sess=sess132
+  'ISA-PM: A Unified ISA Extension and Microarchitecture Enabling Efficient ECPM in IoT Devices': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2824&sess=sess174
+  'Icarus''s Wings: Disabling MoE Offloading Acceleration via a Universal Hidden Prefix Attack': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1054&sess=sess150
+  'Idealsim: Efficient Ideal Scenario Modeling for Processor Upper-Bound Performance Analysis': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH690&sess=sess114
+  'Identifying Weakest Links: A Cell Scoring Metric for Robust Design in Advanced Nodes': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST097&sess=sess295
+  'Ihyperg: Incremental Hypergraph Partitioning on GPU': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH223&sess=sess129
+  'Impart: Integration of Memetic Operations into Multi-Level Framework for Large-k-Way Hypergraph Partitioning': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1292&sess=sess129
+  Implementing Secure Boot, Attestation and Secure Storage in Systems in Package: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST410&sess=sess264
+  ? Improving Software Libraries Used as Safety Diagnostics for DSPs with DCLS, in Next-Gen Battery Management Systems, to Achieve ASIL-D
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST378&sess=sess264
+  In-Memory ADC-Based Nonlinear Activation Quantization for Efficient In-Memory Computing: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2282&sess=sess138
+  In-Memory Architectures and Computing Applications Workshop (iMACAW): https://63dac.conference-program.com/?post_type=page&p=16&id=WKSHP102&sess=sess196
+  In-Situ Architecture for Detecting and Mitigating Off-Chip Interface Attacks: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES126&sess=sess273
+  'Inferweave: Efficient LLM Inference on the MT-3000 Processor': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1466&sess=sess124
+  Innovative Multiplatform Framework Boosting 10BaseT Ethernet Verification for Next-Gen Automotive SoCs: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST052&sess=sess264
+  'Insights from Verification: Training a Verilog Generation LLM Using Reinforcement Learning with Testbench Feedback': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2737&sess=sess173
+  Instruction-Level Side-Channel Disassembly on Modern Complex CPUs via Voltage Waveform Analysis: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2254&sess=sess122
+  Integrated Design Approach for Robust and Area-Efficient IO Ring in Advanced Process Nodes: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST127&sess=sess295
+  Integrated Timing-Driven Placement for Hybrid-Bonding-Based Face-to-Face 3D ICs: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH900&sess=sess132
+  Integrating LLMs into a Two-Tier Traditional Methodology for Automated Verilog Code Generation: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2545&sess=sess173
+  'Intelligent Clock Domain Crossing: Activity-Aware Synchronization for Low-Power SoCs': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES033&sess=sess268
+  Invariant-Driven Contract-Based Formal Verification for Scalable Compositional Proofs: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST114&sess=sess264
+  Is 2D Gaussian Enough? A Sort-Free 3D Gaussian Splatting Inference Architecture with Geometry Guidance: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1096&sess=sess157
+  Is EDA AI Delivering on Its ROI Promise?: https://63dac.conference-program.com/?post_type=page&p=16&id=PAV104&sess=sess220
+  Is the EDA Industry Fundamentally Ill-Prepared for True 3D Heterogeneous Integration?: https://63dac.conference-program.com/?post_type=page&p=16&id=PANEL105&sess=sess203
+  ? Isolated Lightning Rod Diode Structure for Process-Induced Discharge (PID) Dissipation to Reduce Leakage on Integrated Passive Device (IPD)
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST267&sess=sess296
+  'Janus: Compiler-Based Defense Against Transient Execution Attacks Using ARM Hardware Primitives': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1444&sess=sess131
+  'Jsplace: A Shape-Controllable and Length-Matching Placement for Rapid Single-Flux-Quantum Circuits': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH875&sess=sess169
+  'KCD-CAM: A K-Nearest-Neighbor Accelerator Based on Charge-Domain Content-Addressable-Memory for Point Cloud Processing': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1499&sess=sess123
+  'KEEP: A KV-Cache-Centric Memory Management System for Efficient Embodied Planning': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1081&sess=sess137
+  'KERV: Kinematic-Rectified Speculative Decoding for Embodied VLA Models': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1900&sess=sess126
+  'KEYSIGHT TECHNOLOGIES: AI at the RF Frontier: De-Risk and Accelerate Next-Gen Custom RF/MW Design': https://63dac.conference-program.com/?post_type=page&p=16&id=EF107&sess=sess233
+  'KL-MoE: A Hierarchical MoE Pruning Framework Exploiting KL Divergence': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH094&sess=sess145
+  'Keeping PIM Busy: Eliminating Execution Overheads for Full Throughput': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1322&sess=sess116
+  Knowledge-Driven Hybrid SSD Management Enhanced by Fine-Tuned LLMs: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH609&sess=sess161
+  'L2L: Logic to Layout Exploration of Standard Cell Library Design': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1765&sess=sess153
+  'LATTE: Legality-Assured Differentiable Timing-Driven Detailed Placement': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH373&sess=sess132
+  'LEAP: A Self-Supervised Per-Cycle Toggle Propagation Model Supports Fast, Transferable, and Early Analysis of Layout Power': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH906&sess=sess112
+  'LEXI: Lossless Exponent Coding for Efficient Inter-Chiplet Communication in Hybrid LLMs': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH3121&sess=sess113
+  LLM Benchmarking for Chip Design – Strategic Outlook and Industry Panel: https://63dac.conference-program.com/?post_type=page&p=16&id=AM107&sess=sess208
+  'LLM for EDA in Front-End Design: Challenges and Opportunities': https://63dac.conference-program.com/?post_type=page&p=16&id=SSSN107&sess=sess251
+  'LLM- and RL-Boosted Agentic AI: the Perfect Blend for Analog/rf Circuits from Spec to Layout': https://63dac.conference-program.com/?post_type=page&p=16&id=SSSN102&sess=sess250
+  LLM-Aided Cell Clustering for Placement Optimization of DRAM Peripheral Circuits: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST473&sess=sess224
+  LLM-Based Automatic Architecture Optimization for AI Model HLS Implementation on FPGA: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1110&sess=sess173
+  LLM-Enhanced Two-Stage Signal Temporal Logic Automatic Transformation with Structured Intermediate Representation: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2829&sess=sess158
+  'LLM4SDC: Leveraging Multi-Agent System for Automated SDC Generation and Benchmarking': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2642&sess=sess166
+  'LLMVA: LLMs Empowered Verilog-A Iterative for MRAM Design Technology Co-Optimization': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH179&sess=sess153
+  'LOHA: A Latency-Optimized CPU-Storage Hybrid Architecture for Billion-Scale Graph-Based Vector Similarity Search': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1560&sess=sess119
+  'LRTA: Routability-Driven 3D-Aware Track Assignment with Layer Reassignment': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2037&sess=sess136
+  LSTM-Based Performance Modeling for Enhanced Peak Memory Prediction in Layout Versus Schematic Verification Tools: https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3308&sess=sess307
+  'LUNA: LUT-Based Neural Architecture for Fast and Low-Cost Qubit Readout': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2914&sess=sess135
+  'Late Breaking Results: "describing" Your Way to a Functional Microfluidic Chip': https://63dac.conference-program.com/?post_type=page&p=16&id=LBR005&sess=sess308
+  'Late Breaking Results: 3D Analytical Placement with Smoothed Multi-Die Wirelength Model': https://63dac.conference-program.com/?post_type=page&p=16&id=LBR049&sess=sess308
+  ? 'Late Breaking Results: A Coarse-to-Fine PCB Placement Framework via LLM-Guided Component Grouping and Group-Aware Placement'
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=LBR107&sess=sess308
+  'Late Breaking Results: A Fully Differentiable Rectilinear Minimum Spanning Tree Wirelength Model for Global Placement': https://63dac.conference-program.com/?post_type=page&p=16&id=LBR019&sess=sess308
+  'Late Breaking Results: A High-Performance TFHE Bootstrapping Accelerator with Heterogeneous Processing Engines': https://63dac.conference-program.com/?post_type=page&p=16&id=LBR090&sess=sess308
+  ? 'Late Breaking Results: A Neuromorphic Accelerator for Efficient Multi-Head Attention Processing in Spiking Vision Transformers'
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3215&sess=sess307
+  ? 'Late Breaking Results: A Resource-Constrained Co-Design Framework for Enabling Heterogeneous Quantum Chiplet Ensembles via Circuit Cutting'
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3203&sess=sess307
+  'Late Breaking Results: A Scalable and Efficient Multi-Layer 3D-Printed Microfluidic Design Synthesis': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3163&sess=sess307
+  ? 'Late Breaking Results: A Unified Analytical Framework for MBFF Clustering and Placement for Timing, Power, and Area Co-Optimization'
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=LBR060&sess=sess308
+  'Late Breaking Results: Analog Circuit Sizing Optimization Using Procrustes-Guided Machine Learning Heuristics': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3171&sess=sess307
+  'Late Breaking Results: Analog Circuit Sizing via LLM-Guided Heuristic Search with Metric Difficulty Awareness': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3260&sess=sess307
+  'Late Breaking Results: Astfusion -- Two-Stage Structural Enhancement Learning for Robust HLS Code Generation': https://63dac.conference-program.com/?post_type=page&p=16&id=LBR054&sess=sess308
+  'Late Breaking Results: Audio-Language-Action Models with Direct Speech Conditioning for Robotic Manipulation': https://63dac.conference-program.com/?post_type=page&p=16&id=LBR144&sess=sess308
+  ? 'Late Breaking Results: Die Area and Temperature Co-Optimization for Thermal Throttling Mitigation in Mobile Application Processors'
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3187&sess=sess307
+  'Late Breaking Results: EIV-Aware Backside PDN Synthesis Under Strict nTSV Spacing Constraints': https://63dac.conference-program.com/?post_type=page&p=16&id=LBR021&sess=sess308
+  'Late Breaking Results: Efficient MoE-ViT Gating on Edge Accelerator via Dynamic Expert Routing and Quantized Router': https://63dac.conference-program.com/?post_type=page&p=16&id=LBR032&sess=sess308
+  'Late Breaking Results: Encoding-in-Memory via Generating True Random One-Time Password': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3168&sess=sess307
+  'Late Breaking Results: Energy-Aware Scheduling of Open-Vocabulary Detection on Low-Power Mobile Robots': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3266&sess=sess307
+  'Late Breaking Results: Fast Energy-Aware Neural Network Modeling for Efficient FPGA-Based Inference': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3209&sess=sess307
+  'Late Breaking Results: FeMFET Multi-Level Cell Capacity Limits for SNN-Based Compute-in-Memory Inference': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3265&sess=sess307
+  'Late Breaking Results: Fisher-Guided Selective Error Reconstruction for Quantized LLMs': https://63dac.conference-program.com/?post_type=page&p=16&id=LBR080&sess=sess308
+  'Late Breaking Results: Guiding Compiler Optimizations for Neutral Atom Quantum Computers Through Visualizations': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3167&sess=sess307
+  'Late Breaking Results: HUSH: Silencing Inter-Core Interference in Real-Time Cache Analysis': https://63dac.conference-program.com/?post_type=page&p=16&id=LBR130&sess=sess308
+  'Late Breaking Results: Hardware-Aware Compilation Reshapes Trainability in Variational Quantum Circuits': https://63dac.conference-program.com/?post_type=page&p=16&id=LBR048&sess=sess308
+  'Late Breaking Results: Hardware-Efficient PQ Search Framework for Sparse Coding-Based KV Cache Compression': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3212&sess=sess307
+  'Late Breaking Results: Hardware-Efficient Quantum Reservoir Computing via Quantized Readout': https://63dac.conference-program.com/?post_type=page&p=16&id=LBR127&sess=sess308
+  'Late Breaking Results: High-Fidelity Simulation and Real-Time Forecasting of Fluid-Solute-Coupled Microfluidics': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3185&sess=sess307
+  'Late Breaking Results: Hightide: an Open-Source Hardware Benchmark Suite': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3252&sess=sess307
+  'Late Breaking Results: Hybrid-Bonding Architecture with Stage-Aware Mapping for Masked Autoregressive Model Inference': https://63dac.conference-program.com/?post_type=page&p=16&id=LBR160&sess=sess308
+  'Late Breaking Results: Influential Data Selection for LLM-Based RTL Generation': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3242&sess=sess307
+  'Late Breaking Results: LLM-Driven Constraint Generation and Deferred Shape Exploration for Analog IC Floorplanning': https://63dac.conference-program.com/?post_type=page&p=16&id=LBR119&sess=sess308
+  ? 'Late Breaking Results: Merge-Aware Placement and DP-Based Wave Propagation Routing for Scalable Flip-FET Cell Layout Synthesis'
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=LBR039&sess=sess308
+  'Late Breaking Results: Micro-Dense Tensor-Core-Aligned N:M Sparse Kernel for Efficient Inference Acceleration': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3193&sess=sess307
+  ? 'Late Breaking Results: Nano-TSV Assignment for Backside Power Delivery Network Designs Considering Stress and IR-Drop Effects'
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=LBR061&sess=sess308
+  'Late Breaking Results: Novel Qubit Mapping for Two-Dimensional Trapped-Ion Quantum Computing Systems': https://63dac.conference-program.com/?post_type=page&p=16&id=LBR038&sess=sess308
+  'Late Breaking Results: Physics-Aware Diffusion Framework for Transistor-Level Placement Beyond Standard-Cell Boundary': https://63dac.conference-program.com/?post_type=page&p=16&id=LBR095&sess=sess308
+  'Late Breaking Results: Power Mesh Construction for 3D-IC with Backside Power Delivery': https://63dac.conference-program.com/?post_type=page&p=16&id=LBR008&sess=sess308
+  'Late Breaking Results: Q-STEP: A Cross-Layer Design and Validation Framework for Advancing Quantum Sensing': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3243&sess=sess307
+  'Late Breaking Results: QUBO Approaches to Logic Equivalence Checking and Testing': https://63dac.conference-program.com/?post_type=page&p=16&id=LBR082&sess=sess308
+  'Late Breaking Results: Quantum-Aware Model Compression Techniques for Scalable Quantum Machine Learning': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3216&sess=sess307
+  'Late Breaking Results: ROAST: Reverse-Training Offset Attack on Spatial Sampling Topologies': https://63dac.conference-program.com/?post_type=page&p=16&id=LBR068&sess=sess308
+  'Late Breaking Results: Recoverability-Guided Layer-Wise N:M Sparsity Under Latency Constraints': https://63dac.conference-program.com/?post_type=page&p=16&id=LBR052&sess=sess308
+  'Late Breaking Results: Scalable OARSMT Generation via Predictive Topological Reduction in VLSI Routing': https://63dac.conference-program.com/?post_type=page&p=16&id=LBR092&sess=sess308
+  'Late Breaking Results: Structured Expert Routing for Efficient MoE Inference Under GPU–CPU Orchestration': https://63dac.conference-program.com/?post_type=page&p=16&id=LBR088&sess=sess308
+  ? 'Late Breaking Results: Synthesizable 8-Bit Digital Memristor Emulator with Programmable State Retention for Accelerated Edge Computing'
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3208&sess=sess307
+  'Late Breaking Results: Tiny Brain, Big World: Autonomous MCU-Friendly Navigation for Mapless Dynamic Environments': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3162&sess=sess307
+  'Late Breaking Results: Toward a Foundation Model for 3DIC Thermal Analysis and Beyond': https://63dac.conference-program.com/?post_type=page&p=16&id=LBR154&sess=sess308
+  'Late Breaking Results: Towards Low-Latency TinyML via Regularized Activation Packing': https://63dac.conference-program.com/?post_type=page&p=16&id=LBR098&sess=sess308
+  'Late Breaking Results: Training-Free CCS Library Generation via Voltage Domain Transformation and PCHIP Interpolation': https://63dac.conference-program.com/?post_type=page&p=16&id=LBR073&sess=sess308
+  'Late Breaking Results: Unified PCB Routing Considering Pair-Spacing and Width-Range Constraints': https://63dac.conference-program.com/?post_type=page&p=16&id=LBR062&sess=sess308
+  'Late-Breaking Results: QML for Quantum Sensing Under Measurement-Induced Information Loss': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3263&sess=sess307
+  'Late-Breaking Results: Ultra Energy Efficient Personalized Glucose Prediction with RLS Implementation on a Tiny FPGA': https://63dac.conference-program.com/?post_type=page&p=16&id=LBR097&sess=sess308
+  'Leak-CIM: A PVT-Robust and Energy-Efficient SRAM-CIM Macro Exploiting Transistor Leakage': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3303&sess=sess307
+  'Learning the "why": Causal-Aware Learning in Explainable and Efficient CPU Design Optimization': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH271&sess=sess141
+  Learning-Based Slack-Aware Timing-Driven Global Placement for Large-Scale Heterogeneous FPGAs: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1404&sess=sess132
+  'Legend: A Data-Driven Framework for Lemma Generation in Hardware Model Checking': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH523&sess=sess163
+  'Legotherm: Modular and Reusable Thermal Model for Chiplet-Based Heterogeneous Integration': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH132&sess=sess112
+  Leveraging AI-Inspired Hardware Architecture to Enhance LPN Acceleration in Post-Quantum Cryptography: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1822&sess=sess108
+  'Leveraging AI/ML Techniques for Memory Circuit Performance Optimization: Insights from ASO.ai': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES252&sess=sess271
+  Leveraging Invariants for Scalable Verification of RISC-V Cryptography Extensions: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1378&sess=sess163
+  ? Leveraging Liberty Modeling to Enable Validation of Critical Inter-Lane Skew and Sync Symbol Specifications for Multi-Lane High-Speed PHY Transmitter
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST363&sess=sess296
+  'Lhgstore: An In-Memory Learned Graph Storage for Fast Updates and Analytics': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2806&sess=sess141
+  Liberty-Based Profiling for IP Benchmarking: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST099&sess=sess264
+  Library PPA DTCO with Library Profiler: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST161&sess=sess295
+  'Light-Bound Transformers: Hardware-Anchored Robustness for Silicon-Photonic Computer Vision Systems': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH3237&sess=sess141
+  'Lighthouse RL: Sample-Efficient Circuit Optimization via Strategic Reset Points': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3294&sess=sess307
+  'Lightningfno: Ultra-Fast Modeling and Inverse Design for Photonic Matrix-Vector Multiplication Computing Units': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2358&sess=sess169
+  'Lin-Search: Scaling Exact Synthesis of CNOT Circuits via Hybrid Iterative Deepening Search': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2756&sess=sess133
+  Linearly Scalable Algorithms for DFT Static Verification, Coverage Analysis, and Debug at RTL: https://63dac.conference-program.com/?post_type=page&p=16&id=WIP1707&sess=sess307
+  'Lint-Free: A Generative AI Approach to Large Scale Autonomous RTL-Lint Correction': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES314&sess=sess268
+  'Lipcon: A Physics-Aware Spatially Resolved Light Penetration Compensation Method for Low-Cost 3D-Printed Microfluidics': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH397&sess=sess121
+  'LiveVLM: Efficient Online Video Understanding via Streaming-Oriented KV Cache and Retrieval': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH670&sess=sess145
+  Local AI, Models-as-Media, and the Future of Entertainment: https://63dac.conference-program.com/?post_type=page&p=16&id=SSSN127&sess=sess257
+  Local Layout Effect Coverage Check Using Artificial Neural Network-Based Surrogate Models: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES158&sess=sess279
+  'Lockroute: A Spatial Locking Framework for Parallel Global Routing': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3270&sess=sess307
+  Low Power Optimization Through Fast and Accurate Time-Based Power Analysis: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST075&sess=sess295
+  'Lyra: A Hardware-Accelerated RISC-V Verification Framework with Generative Model-Based Processor Fuzzing': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH358&sess=sess164
+  'MACH: Memory-Aware Configuration Generation for Homomorphically Encrypted Neural Networks': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH897&sess=sess150
+  'MALIWAN: Performance and Energy Efficiency Co-Optimization of GEMM on Versal ACAP Architectures': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH693&sess=sess115
+  'MASQ: Accelerating Masked Diffusion via Stage-Wise Multi-Precision Quantization': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1307&sess=sess156
+  'MATCHA: Efficient Deployment of Deep Neural Networks on Multi-Accelerator Heterogeneous Edge SoCs': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1267&sess=sess146
+  'MBA: Mega-Buffer Architecture Based on 1T1C IGZO eDRAM for Efficient LLM Inference': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH509&sess=sess157
+  'METRIC: An MDS-Analog ECC with Minimum Two-Column Redundancy for Fault-Tolerant, Layer-Aware IMC Architecture': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2347&sess=sess169
+  'MICROSOFT: Reengineering Chip Design with Agentic AI and Microsoft Discovery': https://63dac.conference-program.com/?post_type=page&p=16&id=EF106&sess=sess230
+  'MIRAGE: Runtime Scheduling for Multi-Vector Image Retrieval with Hierarchical Decomposition': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2243&sess=sess127
+  ML Based Design Space Prediction for Power Grid Optimization: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST260&sess=sess296
+  ML-Based Sigma Av–aware Switch Cell Optimization: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST467&sess=sess297
+  'ML-Net: Enhanced Interconnect Modeling Through Machine Learning–based Framework and Novel Double-π Networks': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP502&sess=sess307
+  'MOORES LAB AI: Panel: Harnessing AI for SoC Verification: Disruptive or Collaborative?': https://63dac.conference-program.com/?post_type=page&p=16&id=EF111&sess=sess242
+  'MXP: A Posit-Inspired Microscaling Format for Vision-Language Tasks': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2374&sess=sess143
+  Machine Learning Optimizer-Driven Automatic Full Compact Model Extraction Flow Development: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST421&sess=sess296
+  Making Sense of Job Preemption for Distributed Deep Learning Acceleration: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH3208&sess=sess126
+  'Making Story Worlds Feel Alive: Embedded Intelligence and Authored Agency in Themed Entertainment': https://63dac.conference-program.com/?post_type=page&p=16&id=SSSN129&sess=sess257
+  'Maple: Efficient Data-Transfer-Aware Mapping Exploration for NDP-Enabled Edge LLM Inference': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1449&sess=sess116
+  'Mappingevolve: LLM-Driven Code Evolution for Technology Mapping': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH535&sess=sess172
+  'Marlin: I/O-Efficient Prefix KV Cache Retrieval for Long-Prefix LLM Serving': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1331&sess=sess145
+  Mask-Guided Diffusion with Process-Aware Metric Optimization for Long-Tailed Wafer Defect Analysis: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH649&sess=sess160
+  Matching Constraint Driven Synchronous Array Implementation for High-Performance ADCs: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST086&sess=sess264
+  Maximize RoI Through Glitch Power Optimization at Early Design Stage: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST456&sess=sess296
+  Meeting EDA Workload Capacity Needs with AWS for Siemens' Solido Custom IC Technologies: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST263&sess=sess295
+  'Memflow: Characterizing Memory Traffic Contention in Disaggregated Architectures': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2550&sess=sess175
+  ? Methodology to Optimize the Length of Software Test Library (STL) to Reduce Execution-Time to Meet Both System and ISO-26262 ASIL-B Requirements
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST432&sess=sess296
+  Minimizing the Number of Code Switching Operations in Fault-Tolerant Quantum Circuits: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2621&sess=sess134
+  'Mistletunnel: Attacking KASLR on Apple M-Series Silicon with a Novel TLB Side Channel': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH681&sess=sess131
+  'Miter-Aware LUT Mapping: Aligning Structure and Solvability for Efficient Logic Equivalence Checking': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH214&sess=sess163
+  Mixed Transistor Design Closure: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST261&sess=sess296
+  Mixed-Structure Double-Sided Redistribution Layer Routing for Glass Interposer-Based 5.5D ICs: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH799&sess=sess136
+  'MoE-Balance: Unleashing the Full Potential of CPU-GPU Heterogeneity for Efficient MoE Inference': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH461&sess=sess109
+  Model-Based Systems Engineering (MBSE) for Aerospace & Defense: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGINV108&sess=sess284
+  'Modeling DWDM CPO Systems at Scale: Photonic-Electronic Co-Simulation for 100+ Tb/s Interconnects': https://63dac.conference-program.com/?post_type=page&p=16&id=SSSN121&sess=sess255
+  Modeling and Benchmarking Early Fault-Tolerant Quantum Computers: https://63dac.conference-program.com/?post_type=page&p=16&id=SSSN110&sess=sess252
+  Modeling and Optimization of Power MOSFET Device Layouts with Optislang Tool: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES423&sess=sess278
+  Module-Level Placement Using Force-Based Deformation for Efficient Early Design Estimation: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH954&sess=sess129
+  'Moduplace: LLM-Assisted Modular PCB Placement via Preference-Optimized Constraint Graph Generation': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH012&sess=sess129
+  'Morph-Inspect: Structural Assurance for Inserted Logic': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES391&sess=sess269
+  Multi Level EMFI Analysis Flow Using Electromagnetic Field Solver and Chip PDN Model: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST465&sess=sess297
+  Multi-Agent Automated Formal Verification for Automative Applications: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST015&sess=sess264
+  Multi-Agent Generative AI Pipeline for Assisting in Design Verification: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES140&sess=sess267
+  Multi-Cycle Dynamic Vectorless Analysis for Improved PDN Signoff: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST090&sess=sess295
+  Multi-Cycle Interconnect Synthesis in Small to Large Cutting Methodology: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES322&sess=sess277
+  'Multi-Level Intelligent Waveform Orchestration: Specification-Aware Framework for Eliminating Storage-Debug Tradeoffs': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES325&sess=sess267
+  'Multi-Tiered Physical-Aware Formal: Ensuring Latency-Robustness in Power Management Architecture and Design': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST074&sess=sess264
+  Multi‑GPU Tensor‑Level Fusion and Adaptive Memory Management for Private Inference: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH574&sess=sess150
+  'M²CAM: A Multi-Level Memristor-Based Self-Adaptive CAM Architecture for Genome Processing Acceleration': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2708&sess=sess139
+  'N3Litho: A GPU-Native Numerical-Neural Framework for 3D Mask Modeling, 3D Propagation, and 3D Aerial Image Simulation': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1622&sess=sess154
+  'NASiC: 3D NAND-Based CAM-Selected Multibit CIM Architecture for Efficient On-Device Mixture-of-Experts LLM Inference': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1291&sess=sess123
+  'NEAT: A Neutral-Atom Transpiler for Joint Mapping and Scheduling of Syndrome Extraction Circuits': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1036&sess=sess134
+  'NIAQ: Adaptive Non-Ideality-Aware Qubit Readout for Long-Term Accuracy': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1200&sess=sess135
+  'NORMAL COMPUTING: AI-Native EDA: Why the Ceiling Is Architectural, Not Model-Dependent': https://63dac.conference-program.com/?post_type=page&p=16&id=EF113&sess=sess259
+  NPU-Based Energy-Efficient LLM Inference for Semiconductor Equipment Control Code Generation: https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3170&sess=sess307
+  'NVLLM: A 3D NAND-Centric Architecture Enabling Edge on-Device LLM Inference': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1570&sess=sess116
+  'Nash: A Neighbor-Aware Shared Memory Design on GPU for Accelerating AI Workloads': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2489&sess=sess161
+  Near-Memory Processing is Becoming a Reality: https://63dac.conference-program.com/?post_type=page&p=16&id=SSSN120&sess=sess254
+  Need Pre-RTL Power? Have More Corners than You Can Afford? Test Drive an IEEE 2416 Power Calculator!: https://63dac.conference-program.com/?post_type=page&p=16&id=AM105&sess=sess208
+  'Netdetox: Adversarial and Efficient Evasion of Hardware-Security GNNs via RL-LLM Orchestration': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2536&sess=sess111
+  Network Design for Wafer-Scale Systems with Wafer-on-Wafer Hybrid Bonding: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH363&sess=sess113
+  'Neural Domain Decomposition for Scalable Multi-Physics: Chip-Scale Thermal-Stress Analysis': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH158&sess=sess167
+  Neural Subgraph Matching for Hardware Decompilation in Gate-Level Netlists: https://63dac.conference-program.com/?post_type=page&p=16&id=LBR148&sess=sess308
+  ? Neuromorphic Ising Solver with Signed Spiking Neuron and Interleaving Simulated Annealing for Large-Scale Traveling Salesman Problem
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3280&sess=sess307
+  'New Minds, New Models: Who Will Drive AI-Led Design Innovation?': https://63dac.conference-program.com/?post_type=page&p=16&id=PANEL104&sess=sess201
+  New Thermal Analysis Workflow for 3DIC Designs: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST458&sess=sess296
+  Next Generation EDA with GPU Acceleration for Semiconductor Workflows: https://63dac.conference-program.com/?post_type=page&p=16&id=EF124&sess=sess298
+  'Next-Generation 3DIC STCO: AI-Enabled PPA and Cost Optimization Through IEEE P3537 3Dblox': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST118&sess=sess264
+  'No Credit Where Credit Is Due: Quiesced Formal Check for PCIe Crediting': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES445&sess=sess272
+  'No More Blind Spots: RTL Modeling of Metastability for CDC Verification': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES124&sess=sess268
+  'Noisexplore: A Device-Aware Hierarchical Noise Modeling and DTCO Framework for Analog In-Pixel Computing Architectures': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1152&sess=sess123
+  'Nothing Left to Learn: Isomorphic Graph Transformations for Hardware IP Protection': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2832&sess=sess111
+  'Notsotiny: A Large, Living Benchmark for RTL Code Generation': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2760&sess=sess166
+  Novel Approach to Signoff Large MRAM Memory IP Using Hierarchical Flow: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST237&sess=sess295
+  Novel Methodology for in Context Blockage Modification for High-Speed Global Clock Routing: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST184&sess=sess295
+  Novel Methodology to Replace Openaccess Inputs for Hierarchical Chip Construction: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST021&sess=sess295
+  'Nucleus: A Reconfigurable Long-Context LLM Accelerator Using Adaptive Outlier-Aware KV Cache Quantization': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3279&sess=sess307
+  'O-RRP: Optical Proximity Correction Runtime and Resource Prediction Using Machine Learning': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3307&sess=sess307
+  'ODBP: Obfuscation Design Approach for Biochemical Protocols in Continuous-Flow Microfluidic Biochips': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2107&sess=sess121
+  'ORBIS: Output-Guided Token Reduction with Distribution-Aware Matching for Video Diffusion Acceleration': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2495&sess=sess143
+  On-Demand Multi-Task Sparsity for Efficient Large-Model Deployment on Edge Devices: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2030&sess=sess176
+  'Onyx: Efficient Transaction Processing with Real Processing-in-Memory Prototypes': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH529&sess=sess161
+  'OoB Generator: A Novel Method to Improve the Productivity of RTL-to-Layout Using Python': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST083&sess=sess264
+  Open-Source EDA Birds-of-a-Feather Session: https://63dac.conference-program.com/?post_type=page&p=16&id=AM110&sess=sess283
+  Open-Source EDA Workflows for Scalable Quantum Computing Systems: https://63dac.conference-program.com/?post_type=page&p=16&id=TUT104&sess=sess195
+  'OpenACMv2: An Accuracy-Constrained Co-Optimization Framework for Approximate DCiM': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2014&sess=sess118
+  'OpenSUN: An Open Platform for Exploring Scale-Up Network Systems': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1061&sess=sess147
+  Operator-Level Acceleration for Sparse 3D Object Detection: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2717&sess=sess177
+  Optimized Time-Dependent Hamiltonian Evolution Quantum Solver for Power System Transient Computations: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1963&sess=sess133
+  Optimizing Digital SOC Designs, One Cell at a Time Using AI Transistor-Level Sizing: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES300&sess=sess271
+  'Optimizing Dynamic-Shape Neural Networks: A Unified Approach to Adaptive Tuning': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH127&sess=sess140
+  'Optimizing GPU Clock Power: Exploring Register Array Folding and Its Trade-Offs': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST282&sess=sess296
+  Optimizing Reliability EM Sign-Off for 2nm Mobile SoCs: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES139&sess=sess276
+  'Orbitbrain: Secure and Reliable Chiplet Architecture for Space Edge AI and Orbital Data Centers': https://63dac.conference-program.com/?post_type=page&p=16&id=SSSN113&sess=sess253
+  'Orchestrating Dual-Boundaries: An Arithmetic Intensity Inspired Acceleration Framework for Diffusion Language Models': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2169&sess=sess140
+  Outsmarting State Space Complexity Through Proven Reset Abstraction Stratergies: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST478&sess=sess223
+  ? Overcoming Accuracy and Scalability Limits in Multi-Port On-Chip Electromagnetic Simulation Using a Hybrid Partial Elements Equivalent Circuit Solver
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST014&sess=sess278
+  ? 'Overmind NSA: A Unified Neuro-Symbolic Computing Architecture with Approximate Nonlinear Activations and Preemptive Memory Bypass'
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2125&sess=sess157
+  ? 'PAGE: Processing-Using-DRAM Architecture-Circuits Co-Optimization for Efficient Acceleration of General Matrix-Vector Multiplication'
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH401&sess=sess116
+  'PANDA: An LLM-Enhanced Performance-Driven Analog Design Framework Bridging Design Intent and Layout Generation': https://63dac.conference-program.com/?post_type=page&p=16&id=SSSN104&sess=sess250
+  'PASCAL: ML-Based Predictive Skew Compensation for Asymmetric Clock Tree Aging': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3220&sess=sess307
+  'PBA-rGAT-Edge: Arc-Level Path-Based Timing Prediction with Scalable Residual Edge-Aware Graph Attention': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2333&sess=sess177
+  'PCBgen3D: A Self-Correcting Graph-Based MLLM Framework for Automated PCB 3D Models Generation': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1991&sess=sess168
+  'PD-Net: Learning Device-Invariant Representations for Heterogeneous Cross-Device Side-Channel Attacks': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2648&sess=sess111
+  'PD-Swap: Prefill–decode Logic Swapping for End-to-End LLM Inference on Edge FPGAs via Dynamic Partial Reconfiguration': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1942&sess=sess175
+  'PEACE: Algorithm–hardware Co-Design for PE-Granular Energy-Aware Compressed GEMM Acceleration': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1885&sess=sess175
+  'PEL: A 4K@120FPS Palette-Based Enhancement Layer Validated with JPEG XS Achieving 18.13% Bdrate Reduction': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1334&sess=sess130
+  ? 'PERFORCE IPLM: From Data to Insights: AI-Enhanced IP Lifecycle Management for Visibility, Reuse, and Actionable Intelligence'
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=EF117&sess=sess237
+  ? 'PFGEMM: Fully Exploiting the Parallelism of SpGEMM With Element-Wise Out-of-Order Execution Flow and Prefix Decomposition of Indices'
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH138&sess=sess157
+  'PG-GNN: Physics-Guided Graph Neural Network for Cell Timing Library Characterization': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1562&sess=sess155
+  'PHAP: A Pre-Analyzed Head-Wise Attention Pattern for Efficient Sparse Attention in LLM Inference': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3281&sess=sess307
+  'PHAROS: Pipelined Heterogeneous Accelerators for Real-Time Safety-Critical Systems With Deadline Compliance': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1074&sess=sess147
+  'PIANO: Physics-Informed Admittance Neural Operator for Fast Power Integrity Analysis': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH733&sess=sess112
+  'PIMA-SecDB: Processing-in-Memory Acceleration for Fully Homomorphic Encryption Databases': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2294&sess=sess108
+  'PIMGRAG: A Heterogeneous PIM Architecture for Graph-Based Retrieval-Augmented Generation': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1596&sess=sess119
+  PLONK-Hammer:breaking Input Privacy of PLONK Proving Systems via Rowhammer: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2771&sess=sess150
+  'PMTPA: An Ising Model-Based Parallel-Momentum Tempering Processing Architecture for Combinatorial Optimization': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2159&sess=sess130
+  'PMU-Faker: The Apparently Harmless Performance Monitoring Unit Events Are Actually Harmful': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1495&sess=sess107
+  'PRAC-Auto: A Flexible and Efficient Framework for PRAC-Based Rowhammer Mitigation': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3287&sess=sess307
+  'PREBA: A Hardware/software Co-Design for Multi-Instance GPU Based AI Inference Servers': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH256&sess=sess110
+  'PRICE: An Operator Recomputation and Fission Framework for Computation Graphs via Attainable Arithmetic Intensity': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH863&sess=sess146
+  'PRISM: Dynamic Primitive-Based Forecasting for Large-Scale GPU Cluster Workloads': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2531&sess=sess126
+  'PRISM: Priority Aware Shared Scale Microscaling Format for 4-Bit Quantization': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2207&sess=sess145
+  'PRO-V-R1: Reasoning Enhanced Programming Agent for RTL Verification': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH142&sess=sess163
+  'PRS: An Efficient Parallel SAT Framework': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH284&sess=sess163
+  'PS-CAM: An Efficient Content-Addressable Memory Based Accelerator for Point Search in Point Clouds': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH406&sess=sess119
+  'Pangaea: A Unified Memory-Efficient Accelerator for Pangenome Chaining and Alignment': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2762&sess=sess121
+  Parallel Combinational Equivalence Checking Through Factored Form Sharing: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1388&sess=sess163
+  Parallel Combinational Equivalence Checking via Sweeping-Based Task Scheduling: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH285&sess=sess163
+  Parallelizing Complementary Approximate Reachability: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH896&sess=sess163
+  'Paretopilot: Global Optimization Reasoning on HLS Design Space Exploration with LLMs': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH865&sess=sess168
+  'Past Present and Future of CDC & RDC Glitches: Improved Glitch Checker (IGC)': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES384&sess=sess268
+  Path-Based Timing Analysis Acceleration via Segment-Level Timing Arc Reuse: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2566&sess=sess155
+  'Pcbgen: Self-Evolving LLM Agent for Specification-to-Schematic PCB Design with Parameter Tuning': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH241&sess=sess118
+  'Pefoo-L: A General Framework for Preconditioned Forward-Only Optimizer Enabling LLM Fine-Tuning on the Edge': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2271&sess=sess176
+  'Pegasus: Personalized and Communication-Efficient Mixture-of-Experts System for Distributed Edge LLM Inference': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1922&sess=sess176
+  Per Flow Asynchronous Traffic Shaping in Time Sensitive Networking: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH163&sess=sess171
+  Performance Boosting DTCO Methodology for 1-to-1 Metal-Gate Pitch Ratio: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST155&sess=sess295
+  Perifi:physics-Infused RF Inverse Design with Parametric Data-Efficient Feasible-Region Sampling: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1804&sess=sess118
+  PhD Forum Poster Session: https://63dac.conference-program.com/?post_type=page&p=16&id=AM112&sess=sess303
+  'Phantom Walk: Reducing the Post-Migration Translation Path via Proactive Translation Dissemination in Multi-GPU Systems': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1938&sess=sess175
+  'Photomt : Accelerating Zero-Knowledge Proofs with a Photonic-Electronic Merkle Tree Engine': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2293&sess=sess174
+  'Physical Signoff at Scale: Tackling TSV, Interposer, and ESD in 3DIC Systems': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES447&sess=sess275
+  Physics-Aware CNN-Based IR Drop Risk Prediction for Fast and Reliable SRAM Placement Optimization: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST020&sess=sess295
+  'PiHG: A Redundancy-Free Heterogeneous Graph Neural Network Accelerator via a Pivot-Centric Approach': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1438&sess=sess143
+  'PiMM-NoC: Process-in-Memristor-Memory NoC with RL Mapping Framework for Versatile AI Models': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2098&sess=sess139
+  'Pillarsparse: Rethinking Unstructured Sparse Formats for Tensor Cores': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2468&sess=sess140
+  'Pimony: A DRAM-PIM Design for Harmonizing PIM and Memory Accesses with Minimal Interference': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1909&sess=sess138
+  'Pipegs: Unlocking 3DGS Pipeline Parallelism via Hierarchical Reuse and Dynamic Partitioning': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2036&sess=sess143
+  Pipeline-Based Denial of Service Attacks on Embedded RISC-V Core-Based Systems: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST151&sess=sess264
+  Plug-and-Verify Using Real USB Devices for Front-End Host DUT RTL Validation: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST291&sess=sess295
+  'Polaris: Enabling PIM-Optimized Low-Energy SpGEMM Using a Remote-Access-Aware Mapping Solution': https://63dac.conference-program.com/?post_type=page&p=16&id=LBR146&sess=sess308
+  'Powerpath: Internal-Probe-Free Search Interval Reduction for Efficient Statistical Sequential Constraint Characterization': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH025&sess=sess155
+  'Pre-Silicon Real Workloads Validation: Integration of Wireless Network Testers and Hardware Emulation via Virtualization': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST060&sess=sess264
+  'Prelude: Priming-Guided State Reconstruction for Efficient FPGA Processor Debugging': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2085&sess=sess115
+  'Prism: Reducing Arithmetic for High-Recall Approximate Nearest Neighbor Search on Processing-in-Memory': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH796&sess=sess119
+  Probabilistic Memory Design for Efficient Trustworthy Edge Intelligence: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1664&sess=sess123
+  'Procyon: Promoting Fine-Grained Multi-Tenancy to Optimize Sparse Streaming Accelerators': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH986&sess=sess147
+  Progress and Roadmap Toward an Automated EDA R&D Engineer: https://63dac.conference-program.com/?post_type=page&p=16&id=SSSN106&sess=sess251
+  Progress-Based Timeout Debug for Scalable SoC Verification: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES169&sess=sess265
+  Provably Probabilistic Safe Controller Synthesis for Vision-Based Neural Network Control Systems: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH720&sess=sess158
+  Pss–enabled Design Space Exploration for Energy Management Systems: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST038&sess=sess264
+  Pushing the Limits of Inverse Lithography with Generative Reinforcement Learning: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH209&sess=sess154
+  Quantum Circuit Synthesis Using an Exact T Library: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH031&sess=sess133
+  Quantum and AI Convergence: https://63dac.conference-program.com/?post_type=page&p=16&id=SSSN112&sess=sess252
+  Quantum to Software Development: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGINV105&sess=sess292
+  'Qubic: An Open-Source Control System for Enabling Full-Stack Quantum Co-Design': https://63dac.conference-program.com/?post_type=page&p=16&id=SSSN111&sess=sess252
+  'R5-Link : Enhancing RISC-V Multi-Core Efficiency with Hardware Message Passing Channels in a 2D Mesh Network': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP1627&sess=sess307
+  'RAGNMP: Leveraging Elimination Tree to Accelerate RAG with Near-Memory Processing': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH701&sess=sess119
+  'RAM-CGRA: Reachability-Aware Mapping for CGRAs': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1712&sess=sess113
+  RBF-Driven Analog Neural Networks for Flexible Wearable Near-Sensor at the Extreme Edge: https://63dac.conference-program.com/?post_type=page&p=16&id=SSSN119&sess=sess254
+  'RDC Methodology: Noise Reduction and Improving Accuracy': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST212&sess=sess295
+  'REACT: Rapid Error-Tolerant Activation Compressor for Efficient Transformer Training': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2947&sess=sess142
+  'REFLEX: Rewrite-Free Row-Aligned Sparse Attention for Efficient LLM Execution on PIM': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1986&sess=sess138
+  ? 'RELMAS-HRT: Online Inference Scheduling in Mixed-Criticality Multi-Tenant Multi-Accelerator Systems via Reinforcement Learning'
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3277&sess=sess307
+  'REPAIR: Reliability Enhancement of NVM FPGAs Through Lifetime-Aware Differential Partial Reconfiguration': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2976&sess=sess123
+  'RFIPSA: A Reconfigurable FIP-Based Systolic Array for Various Matrix-Intensive Workloads': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2157&sess=sess130
+  'RISC-Q: A Generator for Real-Time Quantum Control System-on-Chips Compatible with RISC-V': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1718&sess=sess135
+  'RISCSmith: Finding RISC-V CPU Bugs via Rich Instruction Construction and On-the-Fly Differential Analysis': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH150&sess=sess152
+  'RL4HDL: Code Diversity Guided FPGA Logic Synthesis Compiler Testing Via Reinforcement Learning': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1813&sess=sess172
+  'RM-CIMA: An Analog Computing-in-Memory Accelerator for a Robust UAV Trajectory Tracking Framework': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1233&sess=sess137
+  ? 'ROSA: Robust and Energy-Efficient Microring-Based Optical Neural Networks via Optical Shift–and-Add and Layer-Wise Hybrid Mapping'
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH160&sess=sess110
+  'RTFL: Energy-Aware Federated Learning for AIoT Design Via Adaptive Quantization-Based Multi-Agent Scheduling': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1936&sess=sess158
+  'RTL-3D: Timing-Aware Tier Partitioning for 3D ICs Using Pre-Synthesis Timing Analysis': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH793&sess=sess155
+  'RTL-Benchmt: Dynamic Maintenance of RTL Generation Benchmark Through Agent-Assisted Analysis and Revision': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH874&sess=sess168
+  'RTL-Sequencer: Towards Scalable RTL Timing Prediction with the Sequence-Based Paradigm': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH883&sess=sess155
+  'Raise the Shields: A Modular RISC-V Extension for Post Quantum Cryptography': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2713&sess=sess108
+  Rapid Design and Deployment of High-Radix Switch Fabric for Scale-up and Scale-out AI Systems: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST405&sess=sess296
+  'ReConCHF: ReRAM-Based Reconfigurable Architecture for Cryptographic Hash Functions with Software/hardware Integration': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3297&sess=sess307
+  Real-Time Local Layout Effects Analysis for Advanced Design Optimization: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST292&sess=sess296
+  Real-Time, Lightweight, High Coverage Error Detection and Correction for CRYSTALS with Small-Modulus Paths: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2780&sess=sess108
+  Reasoning Engine for Silicon Verification: https://63dac.conference-program.com/?post_type=page&p=16&id=EF127&sess=sess299
+  Reconfigurable 3D-VRRAM LUT-CiM with Greedy G-Shuffle Quantization for End-to-End 4-Bit ViTs in Edge Dense Prediction: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1412&sess=sess116
+  'Reconnaissance: Correctly Tracking Multiple Secrets Using Reveal/conceal Paradigms': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2369&sess=sess111
+  Rectilinear Soft Module Floorplanning via Differentiable Polygon Shaping Model and Flow-Based Legalization: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2024&sess=sess129
+  Reduced Order Modelling (ROM) Based Full Chip EMIR Signoff: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST430&sess=sess296
+  'Reflectbench: An Agentic Framework for Generating System-Level Design Testbench via Consensus and Reflection': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1858&sess=sess166
+  'Relay-GS: Reusing Temporal Sort Information for 4D Gaussian Splatting Acceleration': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2027&sess=sess143
+  'Rememtier: Rethinking Memory Tiering for CXL-Based SSD via Large Granularity Memory Access': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2945&sess=sess169
+  ? Research on Warpage Simulation Fitting, Stress Simulation Method and Glass Substrate Application of Advanced Package for AI Chips
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST160&sess=sess264
+  Resistive Model-Based via Optimizatiion: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST046&sess=sess295
+  'Revisiting PDN at the MOL Boundary: A Placement-Aware Power Delivery Flow': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST213&sess=sess296
+  Risk Analysis for Chiplets, and Security Architecture: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST056&sess=sess264
+  Role of FPGAs in Emulation and Prototyping Systems: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGINV103&sess=sess294
+  Role of HW Based Tools like Emulation and Prototyping in Semiconductor Design Methodology: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGINV101&sess=sess294
+  Routability Optimizing Methodology Using Flexible Pin: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST080&sess=sess295
+  'Runtime-ADAR: Runtime Anomaly Detection and Attack Recovery in Encrypted DNNs': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH821&sess=sess150
+  ? 'S2CIM: A Secure-Computation and Secure-Storage Compute-in-Memory Architecture with Circuit-Algorithm Co-Design for Efficient and Trustworthy Edge Inference'
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH208&sess=sess123
+  'SAAP: An Efficient Spatial-Aware Analytic Partitioning Algorithm of VLSI Netlists for Parallel Routing': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH320&sess=sess136
+  'SAEM: Stage-Aware Expert Management for Memory-Efficient MoE Inference in Chain-of-Thought Reasoning': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH675&sess=sess142
+  'SALUT: Efficient Sparse LU Factorization via Asynchronous Task Triggering on HBM FPGAs': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH935&sess=sess175
+  'SAT-Helper: A Multi-Agent System for Adaptive Optimizing Large-Scale Conjunctive Normal Form': https://63dac.conference-program.com/?post_type=page&p=16&id=LBR124&sess=sess308
+  'SCIMI: Semantic-Aware Collaborative Intrusion Detection for Multi-Domain In-Vehicle Networks': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH462&sess=sess137
+  'SCOUT: Thermal-Aware SRAM Allocation for Real-Time DNN Tasks on Edge TPU': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2481&sess=sess171
+  'SDM: A Variation-Tolerant Soft Decision Machine with In-Memory Sigmoid Computation': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1308&sess=sess120
+  'SELECT: Sensitivity Based Exploration and Localisation of Event-Wise Correlated Tokens for Test Generation': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST394&sess=sess296
+  'SHELL: AI-Driven UVM Framework': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST057&sess=sess264
+  'SIEMENS: FPGA-Based Prototyping Like You Wouldn''t Believe': https://63dac.conference-program.com/?post_type=page&p=16&id=EF112&sess=sess235
+  'SIEMENS: Intelligence Between the Runs: Agentic AI for Feedback-Driven Verification': https://63dac.conference-program.com/?post_type=page&p=16&id=EF108&sess=sess228
+  'SILIMATE: PPA Optimization Without Functional Bugs – and Functional Debug Without PPA Degradation': https://63dac.conference-program.com/?post_type=page&p=16&id=EF101&sess=sess241
+  SLC-Based Real-Time Traffic Buffering with DRAM Row-Aware Write Back: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST307&sess=sess296
+  SLURM Deployment for IC Design Startups. How to Make the Most of Slurm, and Avoid Common Issues: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST442&sess=sess264
+  SNN Accelerator Testing via Sparse Test Matrices: https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3290&sess=sess307
+  ? 'SP2RINT: Spatially-Decoupled Physics-Constrained Progressive Inverse Optimization for Diffractive Optical Neural Network Training'
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH760&sess=sess118
+  'SPADE: An Input-Adaptive Sparse Attention Engine for Fast Video Diffusion Models Inference': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH680&sess=sess145
+  'SPEEDY: Single-Step Reinforcement Learning Framework for Efficient Analog Circuit Sizing Optimization': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3291&sess=sess307
+  SPICEMixer - Netlist-Level Circuit Evolution: https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3293&sess=sess307
+  'SSD Reforge: Dynamic Parity Management to Extend SSD Lifetime Under Aging': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1872&sess=sess162
+  'STA Accuracy Validation: A Machine Learning Approach': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3289&sess=sess307
+  'STAC: Spatial-Temporal Activation Contextualization for Resilient LLM Inference': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2307&sess=sess171
+  'STAMP: Semiconductor Tool-Chain Attestation Through Wafer-Level Machine Learning-Based Process Monitoring': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH3145&sess=sess111
+  'STCG: Sparse Tensor Code Generation via Adaptive Tile Scheduling on GPUs with Tensor Cores': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1447&sess=sess115
+  'STEER: Simulation of Templates Engine for Efficient Resource Usage': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES387&sess=sess265
+  'STELLAR: Structure-Guided LLM Assertion Retrieval and Generation for Formal Verification': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH3200&sess=sess108
+  ? 'STEM-CAM: Segmented Thermometer-Encoded Multibit CAM with Wildcard Matching for Efficient Arbitrary-Order Minkowski Distance Metrics'
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1095&sess=sess169
+  'STRAP-ViT: Segregated Tokens with Randomized - Transformations for Defense Against Adversarial Patches in ViTs': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1613&sess=sess152
+  'SYNOPSYS: How Silicon Startups Are Addressing the AI Memory Gap': https://63dac.conference-program.com/?post_type=page&p=16&id=EF134&sess=sess322
+  'SYNOPSYS: When Physics Becomes the Bottleneck: Rethinking Chip Design for Next-Gen': https://63dac.conference-program.com/?post_type=page&p=16&id=EF133&sess=sess321
+  'Safe-IoT : A Memory-Efficient HW/SW Co-Designed ML-DSA Accelerator for IoT Edge Devices': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2216&sess=sess146
+  'Safegen: LLM-Driven Assertion Generation and Fault Criticality Evaluation for Functional Safety': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1945&sess=sess160
+  'Sandwich: Joint Configuration Search and Hot-Switching for Efficient CPU LLM Serving': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH235&sess=sess109
+  'Satreg: Regression-Based Neural Architecture Search for Lightweight Satellite Image Segmentation': https://63dac.conference-program.com/?post_type=page&p=16&id=SSSN114&sess=sess253
+  Scalable EMIR Signoff for Very Large SoCs Using Reduced Order Modelling: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST240&sess=sess296
+  Scalable Hierarchical EMIR Analysis Using Multi Layered Abstraction for Reticle-Scale Data Centre SOCs: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES335&sess=sess276
+  ? Scalable Multi-Task Learning Through Spiking Neural Networks with Adaptive Task-Switching Policy for Intelligent Autonomous Agents
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2794&sess=sess137
+  Scalable Reliability Assessment of DNNs Through Simultaneous Fault Injection: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1417&sess=sess127
+  Scalable Verification Methodology for Stacked 3D Chiplet-Based Designs Using SIP Flow: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES271&sess=sess262
+  Scalable and Adaptive Parallel Training of Graph Transformer on Large Graphs: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH3050&sess=sess141
+  Scalable, Emulation-Friendly,co-Simulation Testbench for Exhaustive RISC-V Cluster Configuration Verification: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES143&sess=sess269
+  Scalable, Protocol-Agnostic Clockless In-Band Reset Architecture for Serial Link IPs in Multi-Domain SoCs: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES036&sess=sess272
+  'Scale-Gest: Scalable Model-Space Synthesis and Runtime Selection for On-Device Gesture Detection': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH3067&sess=sess126
+  Scheduling Cause-Effect Chains Without Timing Anomalies in End to End Latency: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH378&sess=sess171
+  'Schemacoder: Automatic Log Schema Extraction Coder with Residual Q-Tree Boosting': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1841&sess=sess168
+  'Scoutattention: Efficient KV Cache Offloading via Layer-Ahead CPU Pre-Computation for LLM Inference': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2345&sess=sess176
+  Screening Analog Anomality for Security Vulnerability in Digitally Verified Crypto Cores: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES217&sess=sess273
+  'Search Smarter, Not Harder: A Scalable, High-Quality Zoned Neutral Atom Compiler': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1316&sess=sess133
+  Secure and Private System Design for Generative & Agentic AI: https://63dac.conference-program.com/?post_type=page&p=16&id=WKSHP105&sess=sess199
+  'Securerouter: Encrypted Routing for Efficient Secure Inference': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH3092&sess=sess150
+  Security Co-Design for Embodied AI Agents: https://63dac.conference-program.com/?post_type=page&p=16&id=TUT101&sess=sess192
+  'Seeing Through Silicon: Multimodal Thermal Reconstruction via Physics-Informed Diffusion': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1907&sess=sess114
+  'Seeing the Unseen: Reverse Engineering Hidden PMU Events by Differential Analysis and Simulation Validation': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1037&sess=sess107
+  'Semcom: Semantic-Enhanced On-Board Satellite Image Compression at Ultra-Low Bitrates': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH791&sess=sess145
+  Semi-Virtual Addressing to Enhance Memory Safety on Microcontrollers: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1715&sess=sess122
+  'Separate: Segmenting Patterns from Defects in Wafer Manufacturing Using Weak Supervision': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH838&sess=sess125
+  'Shared Logic Unleashed: Multiple-Node Boolean Optimization for Next-Gen Synthesis': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH3091&sess=sess172
+  'Sharedkd: Gradient-Guided Dynamic Student Discovery Inside a Single 3D Object Detector': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2058&sess=sess176
+  Shifting System-Level Verification Left with Firmware-Driven Execution: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES119&sess=sess263
+  'Shooting Falcon with One Fault: A Practical Rowhammer-Based Fault Attack Against Falcon': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1320&sess=sess131
+  'Shortcircuit: Alphazero-Driven Generative Circuit Design': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2329&sess=sess167
+  Si2 Openaccess Forum: https://63dac.conference-program.com/?post_type=page&p=16&id=AM106&sess=sess208
+  'SiTA: Exploiting Sparsity in Tensor-Product for Accelerating Quantum Readout Error Mitigation': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH279&sess=sess135
+  'Sigma Profiling: Profiling Solution for Power Integrity Signoff': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST471&sess=sess224
+  Signing Crossbar Columns Instead of Neural Network Weights in Compute-in-Memory Accelerators: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1853&sess=sess138
+  Silicon Correlation of Voltage Droop Mitigation Scheme: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST150&sess=sess264
+  'SkiST: Memory-Efficient Fine-Tuning of Spiking Neural Networks via Spatio-Temporal Adaptation': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH293&sess=sess120
+  Slack-Exploiting Load Splitting for IR-Drop Mitigation: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST059&sess=sess295
+  'Slcross: Cross-Component System-Level Cache Side-Channel Attacks on Apple M2 SoC': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1373&sess=sess131
+  'Slicemoe: Bit-Sliced Expert Caching Under Miss-Rate Constraints for Efficient MoE Inference': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1582&sess=sess142
+  'Smartswap: Swap-Based Memory Optimization for LLM Training Under Varying Operator Sequences': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH484&sess=sess109
+  'Smoe: Elastic MoE-Based Inference with Serverless Computing via Fine-Grained Expert Scaling': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH734&sess=sess124
+  'Soberdse: Sample-Efficient Design Space Exploration via Learning-Based Algorithm Selection': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH859&sess=sess173
+  Solving Memory Subsystem Verification Challenges for Multi-Instance Designs: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST049&sess=sess264
+  'SpArC: Sparse Tensor Accelerator Compilation with Scheduling and Mapping': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1374&sess=sess147
+  'SpRDA: An Efficient Sparse Accelerator for Robotics Diffusion Model': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2071&sess=sess143
+  'Sparsee: Unlocking Sparsities in Encrypted Sparse Matrix Multiplication via Hardware-Software Co-Design': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2265&sess=sess108
+  Sparsity- and Tolerance-Aware Temporally Redundant Neural Networks: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH374&sess=sess124
+  Spec-Based Acceleration fo Design Verification From Start to Finish: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGINV111&sess=sess284
+  'Spec2Plan: A Robust LLM-Powered Framework for Verification Plan Generation and Evaluation': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3284&sess=sess307
+  'SpecANNS: Accelerating Graph-Based Approximate Nearest Neighbor Search with Speculative In-Storage Computing': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH343&sess=sess161
+  'Specmoe: A Fast and Efficient Mixture-of-Experts Inference via Self-Assisted Speculative Decoding': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH257&sess=sess145
+  'Spike-PTSD: A Bio-Plausible Adversarial Example Attack on Spiking Neural Networks via PTSD-Inspired Spike Scaling': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1430&sess=sess122
+  'Spiker-LL: An Energy-Efficient FPGA Accelerator Enabling Adaptive Local Learning in Spiking Neural Networks': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3285&sess=sess307
+  'Split–and–sync Bayesian Learning–driven SRAM Compiler: Automatic Design Tuning with Optimal Banking': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3157&sess=sess307
+  Staged Snapshots for Firmware-Hardware Collaborative Debug: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES386&sess=sess269
+  Stateful Embedded Fuzzing Using Peripheral-Accurate Systemc Virtual Prototypes: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH616&sess=sess115
+  'Static Timing Analysis (STA) Platform: An AI-Augmented Web System for Scalable Static Timing Analysis and Optimization': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST231&sess=sess296
+  'StepPRM-RTL: Stepwise Process-Reward Guided LLM Fine-Tuning for Enhanced RTL Synthesis': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1742&sess=sess166
+  'Stitch: Assertion-Guided Patching of On-Chip Protocol Implementations Using LLMs': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2443&sess=sess164
+  'Stochastic Diffusion Prior: Knowledge Elicitation and Local Adaptation for Transistor Sizing': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH739&sess=sess118
+  'Stone-Skimming: Attacking Big-Data Analytics Applications with Page Table Walk': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1793&sess=sess131
+  'Strix: Re-Thinking NPU Reliability from a System Perspective': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH043&sess=sess171
+  Structure Aware Clock Tree Synthesis Using Width-Driven CTS Cell Constraints: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES374&sess=sess279
+  'Svacoder: Training Specialized LLMs for Hardware Assertion Generation via RTL-Grounded Bidirectional Data Synthesis': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2361&sess=sess166
+  'Swift-Healer: Firmware-Reconfigurable Self-Healing for Remote Glitch-Injection on Autonomous Driving Systems': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3274&sess=sess307
+  Syndrome Extraction Circuits with Near-Optimal Depths for Practical Quantum Error Correcting Code Families: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH144&sess=sess134
+  'TACo: Training-Free, Hardware-Aware ViT Architecture Search with a Hypervolume-Based Unified Zero-Cost Score': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1440&sess=sess176
+  'TAG: A Topology-Aware Architecture for Configurable and Memory-Efficient GNN Acceleration': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH341&sess=sess156
+  'TAMI-MPC: Trusted Acceleration of Minimal-Interaction MPC for Efficient Nonlinear Inference': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH989&sess=sess107
+  'TAWT: Towards Autonomous Wrapper Tuning': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST220&sess=sess296
+  'TDH-GNN: An Efficient Topology-Driven Accelerator for Dynamic Heterogeneous GNN': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH032&sess=sess156
+  'TIDE: A Triangular Interaction-Symmetric Dual-Systolic Engine for Efficient Acceleration of Physics-Inspired Optimization': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3296&sess=sess307
+  'TOB-Sched: Topological Order Balancing-Driven Static Scheduling for Processor-Based Emulation': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1348&sess=sess164
+  'TOPCELL: Topology Optimization of Standard Cell via LLMs': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2646&sess=sess167
+  'TRAC: Transparent Row Activation Counting for Efficient Rowhammer Monitoring': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1275&sess=sess131
+  'TRACE: Learning to Compute on Circuit Graphs': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH194&sess=sess177
+  'TRAM: Training Approximate Multiplier Structures for Low-Power AI Accelerators': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2245&sess=sess143
+  'TRIDENT: An End-to-End Streaming Accelerator for TriSpGEMM': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH149&sess=sess147
+  'TRINE: A Token-Aware, Runtime-Adaptive FPGA Inference Engine for Multimodal AI': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH660&sess=sess147
+  'TT-SEAL: TTD-Aware Selective Encryption for Adversarially-Robust and Low-Latency Edge AI': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH848&sess=sess150
+  Tackling Local Noise Coverage Limitations in Transient EMIR Analysis for Robust SoC-Level PDN Closure: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST227&sess=sess296
+  'Tactician: A Formal Workflow for Discovering Unintended Interactions Among Microarchitectural Defenses': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3305&sess=sess307
+  'Taming the Beast: A Formal Verification Approach to Solve Design Complexity- GPU Compression Block Case Study': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES171&sess=sess266
+  Targeted Bit-Flip Attacks on LLM-Based Agents: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH797&sess=sess152
+  'Tdsnap: Enabling Secure Function-as-a-Service with Trusted Domain Snapshots': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH876&sess=sess107
+  Technology-Oriented DTCO Framework Using Neural Compact Modeling and Polar Level-Set Clustering: https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3282&sess=sess307
+  'Terastal: Layer-Variant-Based Scheduling for Real-Time Multi-DNN Workloads on Heterogeneous Accelerators': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3309&sess=sess307
+  'Ternainfer: Pushing the Compression Boundary of Ternary LLMs Towards 1.58-Bit GPU Inference': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH200&sess=sess124
+  Test Point Insertion with ATPG-Free Self-Supervised Learning: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1971&sess=sess160
+  The Emerging Revolution in Spatial AI is Distinct from the LLM Revolution: https://63dac.conference-program.com/?post_type=page&p=16&id=SSSN130&sess=sess257
+  'The Heterogeneous Future of Agentic AGI: Challenges and Opportunities!': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGINV001&sess=sess293
+  'The Last Line of Defense in DNN Inference: Argmax Security Under Combined Power Side-Channel and Fault Injection Attack': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3275&sess=sess307
+  'The New Era of Digital Verification: a Revolution Driven by Agentic AI Acceleration': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST043&sess=sess264
+  The Next Decade of Semiconductors And Transformation Through Industry, Academia, and Government: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGINV013&sess=sess288
+  'The Phantom of PCIe: Constraining Generative Artificial Intelligences for Practical Peripherals Trace Synthesizing': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH514&sess=sess168
+  The Power Grid Reuse Process: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST295&sess=sess296
+  'The Pursuit of Golden Specification: Leveraging Architecture Formal': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST400&sess=sess296
+  The Quest for the Optimal Use of AI in AMS/RF Design: https://63dac.conference-program.com/?post_type=page&p=16&id=SSSN101&sess=sess250
+  'The Test Frontier: Advanced Packaging Solutions': https://63dac.conference-program.com/?post_type=page&p=16&id=SSSN125&sess=sess256
+  Thermal Stability Strategy for a 12nm/28nm Hybrid-Bonding Wafer-on-Wafer 3D-Integrated Eflash In-Memory Computing SoC: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1862&sess=sess139
+  'Think Before You Prune: Self-Reflective Structured Pruning for Reasoning Language Models': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2650&sess=sess176
+  'Thrend: Mitigating Counting Thread-Based Fine-Grained Timing on Arm and Apple CPUs': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1464&sess=sess122
+  Throughput-Oriented Speculative Decoding via Intra-Device Parallelism: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH292&sess=sess109
+  'TierANNS: Scalable Graph-Based ANNS with CXL-Enabled Tiered Data Placement': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2268&sess=sess169
+  Time-Aware Active Calibration and Scheduling for N-Qubit Systems via Bayesian Optimization and Reinforcement Learning: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2805&sess=sess135
+  ? Timing Aware Power Integrity Enhancement in Performance Core Architectures Through Advanced Custom Global PG-Fill Techniques
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST331&sess=sess296
+  Timing-Driven Scheduling and Placement Under Pressure-Path Interference for Fully Programmable Valve Array Biochips: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH959&sess=sess121
+  'Toki: Profiling HBM Performance on FPGA Systems with RISC-V Soft Cores and PCIe Host DMA Traffic': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH389&sess=sess147
+  'TopGQ: Fast GNN Post-Training Quantization Leveraging Topology Information': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH3214&sess=sess145
+  'Torr: Towards Brain-Inspired Task-Oriented Reasoning via Cache-Oriented Algorithm-Architecture Co-Design': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH641&sess=sess158
+  Toward Agentic Solutions for DRC Challenges in Digital VLSI Design: https://63dac.conference-program.com/?post_type=page&p=16&id=SSSN108&sess=sess251
+  'Toward Self-Healing Interconnects in Advanced Packaging: Defect Analysis, Built-in Self-Test, and Repair': https://63dac.conference-program.com/?post_type=page&p=16&id=SSSN126&sess=sess256
+  Toward True-3D Timing-Driven Analytical Global Placement for Mixed-Size Face-to-Face 3D ICs: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2133&sess=sess132
+  'Toward an Open Chiplet Ecosystem: Arm® Foundation Chiplet System Architecture': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST297&sess=sess295
+  'Towards Always-on Interaction: A Sub-mW Visual Wakeup Acceleration Subsystem for Smart Glasses': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1691&sess=sess141
+  Towards Fast and Robust Split Federated Learning over Satellite-Based Computing Networks: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1011&sess=sess110
+  Towards Practical Live Migration for Heterogeneous Confidential Virtual Machines: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2079&sess=sess108
+  Towards a Fully AI-Native EDA Stack: https://63dac.conference-program.com/?post_type=page&p=16&id=TT102&sess=sess187
+  'Trace and Chase: Empowering LLMs to Identify the Root Cause of Test Failures in RISC-V SoCs via Textualized Waveform': https://63dac.conference-program.com/?post_type=page&p=16&id=WIP3298&sess=sess307
+  Track Analyzer + Visualizer: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST296&sess=sess296
+  'Train Once, Calibrate Always: Machine-Learning-Assisted Blind Calibration for Analog-to-Digital Converters': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH3087&sess=sess130
+  Transforming Linux Drivers for Pre-Silicon Verification and Emulation Using Systemverilog DPI-C: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST289&sess=sess264
+  'Transsyn: Scalable, Area-Oriented Transistor Network Synthesis via Cut-Based Mapper with SAT-Based Refinement': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2007&sess=sess172
+  'Trimoe: Augmenting GPU with AMX-Enabled CPU and DIMM-NDP for High-Throughput MoE Inference via Offloading': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH368&sess=sess116
+  'Tsetlinwisard: On-Chip Training of Weightless Neural Networks Using Tsetlin Automata on FPGAs': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2372&sess=sess175
+  'Two Teachers Better Than One: Hardware-Physics Co-Guided Distributed Scientific Machine Learning': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1741&sess=sess127
+  'UBFP-IMC: Ultralarge Bit-Width Digital Floating-Point In-Memory Computing Accelerator for Scientific Computing': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2378&sess=sess139
+  UCIe-A 64GT/s High Speed Integrated Design and SI/PI Comparison of CoWoS-S/L/R: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST039&sess=sess264
+  'UCME: Unified and Configurable Matrix Extension for Diverse CPU Architectures with Minimal Design Overhead': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH552&sess=sess157
+  'UGLMS-uSMILE: Live Measurement Sequencing for Segmented Linearity Identification in ADCs': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH3082&sess=sess117
+  ? 'UNCHARTED: A Universal Circuit Design Hierarchical Model Based on Auto-Regressive Spatio-Temporal Graph Neural Network with Exogenous Driving Inputs'
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2385&sess=sess117
+  'UNICON: A Unified Reconfigurable Nonlinear Architecture for Efficient Neural Network Inference': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH946&sess=sess157
+  'UVM-MS: A Novel Approach to Mixed-Signal IP Verification': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES340&sess=sess265
+  'Ultrasketchllm: Sub-1-Bit LLM Compression via Sketch and Hardware-Friendly Operators': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2317&sess=sess176
+  'UniNL: Unifying Fragmented Non-Linear Operators for Efficient Edge LLM Inference': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH617&sess=sess157
+  'Unified Rail-Signal Co-Design for Multilayer PCBs: Resource Allocation, IR-Drop, and Routability': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH732&sess=sess136
+  Unifying Pre- and Post-Silicon Software Validation Through Modeling: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST122&sess=sess264
+  'Unispike: Accelerating Spiking Neural Networks on Neuromorphic Systems via Eliminating Address Redundancy': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1640&sess=sess141
+  Unlocking Automated Datapath Gating via Machine Learning Power Prediction: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH3154&sess=sess173
+  Unveiling the Security Risks Driven by the Hardware Interrupts: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1497&sess=sess107
+  'User Definable Custom Primitives in 3DIC AI-Driven STCO: Case Study on Power Grid Optimization for IR Enhancement': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST121&sess=sess295
+  Using Arm Native Acceleration with VLAB Virtual Platforms: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES191&sess=sess263
+  'Using ML-Assisted Side-Channel Analysis in Simulation: A Case Study on AES-GCM': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES424&sess=sess273
+  'Using Quantum to Design Better Qubits: Engineering the Path from Lab to Scalable Systems': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGINV104&sess=sess292
+  'Uvmarvel: an Automated LLM-Aided UVM Machine for Subsystem-Level RTL Verification': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2880&sess=sess164
+  'VALVE: Accelerating Visible Version Searching in HTAP Systems via In-Storage Computing': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH442&sess=sess161
+  'VERKOR.IO: Design Conductor 2.0: An Agent Builds a Turboquant LLM Inference Accelerator in 80 Hours': https://63dac.conference-program.com/?post_type=page&p=16&id=EF115&sess=sess260
+  ? Validation of Radiation Hardened High Performance Spaceflight Computing Processor and Co-Processors for Space AI and Orbital Data Center
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=SSSN115&sess=sess253
+  'VeRA+: Vector-Based Lightweight Compensation for Drift-Resilient RRAM In-Memory Computing': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2298&sess=sess160
+  'Veriscore: Measuring LLM Verification Quality with Mutation- and Soundness-Based Metrics': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST152&sess=sess295
+  Vmin Reliability Through Critical Path-Aware PDN Analysis: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST299&sess=sess296
+  'Voyager: An End-to-End Framework for Design-Space Exploration and Generation of DNN Accelerators': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2884&sess=sess143
+  'Vten: Tensor-Centric Verification Framework for Domain-Specific Accelerators': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2348&sess=sess163
+  'WFH-BFs: Dynamic Defense Against DNN Bit-Flips via a Weight Function Hierarchy': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1284&sess=sess152
+  'WILL: Write Invalidation Skipping for QLC NAND by Leveraging Data Lifespan and Latency Awareness': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH931&sess=sess162
+  'WINNER: A Wireless In-Vivo/ex-Vivo Runtime Analyzer for Intermittent Computing': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2997&sess=sess158
+  'WSC-Cost: An Accurate Cost Modeling Framework for Wafer-Scale Chips': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2230&sess=sess113
+  ? 'Warp-STAR: High-Performance, Differentiable GPU-Accelerated Static Timing Analysis Through Warp-Oriented Parallel Orchestration'
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH004&sess=sess155
+  Weak-Form Physics-Informed Neural Network for Self-Supervised Learning in Semiconductor Device Simulation: https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2346&sess=sess167
+  'Weaver: Stratified Expert Scheduling for Memory-Constrained MoE Inference': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2313&sess=sess126
+  Weeding Out Timing Gaps and Improving Performance of DDR Controllers Using Formal Verification: https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES441&sess=sess266
+  What Are VCs Looking for at DAC?: https://63dac.conference-program.com/?post_type=page&p=16&id=PAV106&sess=sess221
+  'When Cloud TEEs Encounter Availability: A Lightweight Framework for Verifiable CPU Availability': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1494&sess=sess122
+  Whitespace-Free Rectilinear 3D Floorplanning with Pressure-Driven Orthogonal Laguerre-Voronoi Tessellation (POLT): https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH3027&sess=sess114
+  'Who Holds the Upper Hand: Electrical or Photonic Links in Scaled-out Chiplet Systems?': https://63dac.conference-program.com/?post_type=page&p=16&id=PANEL101&sess=sess204
+  Who Verifies the Verifier? Trust and Accountability in the Age of Autonomous EDA Agents: https://63dac.conference-program.com/?post_type=page&p=16&id=PANEL106&sess=sess202
+  Will AI Mess my RTL? A Snapshot-Based Approach to Verifying AI-Written RTL: https://63dac.conference-program.com/?post_type=page&p=16&id=WIP1573&sess=sess307
+  Workshop on Chiplet-Based Heterogeneous Integration and CO-Design (CHICO): https://63dac.conference-program.com/?post_type=page&p=16&id=WKSHP101&sess=sess191
+  'XRel-Graph: Graph Learning-Driven Cross-Layer Reliability Management in Embedded Mixed-Criticality Systems': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2424&sess=sess171
+  'Xchip: A Guardrailed Agentic Gen-AI Front-End Flow from Intent to GDSII': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST248&sess=sess295
+  ? 'Xsearch: Exploring Microarchitecture Design Space Through Bayesian Optimization and Cross Evaluation on Multi-Fidelity Simulators'
+  : https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1186&sess=sess167
+  Young Fellow Poster Session: https://63dac.conference-program.com/?post_type=page&p=16&id=AM111&sess=sess302
+  'Z-Paraswap: Co-Optimizing ZNS Parallelism and Swapping for Heterogeneous Graph Neural Network': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2074&sess=sess146
+  'ZK-Flex: A Flexible and Scalable Framework for Accelerating Zero-Knowledge Proofs': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH272&sess=sess122
+  'ZK-Tracer: A High-Performance Heterogeneous Accelerator for Zero-Knowledge VM Trace Generation': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1338&sess=sess174
+  'Zero‑Glitch Confidence: An End‑to‑End Static, Formal & Simulation Methodology': https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST426&sess=sess296
+  'Zipfloat: An Ultra-Fast and Lossless Floating-Point Compressor for LLM Inference Systems': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH684&sess=sess109
+  'eLLM: Elastic Memory Management Framework for Efficient LLM Serving': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1351&sess=sess109
+  'iADS: In-Situ Adaptive Diffusion Sampling Architecture Based on Voltage-Tunable P-Bits': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH2975&sess=sess174
+  'iPCL-M: Pre-Training of Chip Layout for Metrics Evaluation and Optimization': https://63dac.conference-program.com/?post_type=page&p=16&id=RESEARCH1859&sess=sess155
+source: https://63dac.conference-program.com/

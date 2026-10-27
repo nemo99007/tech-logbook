@@ -66,3 +66,29 @@ topics:
                  "The new era of digital verification: a revolution driven by agentic AI acceleration"]}
       - {session: Engineering Poster Session Two, when: "Tue Jul 28, 5-6pm", where: "DAC Pavilion, Exhibit Floor",
          talks: ["XChip: A Guardrailed Agentic Gen-AI Front-End Flow from Intent to GDSII"]}
+# Photo -> official program entry (matched by title in the program PDF; only entries I could place).
+by_photo:
+  "20260727_165840": {title: "Pre-Silicon Real Workloads Validation: Integration of Wireless Network Testers and Hardware Emulation via Virtualization", session: Engineering Poster Session One, when: "Mon Jul 27, 5-6pm", where: "DAC Pavilion, Exhibit Floor"}
+  "20260727_114025": {title: "Silicon correlation of voltage droop mitigation scheme", session: Engineering Poster Session One, when: "Mon Jul 27, 5-6pm", where: "DAC Pavilion, Exhibit Floor"}
+  "20260727_155157": {title: "Shifting System-Level Verification Left with Firmware-Driven Execution", session: System & Software Deployment, when: "Mon Jul 27, 3:30-5pm", where: Seaside Ballroom B}
+  "20260728_134139": {title: "Slack-Exploiting Load Splitting for IR-Drop Mitigation", session: Engineering Poster Session Two, when: "Tue Jul 28, 5-6pm", where: "DAC Pavilion, Exhibit Floor"}
+  "20260727_154434": {title: "A Soft-Microcode Engine to Power the Next Wave of Edge Intelligence", session: System & Software Deployment, when: "Mon Jul 27, 3:30-5pm", where: Seaside Ballroom B}
+  "20260727_162722": {title: "Enabling Automated Software Testing in Emulation Environments via Fastboot Virtualization and On-Premises LLM-Based Failure Analysis", session: System & Software Deployment, when: "Mon Jul 27, 3:30-5pm", where: Seaside Ballroom B}
+  "20260728_100544": {title: "Multi-Cycle Dynamic Vectorless Analysis for Improved PDN Signoff", session: Engineering Poster Session Two, when: "Tue Jul 28, 5-6pm", where: "DAC Pavilion, Exhibit Floor"}
+  "20260728_110354": {title: "AI-Assisted EDA Tools Development", session: "From Concept to Confidence: The AI Evolution in Design & Verification", when: "Tue Jul 28, 10:30am-12pm", where: Seaside Ballroom A}
+  "20260728_134119": {title: "Automating DFT Intelligence: Addressing TCPF HotSpots at Source through Design Aware Test Points in SystemRDL-to-RTL Generators", session: Engineering session (DFT), when: "Tue Jul 28, 10:30am-12pm", where: Seaside RM 7}
+  "20260728_134255": {title: "RDC Methodology: Noise Reduction and Improving Accuracy", session: Engineering Poster Session Two, when: "Tue Jul 28, 5-6pm", where: "DAC Pavilion, Exhibit Floor"}
+  "20260728_134334": {title: "Accelerating DFT Verification and Enhancing Debuggability Using Veloce-Based Full Chip Gate-Level Emulation", session: Engineering Poster Session Two, when: "Tue Jul 28, 5-6pm", where: "DAC Pavilion, Exhibit Floor"}
+  "20260728_170302": {title: "A Novel Methodology for Automated LVS Rule Deck Verification: Truth Table and Device Extraction", session: Engineering Poster Session Two, when: "Tue Jul 28, 5-6pm", where: "DAC Pavilion, Exhibit Floor"}
+  "20260728_172318": {title: "Flexible & Scalable Network Modeling for AI/HPC Network Verification", session: Engineering Poster Session Two (also Gladiator Arena - Poster Battle One, Mon Jul 27), when: "Tue Jul 28, 5-6pm", where: "DAC Pavilion, Exhibit Floor"}
+  "20260729_120300": {title: "SLC-Based Real-Time Traffic Buffering with DRAM Row-Aware Write Back", session: Engineering Poster Session Three, when: "Wed Jul 29, 3-4pm", where: "DAC Pavilion, Exhibit Floor"}
+  "20260729_120436": {title: "Zero-Glitch Confidence: An End-to-End Static, Formal & Simulation Methodology", session: Engineering Poster Session Three, when: "Wed Jul 29, 3-4pm", where: "DAC Pavilion, Exhibit Floor"}
+  "20260729_154134": {title: "Accelerating Memory Cache Verification with AI-Powered Batch Flow Methodology", session: Engineering Poster Session Three, when: "Wed Jul 29, 3-4pm", where: "DAC Pavilion, Exhibit Floor"}
+# Official DAC 2026 archive entry points (from https://dac.com/63rd-dac).
+archive:
+  - {name: "Searchable program (one page per talk/poster/paper, with abstracts)", url: "https://63dac.conference-program.com/"}
+  - {name: "63rd DAC page (recordings, keynotes, Poster Gladiators, TechTalks, program)", url: "https://dac.com/63rd-dac"}
+  - {name: "Proceedings (ACM Digital Library)", url: "https://dl.acm.org/doi/proceedings/10.1145/3770743"}
+  - {name: "Engineering Track proceedings (zip with HTML, about 580 MB)", url: "http://confcats-event-sessions.s3.amazonaws.com/dac26/uploads/DAC_2026_ET_Full_Proceedings_with_HTML.zip"}
+  - {name: "PDF program", url: "https://confcats-siteplex.s3.amazonaws.com/dac/images/dac-2026_program_july-22.pdf"}
+  - {name: "DAC conference archive (all years)", url: "https://dac.com/conference-archive"}
