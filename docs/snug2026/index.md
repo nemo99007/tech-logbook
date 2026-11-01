@@ -71,8 +71,5 @@ KAIST 김정호 교수는 HBM끼리 네트워크로 잇는 구조, HBM과 HBF(Hi
 
 ## Photos
 
-![Synopsys positioning slide](img/synopsys-positioning.jpg){ loading=lazy }
-<small><span class="en">Synopsys keynote slide (own photo)</span><span class="ko">Synopsys 키노트 슬라이드 (직접 촬영)</span></small>
-
-![HBM Design AI Agent structure](img/kaist-agent.jpg){ loading=lazy }
-<small><span class="en">KAIST keynote slide (own photo)</span><span class="ko">KAIST 김정호 교수 키노트 슬라이드 (직접 촬영)</span></small>
+![Keynote 2: Prof. Joungho Kim (KAIST)](img/keynote2-cover.jpg){ loading=lazy }
+<small><span class="en">Keynote 2 cover screen (own photo)</span><span class="ko">Keynote 2 표지 화면 (직접 촬영)</span></small>
