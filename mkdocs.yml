@@ -38,5 +38,4 @@ markdown_extensions:
 nav:
 - Home: index.md
 - DAC 2026: dac2026/index.md
-- SNUG Korea 2026: snug2026/index.md
 - Papers (yt-paper): https://nemo99007.github.io/yt-paper/
