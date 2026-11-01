@@ -6,6 +6,7 @@ site_url: https://nemo99007.github.io/tech-logbook/
 repo_url: https://github.com/nemo99007/tech-logbook
 theme:
   name: material
+  custom_dir: overrides
   features:
   - navigation.sections
   - navigation.top
