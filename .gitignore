@@ -7,3 +7,5 @@ __pycache__/
 config/*/SPEC.md
 config/*/context.md
 output/
+drafts/
+mkdocs.draft.yml
