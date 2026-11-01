@@ -84,6 +84,8 @@ by_photo:
   "20260728_172318": {title: "Flexible & Scalable Network Modeling for AI/HPC Network Verification", session: Engineering Poster Session Two (also Gladiator Arena - Poster Battle One, Mon Jul 27), when: "Tue Jul 28, 5-6pm", where: "DAC Pavilion, Exhibit Floor"}
   "20260729_120300": {title: "SLC-Based Real-Time Traffic Buffering with DRAM Row-Aware Write Back", session: Engineering Poster Session Three, when: "Wed Jul 29, 3-4pm", where: "DAC Pavilion, Exhibit Floor"}
   "20260729_120436": {title: "Zero-Glitch Confidence: An End-to-End Static, Formal & Simulation Methodology", session: Engineering Poster Session Three, when: "Wed Jul 29, 3-4pm", where: "DAC Pavilion, Exhibit Floor"}
+  "20260729_123634": {title: "From Bottleneck to Breakthrough! Accelerating Circuit Verification Beyond Expectations", session: Engineering Poster Session Three, when: "Wed Jul 29, 3-4pm", where: "DAC Pavilion, Exhibit Floor"}
+  "20260729_151330": {title: "Adaptive QoS Optimization for SoC Performance Enhancement Using Dueling Double Deep Q-Networks", session: "Beyond the Block: Verifying Complex Systems in Context", when: "Wed Jul 29, 2:45-3pm", where: Seaside Ballroom A}
   "20260729_154134": {title: "Accelerating Memory Cache Verification with AI-Powered Batch Flow Methodology", session: Engineering Poster Session Three, when: "Wed Jul 29, 3-4pm", where: "DAC Pavilion, Exhibit Floor"}
 # Official DAC 2026 archive entry points (from https://dac.com/63rd-dac).
 archive:

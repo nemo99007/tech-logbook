@@ -17,6 +17,34 @@ my_work: >-
   Set is_my_poster=true only for photos of that poster. Other posters (including
   the Google/Agnisys SystemRDL-to-RTL DATP poster) are NOT the author's.
 # Topics the author was curious about; each lists the archived items that cover it.
+about:
+  - "DAC, the Design Automation Conference, is the annual conference and exhibition for electronic design automation and chip-to-system design. The 63rd edition, billed as The Chips to Systems Conference, ran in Long Beach from July 26 to 29, 2026."
+  - "The program combines research papers with an Engineering Track of industry talks and posters, plus an exhibition floor with the DAC Pavilion. This page covers the posters and slides I photographed, grouped by topic and linked to their official program pages."
+about_ko:
+  - "DAC(Design Automation Conference)는 전자 설계 자동화와 칩에서 시스템까지의 설계를 다루는 연례 학회 겸 전시회입니다. 'The Chips to Systems Conference'를 내건 제63회 행사는 2026년 7월 26일부터 29일까지 롱비치에서 열렸습니다."
+  - "프로그램은 연구 논문과, 업계 발표와 포스터로 구성된 Engineering Track, 그리고 DAC Pavilion이 있는 전시장으로 이루어집니다. 이 페이지는 제가 사진으로 남긴 포스터와 슬라이드를 주제별로 묶고, 각각 공식 프로그램 페이지로 연결했습니다."
+topics:
+  - title: Emulation, virtualization and firmware-driven verification
+    title_ko: 에뮬레이션, 가상화, 펌웨어 기반 검증
+    items: ["20260727_165840", "20260727_162722", "20260727_155157", "20260728_134334"]
+  - title: DFT and RTL generation
+    title_ko: DFT와 RTL 생성
+    items: ["20260728_134119"]
+  - title: Power integrity and signoff
+    title_ko: 전력 무결성과 signoff
+    items: ["20260727_114025", "20260728_100544", "20260728_134139"]
+  - title: Physical verification (LVS)
+    title_ko: 물리 검증(LVS)
+    items: ["20260728_170302", "20260729_123634"]
+  - title: Verification methodology (CDC, RDC, formal, network)
+    title_ko: 검증 방법론(CDC, RDC, formal, 네트워크)
+    items: ["20260729_120436", "20260728_134255", "20260728_172318"]
+  - title: AI and agentic flows for EDA
+    title_ko: EDA를 위한 AI와 에이전틱 플로우
+    items: ["20260728_110354", "20260729_154134"]
+  - title: SoC architecture and memory
+    title_ko: SoC 아키텍처와 메모리
+    items: ["20260727_154434", "20260729_120300", "20260729_151330"]
 interests:
   - title: Hybrid Virtual ICE / virtualized tester on emulation
     title_ko: 하이브리드 Virtual ICE / 에뮬레이션 위의 가상화 테스터

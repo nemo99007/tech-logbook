@@ -144,7 +144,10 @@ def build_conf(conf) -> None:
              f"[Official site]({m['url']}) · [Home](../index.md)" if m.get("url") else "[Home](../index.md)", ""]
     lines += para(f"*{m.get('tagline', '')}* — {n} posters and slides I looked at.",
                   f"*{m.get('tagline_ko', m.get('tagline', ''))}* — 제가 본 포스터와 슬라이드 {n}개입니다.")
-    ko_of = {i["title"]: i for i in m.get("interests", [])}
+    if m.get("about"):
+        lines += head(2, "About DAC", "DAC 소개")
+        for en, ko in zip(m["about"], m["about_ko"]):
+            lines += para(en, ko)
     if pg.get("archive"):
         lines += head(2, "Official DAC 2026 Archive", "공식 DAC 2026 아카이브", "archive-ko")
         lines += para("Everything here comes from the official conference; my photos below link back to it.",
@@ -155,42 +158,41 @@ def build_conf(conf) -> None:
                       "full texts are in the ACM proceedings (research) and the Engineering Track proceedings zip.",
                       "모든 발표, 포스터, 논문은 검색 가능한 프로그램에 초록과 함께 각자의 페이지가 있고, "
                       "전문은 ACM 프로시딩(연구)과 Engineering Track 프로시딩 zip에 있습니다.")
-    if m.get("interests"):
-        by_stem = {p["file"].rsplit(".", 1)[0]: p for p in photos}
-        lines += head(2, "What I Wanted to Learn at DAC", "DAC에서 배우고 싶었던 것")
-        for it in m["interests"]:
-            links = ", ".join(f"[{analysis[by_stem[s]['file']]['title']}](#{item_id(by_stem[s])})"
-                              for s in it["items"] if s in by_stem)
-            note = (" " + sp(it["note"], it.get("note_ko", it["note"]))) if it.get("note") else ""
-            lines.append(f"- **{sp(it['title'], it.get('title_ko', it['title']))}** —{note}"
-                         + (f" {links}" if links else ""))
-        lines.append("")
-        prog = conf.config / "program.yaml"
-        if prog.exists():
-            pg = yaml.safe_load(prog.read_text())
-            lines += head(2, "From the Official DAC 2026 Program", "공식 DAC 2026 프로그램에서")
-            lines += para(f"Titles, times and rooms only, from the [official program]({pg['source']}); "
-                          "not summaries and not necessarily sessions I attended.",
-                          f"[공식 프로그램]({pg['source']})에서 가져온 제목, 시간, 장소만 적었습니다. "
-                          "요약이 아니고, 제가 참석한 세션이라는 뜻도 아닙니다.")
-            for t in pg["topics"]:
-                k = ko_of.get(t["interest"], {})
-                lines += head(3, t["interest"], k.get("title_ko", t["interest"]))
-                if t.get("note"):
-                    lines += para(f"*{t['note']}*", f"*{t.get('note_ko', t['note'])}*")
-                for ss in t["sessions"]:
-                    lines.append(f"- **{ss['session']}** — {ss['when']}, {ss['where']}")
-                    for x in ss["talks"]:
-                        u = program_url(re.sub(r"\s*\(.*?\)\s*\$", "", x), index)
-                        lines.append(f"    - {f'[{x}]({u})' if u else x}{photo_link(x)}")
-                lines.append("")
-    if mine:
-        lines += head(2, "My Work", "내 작업")
+    ko_of = {i["title"]: i for i in m.get("interests", [])}
+    by_stem = {p["file"].rsplit(".", 1)[0]: p for p in photos}
+    placed = set()
+    for tp in m.get("topics", []):
+        ps = [by_stem[s] for s in tp["items"] if s in by_stem]
+        placed.update(p["file"] for p in ps)
+        lines += head(2, tp["title"], tp.get("title_ko", tp["title"]))
+        if tp.get("note"):
+            lines += para(tp["note"], tp.get("note_ko", tp["note"]))
         lines += [photo_block(p, analysis[p["file"]], related(p), official(p), pg.get("source", ""), "#official-dac-2026-archive" if pg.get("archive") else "",
-                           program_url(official(p)["title"], index) if official(p) else "", m_url) for p in mine]
-    lines += head(2, "Posters & Slides", "포스터와 슬라이드")
-    lines += [photo_block(p, analysis[p["file"]], related(p), official(p), pg.get("source", ""), "#official-dac-2026-archive" if pg.get("archive") else "",
-                           program_url(official(p)["title"], index) if official(p) else "", m_url) for p in others]
+                           program_url(official(p)["title"], index) if official(p) else "", m_url) for p in ps]
+    rest = [p for p in photos if p["file"] not in placed]
+    if rest:
+        lines += head(2, "Other Posters & Slides", "그 밖의 포스터와 슬라이드")
+        lines += [photo_block(p, analysis[p["file"]], related(p), official(p), pg.get("source", ""), "#official-dac-2026-archive" if pg.get("archive") else "",
+                           program_url(official(p)["title"], index) if official(p) else "", m_url) for p in rest]
+    prog = conf.config / "program.yaml"
+    if prog.exists():
+        pg = yaml.safe_load(prog.read_text())
+        lines += head(2, "From the Official DAC 2026 Program", "공식 DAC 2026 프로그램에서")
+        lines += para(f"Titles, times and rooms only, from the [official program]({pg['source']}); "
+                      "not summaries and not necessarily sessions I attended.",
+                      f"[공식 프로그램]({pg['source']})에서 가져온 제목, 시간, 장소만 적었습니다. "
+                      "요약이 아니고, 제가 참석한 세션이라는 뜻도 아닙니다.")
+        for t in pg["topics"]:
+            k = ko_of.get(t["interest"], {})
+            lines += head(3, t["interest"], k.get("title_ko", t["interest"]))
+            if t.get("note"):
+                lines += para(f"*{t['note']}*", f"*{t.get('note_ko', t['note'])}*")
+            for ss in t["sessions"]:
+                lines.append(f"- **{ss['session']}** — {ss['when']}, {ss['where']}")
+                for x in ss["talks"]:
+                    u = program_url(re.sub(r"\s*\(.*?\)\s*\$", "", x), index)
+                    lines.append(f"    - {f'[{x}]({u})' if u else x}{photo_link(x)}")
+            lines.append("")
     lines += head(2, "Tags", "태그")
     for t in sorted(by_tag):
         links = ", ".join(f"[{analysis[p['file']]['title']}](#{item_id(p)})" for p in by_tag[t])
