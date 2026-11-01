@@ -103,8 +103,8 @@ def build_conf(conf) -> None:
     photos = [p for p in yaml.safe_load(conf.manifest.read_text())["photos"] if p["include"]]
     analysis = (yaml.safe_load(conf.analysis.read_text()) if conf.analysis.exists() else None) or {}
     photos = [p for p in photos if p["file"] in analysis]
-    mine = [p for p in photos if analysis[p["file"]].get("is_my_poster")]
-    others = [p for p in photos if not analysis[p["file"]].get("is_my_poster")]
+    mine = []
+    others = photos
 
     by_tag = defaultdict(list)
     for p in photos:

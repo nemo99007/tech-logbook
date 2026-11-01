@@ -4,7 +4,7 @@ topics:
   - interest: Hybrid Virtual ICE / virtualized tester on emulation
     sessions:
       - {session: Engineering Poster Session One, when: "Mon Jul 27, 5-6pm", where: "DAC Pavilion, Exhibit Floor",
-         talks: ["Pre-Silicon Real Workloads Validation: Integration of Wireless Network Testers and Hardware Emulation via Virtualization (mine)",
+         talks: ["Pre-Silicon Real Workloads Validation: Integration of Wireless Network Testers and Hardware Emulation via Virtualization",
                  "A Security-Centric Virtual Platform for Accelerating Shift-Left Security Firmware Development",
                  "Using Arm Native Acceleration with VLAB Virtual Platforms",
                  "Transforming Linux Drivers for Pre-Silicon Verification and Emulation Using SystemVerilog DPI-C"]}

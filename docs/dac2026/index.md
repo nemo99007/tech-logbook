@@ -37,10 +37,10 @@ Every talk, poster and paper has its own page, with abstract, in the searchable 
 
 ## DAC에서 배우고 싶었던 것 { .ko }
 
-- **<span class="en">Hybrid Virtual ICE / virtualized tester on emulation</span><span class="ko">하이브리드 Virtual ICE / 에뮬레이션 위의 가상화 테스터</span>** — <span class="en">My own poster, plus the other posters that virtualize the outside world around the emulator.</span><span class="ko">제 포스터와, 에뮬레이터 바깥 세계를 가상화하는 다른 포스터들입니다.</span> [My poster: Hybrid Virtual ICE — Pre-Silicon Real Workloads Validation](#p20260727165840), [Fastboot virtualization and on-prem LLM failure analysis (Main Idea slide)](#p20260727162722)
+- **<span class="en">Hybrid Virtual ICE / virtualized tester on emulation</span><span class="ko">하이브리드 Virtual ICE / 에뮬레이션 위의 가상화 테스터</span>** — <span class="en">Posters that virtualize the outside world around the emulator.</span><span class="ko">에뮬레이터 바깥 세계를 가상화하는 다른 포스터들입니다.</span> [Hybrid Virtual ICE — Pre-Silicon Real Workloads Validation](#p20260727165840), [Fastboot virtualization and on-prem LLM failure analysis (Main Idea slide)](#p20260727162722)
 - **<span class="en">DFT automation (SystemRDL-to-RTL, DATP) and gate-level DFT emulation</span><span class="ko">DFT 자동화(SystemRDL-to-RTL, DATP)와 게이트 레벨 DFT 에뮬레이션</span>** — [Design-aware test points in SystemRDL-to-RTL generators](#p20260728134119), [DFT verification with Veloce full-chip gate-level emulation](#p20260728134334)
 - **<span class="en">AI/HPC multi-path network verification</span><span class="ko">AI/HPC 멀티패스 네트워크 검증</span>** — [Flexible and scalable network modeling for AI/HPC network verification](#p20260728172318)
-- **<span class="en">Emulation, UVM acceleration and firmware-driven verification</span><span class="ko">에뮬레이션, UVM acceleration, 펌웨어 기반 검증</span>** — [Firmware-driven random verification on emulation](#p20260727155157), [My poster: Hybrid Virtual ICE — Pre-Silicon Real Workloads Validation](#p20260727165840), [DFT verification with Veloce full-chip gate-level emulation](#p20260728134334)
+- **<span class="en">Emulation, UVM acceleration and firmware-driven verification</span><span class="ko">에뮬레이션, UVM acceleration, 펌웨어 기반 검증</span>** — [Firmware-driven random verification on emulation](#p20260727155157), [Hybrid Virtual ICE — Pre-Silicon Real Workloads Validation](#p20260727165840), [DFT verification with Veloce full-chip gate-level emulation](#p20260728134334)
 - **<span class="en">Agentic AI and LLM for EDA / triage</span><span class="ko">EDA와 triage를 위한 에이전틱 AI와 LLM</span>** — [AI-Assisted EDA Tools Development](#p20260728110354), [Fastboot virtualization and on-prem LLM failure analysis (Main Idea slide)](#p20260727162722)
 - **<span class="en">CXL / near-memory / PIM and emulation power analysis</span><span class="ko">CXL / near-memory / PIM과 에뮬레이션 전력 분석</span>** — <span class="en">No photos of mine; see the program listing below for the sessions and papers.</span><span class="ko">제가 찍은 사진은 없습니다. 아래 프로그램 목록에서 세션과 논문을 확인하세요.</span>
 
@@ -59,7 +59,7 @@ Titles, times and rooms only, from the [official program](https://confcats-sitep
 ### 하이브리드 Virtual ICE / 에뮬레이션 위의 가상화 테스터 { .ko }
 
 - **Engineering Poster Session One** — Mon Jul 27, 5-6pm, DAC Pavilion, Exhibit Floor
-    - [Pre-Silicon Real Workloads Validation: Integration of Wireless Network Testers and Hardware Emulation via Virtualization (mine)](https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST060&sess=sess264) — [my photo](#p20260727165840)
+    - [Pre-Silicon Real Workloads Validation: Integration of Wireless Network Testers and Hardware Emulation via Virtualization](https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST060&sess=sess264) — [my photo](#p20260727165840)
     - [A Security-Centric Virtual Platform for Accelerating Shift-Left Security Firmware Development](https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST135&sess=sess264)
     - [Using Arm Native Acceleration with VLAB Virtual Platforms](https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPRES191&sess=sess263)
     - [Transforming Linux Drivers for Pre-Silicon Verification and Emulation Using SystemVerilog DPI-C](https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST289&sess=sess264)
@@ -143,64 +143,6 @@ Titles, times and rooms only, from the [official program](https://confcats-sitep
     - [The new era of digital verification: a revolution driven by agentic AI acceleration](https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST043&sess=sess264)
 - **Engineering Poster Session Two** — Tue Jul 28, 5-6pm, DAC Pavilion, Exhibit Floor
     - [XChip: A Guardrailed Agentic Gen-AI Front-End Flow from Intent to GDSII](https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST248&sess=sess295)
-
-## My Work { .en }
-
-## 내 작업 { .ko }
-
-### My poster: Hybrid Virtual ICE — Pre-Silicon Real Workloads Validation {#p20260727165840}
-
-**Anritsu / Samsung / Synopsys (ZeBu)**
-
-![My poster: Hybrid Virtual ICE — Pre-Silicon Real Workloads Validation](assets/images/20260727_165840.jpg){ loading=lazy }
-
-[`emulation`](#tag-emulation) [`virtualization`](#tag-virtualization) [`virtual-ice`](#tag-virtual-ice) [`my-work`](#tag-my-work)
-
-<div class="en" markdown>
-
-!!! info "Slide / Poster Summary"
-    Our Engineering Track poster (right; the Samsung Fastboot poster is on the left). A hybrid virtual ICE: instead of a physical target cable, speed adapter and real tester hardware, a wireless network tester (Anritsu) is connected to the ZeBu-emulated modem SoC through a virtualized packet-based IQ interface, so real network workloads run against cycle-accurate RTL before silicon.
-
-</div>
-
-<div class="ko" markdown>
-
-!!! info "슬라이드 / 포스터 요약"
-    Engineering Track 포스터(오른쪽, 왼쪽은 삼성 Fastboot 포스터)입니다. 하이브리드 virtual ICE로, 물리 타깃 케이블, 스피드 어댑터, 실제 테스터 하드웨어 대신 무선망 테스터(Anritsu)를 패킷 기반 IQ 인터페이스로 가상화해 ZeBu로 에뮬레이션한 모뎀 SoC에 연결합니다. 실리콘 이전에 사이클 정확한 RTL로 실제 네트워크 워크로드를 돌릴 수 있습니다.
-
-</div>
-
-<div class="en" markdown>
-
-!!! tip "Front-End & Emulation Perspective"
-    Traditional ICE ties emulation to physical cables and speed adapters, which causes frequency mismatch, hard-to-reproduce runs and no remote access, while a pure virtual platform is not cycle accurate. Hybrid virtual ICE keeps the RTL in the emulator and virtualizes the outside world. We frame it as an industry interoperability challenge between tools and emulators, not a one-off internal fix.
-
-</div>
-
-<div class="ko" markdown>
-
-!!! tip "프론트엔드 · 에뮬레이션 관점"
-    기존 ICE는 에뮬레이션을 물리 케이블과 스피드 어댑터에 묶어 두기 때문에 주파수 불일치, 재현이 어려운 실행, 원격 접속 불가 문제가 생기고, 순수 가상 플랫폼은 사이클 정확하지 않습니다. 하이브리드 virtual ICE는 RTL은 에뮬레이터에 두고 외부 세계만 가상화합니다. 사내 한 번의 해결책이 아니라 툴과 에뮬레이터 사이의 업계 상호운용성 과제로 보고 있습니다.
-
-</div>
-
-<div class="en" markdown>
-
-!!! abstract "In the official DAC 2026 program"
-    *Pre-Silicon Real Workloads Validation: Integration of Wireless Network Testers and Hardware Emulation via Virtualization*  
-    Engineering Poster Session One — Mon Jul 27, 5-6pm, DAC Pavilion, Exhibit Floor · [program](https://confcats-siteplex.s3.amazonaws.com/dac/images/dac-2026_program_july-22.pdf) · [official page](https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST060&sess=sess264) · [archive](#official-dac-2026-archive)
-
-</div>
-
-<div class="ko" markdown>
-
-!!! abstract "공식 DAC 2026 프로그램"
-    *Pre-Silicon Real Workloads Validation: Integration of Wireless Network Testers and Hardware Emulation via Virtualization*  
-    Engineering Poster Session One — Mon Jul 27, 5-6pm, DAC Pavilion, Exhibit Floor · [프로그램](https://confcats-siteplex.s3.amazonaws.com/dac/images/dac-2026_program_july-22.pdf) · [공식 페이지](https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST060&sess=sess264) · [아카이브](#archive-ko)
-
-</div>
-
-<span class="en">Related:</span><span class="ko">관련:</span> [Fastboot virtualization and on-prem LLM failure analysis (Main Idea slide)](#p20260727162722) · [Firmware-driven random verification on emulation](#p20260727155157) · [DFT verification with Veloce full-chip gate-level emulation](#p20260728134334)
 
 ## Posters & Slides { .en }
 
@@ -364,7 +306,7 @@ Titles, times and rooms only, from the [official program](https://confcats-sitep
 
 </div>
 
-<span class="en">Related:</span><span class="ko">관련:</span> [Fastboot virtualization and on-prem LLM failure analysis (Main Idea slide)](#p20260727162722) · [My poster: Hybrid Virtual ICE — Pre-Silicon Real Workloads Validation](#p20260727165840) · [DFT verification with Veloce full-chip gate-level emulation](#p20260728134334)
+<span class="en">Related:</span><span class="ko">관련:</span> [Fastboot virtualization and on-prem LLM failure analysis (Main Idea slide)](#p20260727162722) · [Hybrid Virtual ICE — Pre-Silicon Real Workloads Validation](#p20260727165840) · [DFT verification with Veloce full-chip gate-level emulation](#p20260728134334)
 
 ### Fastboot virtualization and on-prem LLM failure analysis (Main Idea slide) {#p20260727162722}
 
@@ -418,7 +360,61 @@ Titles, times and rooms only, from the [official program](https://confcats-sitep
 
 </div>
 
-<span class="en">Related:</span><span class="ko">관련:</span> [My poster: Hybrid Virtual ICE — Pre-Silicon Real Workloads Validation](#p20260727165840) · [Firmware-driven random verification on emulation](#p20260727155157) · [AI-Assisted EDA Tools Development](#p20260728110354)
+<span class="en">Related:</span><span class="ko">관련:</span> [Hybrid Virtual ICE — Pre-Silicon Real Workloads Validation](#p20260727165840) · [Firmware-driven random verification on emulation](#p20260727155157) · [AI-Assisted EDA Tools Development](#p20260728110354)
+
+### Hybrid Virtual ICE — Pre-Silicon Real Workloads Validation {#p20260727165840}
+
+**Anritsu / Samsung / Synopsys (ZeBu)**
+
+![Hybrid Virtual ICE — Pre-Silicon Real Workloads Validation](assets/images/20260727_165840.jpg){ loading=lazy }
+
+[`emulation`](#tag-emulation) [`virtualization`](#tag-virtualization) [`virtual-ice`](#tag-virtual-ice)
+
+<div class="en" markdown>
+
+!!! info "Slide / Poster Summary"
+    Engineering Track poster (right; the Samsung Fastboot poster is on the left). A hybrid virtual ICE: instead of a physical target cable, speed adapter and real tester hardware, a wireless network tester (Anritsu) is connected to the ZeBu-emulated modem SoC through a virtualized packet-based IQ interface, so real network workloads run against cycle-accurate RTL before silicon.
+
+</div>
+
+<div class="ko" markdown>
+
+!!! info "슬라이드 / 포스터 요약"
+    Engineering Track 포스터(오른쪽, 왼쪽은 삼성 Fastboot 포스터)입니다. 하이브리드 virtual ICE로, 물리 타깃 케이블, 스피드 어댑터, 실제 테스터 하드웨어 대신 무선망 테스터(Anritsu)를 패킷 기반 IQ 인터페이스로 가상화해 ZeBu로 에뮬레이션한 모뎀 SoC에 연결합니다. 실리콘 이전에 사이클 정확한 RTL로 실제 네트워크 워크로드를 돌릴 수 있습니다.
+
+</div>
+
+<div class="en" markdown>
+
+!!! tip "Front-End & Emulation Perspective"
+    Traditional ICE ties emulation to physical cables and speed adapters, which causes frequency mismatch, hard-to-reproduce runs and no remote access, while a pure virtual platform is not cycle accurate. Hybrid virtual ICE keeps the RTL in the emulator and virtualizes the outside world. We frame it as an industry interoperability challenge between tools and emulators, not a one-off internal fix.
+
+</div>
+
+<div class="ko" markdown>
+
+!!! tip "프론트엔드 · 에뮬레이션 관점"
+    기존 ICE는 에뮬레이션을 물리 케이블과 스피드 어댑터에 묶어 두기 때문에 주파수 불일치, 재현이 어려운 실행, 원격 접속 불가 문제가 생기고, 순수 가상 플랫폼은 사이클 정확하지 않습니다. 하이브리드 virtual ICE는 RTL은 에뮬레이터에 두고 외부 세계만 가상화합니다. 사내 한 번의 해결책이 아니라 툴과 에뮬레이터 사이의 업계 상호운용성 과제로 보고 있습니다.
+
+</div>
+
+<div class="en" markdown>
+
+!!! abstract "In the official DAC 2026 program"
+    *Pre-Silicon Real Workloads Validation: Integration of Wireless Network Testers and Hardware Emulation via Virtualization*  
+    Engineering Poster Session One — Mon Jul 27, 5-6pm, DAC Pavilion, Exhibit Floor · [program](https://confcats-siteplex.s3.amazonaws.com/dac/images/dac-2026_program_july-22.pdf) · [official page](https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST060&sess=sess264) · [archive](#official-dac-2026-archive)
+
+</div>
+
+<div class="ko" markdown>
+
+!!! abstract "공식 DAC 2026 프로그램"
+    *Pre-Silicon Real Workloads Validation: Integration of Wireless Network Testers and Hardware Emulation via Virtualization*  
+    Engineering Poster Session One — Mon Jul 27, 5-6pm, DAC Pavilion, Exhibit Floor · [프로그램](https://confcats-siteplex.s3.amazonaws.com/dac/images/dac-2026_program_july-22.pdf) · [공식 페이지](https://63dac.conference-program.com/?post_type=page&p=16&id=ENGPOST060&sess=sess264) · [아카이브](#archive-ko)
+
+</div>
+
+<span class="en">Related:</span><span class="ko">관련:</span> [Fastboot virtualization and on-prem LLM failure analysis (Main Idea slide)](#p20260727162722) · [Firmware-driven random verification on emulation](#p20260727155157) · [DFT verification with Veloce full-chip gate-level emulation](#p20260728134334)
 
 ### Multi-cycle dynamic vectorless analysis for PDN signoff {#p20260728100544}
 
@@ -742,7 +738,7 @@ Titles, times and rooms only, from the [official program](https://confcats-sitep
 
 </div>
 
-<span class="en">Related:</span><span class="ko">관련:</span> [Firmware-driven random verification on emulation](#p20260727155157) · [Fastboot virtualization and on-prem LLM failure analysis (Main Idea slide)](#p20260727162722) · [My poster: Hybrid Virtual ICE — Pre-Silicon Real Workloads Validation](#p20260727165840)
+<span class="en">Related:</span><span class="ko">관련:</span> [Firmware-driven random verification on emulation](#p20260727155157) · [Fastboot virtualization and on-prem LLM failure analysis (Main Idea slide)](#p20260727162722) · [Hybrid Virtual ICE — Pre-Silicon Real Workloads Validation](#p20260727165840)
 
 ### Automated LVS rule deck qualification {#p20260728170302}
 
@@ -1072,7 +1068,7 @@ Official DAC 2026: [63rd DAC page](https://dac.com/63rd-dac)
 
 ### emulation {#tag-emulation}
 
-[Firmware-driven random verification on emulation](#p20260727155157), [Fastboot virtualization and on-prem LLM failure analysis (Main Idea slide)](#p20260727162722), [My poster: Hybrid Virtual ICE — Pre-Silicon Real Workloads Validation](#p20260727165840), [DFT verification with Veloce full-chip gate-level emulation](#p20260728134334)
+[Firmware-driven random verification on emulation](#p20260727155157), [Fastboot virtualization and on-prem LLM failure analysis (Main Idea slide)](#p20260727162722), [Hybrid Virtual ICE — Pre-Silicon Real Workloads Validation](#p20260727165840), [DFT verification with Veloce full-chip gate-level emulation](#p20260728134334)
 
 ### firmware {#tag-firmware}
 
@@ -1132,9 +1128,9 @@ Official DAC 2026: [63rd DAC page](https://dac.com/63rd-dac)
 
 ### virtual-ice {#tag-virtual-ice}
 
-[My poster: Hybrid Virtual ICE — Pre-Silicon Real Workloads Validation](#p20260727165840)
+[Hybrid Virtual ICE — Pre-Silicon Real Workloads Validation](#p20260727165840)
 
 ### virtualization {#tag-virtualization}
 
-[Fastboot virtualization and on-prem LLM failure analysis (Main Idea slide)](#p20260727162722), [My poster: Hybrid Virtual ICE — Pre-Silicon Real Workloads Validation](#p20260727165840)
+[Fastboot virtualization and on-prem LLM failure analysis (Main Idea slide)](#p20260727162722), [Hybrid Virtual ICE — Pre-Silicon Real Workloads Validation](#p20260727165840)
 

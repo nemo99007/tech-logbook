@@ -20,8 +20,8 @@ my_work: >-
 interests:
   - title: Hybrid Virtual ICE / virtualized tester on emulation
     title_ko: 하이브리드 Virtual ICE / 에뮬레이션 위의 가상화 테스터
-    note_ko: 제 포스터와, 에뮬레이터 바깥 세계를 가상화하는 다른 포스터들입니다.
-    note: My own poster, plus the other posters that virtualize the outside world around the emulator.
+    note_ko: 에뮬레이터 바깥 세계를 가상화하는 다른 포스터들입니다.
+    note: Posters that virtualize the outside world around the emulator.
     items: ["20260727_165840", "20260727_162722"]
   - title: DFT automation (SystemRDL-to-RTL, DATP) and gate-level DFT emulation
     title_ko: DFT 자동화(SystemRDL-to-RTL, DATP)와 게이트 레벨 DFT 에뮬레이션

@@ -258,10 +258,10 @@
     전반에 적용할 수 있습니다.
 20260727_165840.jpg:
   is_technical: true
-  title: 'My poster: Hybrid Virtual ICE — Pre-Silicon Real Workloads Validation'
+  title: 'Hybrid Virtual ICE — Pre-Silicon Real Workloads Validation'
   presenter_or_company: Anritsu / Samsung / Synopsys (ZeBu)
   is_my_poster: true
-  summary: 'Our Engineering Track poster (right; the Samsung Fastboot poster is on the left). A hybrid
+  summary: 'Engineering Track poster (right; the Samsung Fastboot poster is on the left). A hybrid
     virtual ICE: instead of a physical target cable, speed adapter and real tester hardware, a wireless
     network tester (Anritsu) is connected to the ZeBu-emulated modem SoC through a virtualized packet-based
     IQ interface, so real network workloads run against cycle-accurate RTL before silicon.'
@@ -273,7 +273,6 @@
   - emulation
   - virtualization
   - virtual-ice
-  - my-work
   summary_ko: Engineering Track 포스터(오른쪽, 왼쪽은 삼성 Fastboot 포스터)입니다. 하이브리드 virtual ICE로, 물리 타깃 케이블, 스피드 어댑터,
     실제 테스터 하드웨어 대신 무선망 테스터(Anritsu)를 패킷 기반 IQ 인터페이스로 가상화해 ZeBu로 에뮬레이션한 모뎀 SoC에 연결합니다. 실리콘 이전에 사이클 정확한
     RTL로 실제 네트워크 워크로드를 돌릴 수 있습니다.
