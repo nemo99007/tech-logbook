@@ -7,6 +7,7 @@ location: Long Beach, CA
 dates: 2026-07-26 ~ 2026-07-29
 url: https://dac.com/63rd-dac
 tagline: Front-End Verification & Emulation Perspective
+tagline_ko: 프론트엔드 검증과 에뮬레이션 관점
 # Free text given to the vision model so it can recognise the author's own work.
 my_work: >-
   The author (Kyuho SHIM, Samsung Electronics) presented an Engineering Track poster
@@ -18,16 +19,24 @@ my_work: >-
 # Topics the author was curious about; each lists the archived items that cover it.
 interests:
   - title: Hybrid Virtual ICE / virtualized tester on emulation
+    title_ko: 하이브리드 Virtual ICE / 에뮬레이션 위의 가상화 테스터
+    note_ko: 제 포스터와, 에뮬레이터 바깥 세계를 가상화하는 다른 포스터들입니다.
     note: My own poster, plus the other posters that virtualize the outside world around the emulator.
     items: ["20260727_165840", "20260727_162722"]
   - title: DFT automation (SystemRDL-to-RTL, DATP) and gate-level DFT emulation
+    title_ko: DFT 자동화(SystemRDL-to-RTL, DATP)와 게이트 레벨 DFT 에뮬레이션
     items: ["20260728_134119", "20260728_134334"]
   - title: AI/HPC multi-path network verification
+    title_ko: AI/HPC 멀티패스 네트워크 검증
     items: ["20260728_172318"]
   - title: Emulation, UVM acceleration and firmware-driven verification
+    title_ko: 에뮬레이션, UVM acceleration, 펌웨어 기반 검증
     items: ["20260727_155157", "20260727_165840", "20260728_134334"]
   - title: Agentic AI and LLM for EDA / triage
+    title_ko: EDA와 triage를 위한 에이전틱 AI와 LLM
     items: ["20260728_110354", "20260727_162722"]
   - title: CXL / near-memory / PIM and emulation power analysis
+    title_ko: CXL / near-memory / PIM과 에뮬레이션 전력 분석
+    note_ko: 제가 찍은 사진은 없습니다. 아래 프로그램 목록에서 세션과 논문을 확인하세요.
     note: No photos of mine; see the program listing below for the sessions and papers.
     items: []

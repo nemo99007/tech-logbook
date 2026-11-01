@@ -45,6 +45,7 @@ topics:
          talks: ["First-Time-Right Power Analysis: Data-Driven Test Selection Through Real-Time Validation of Clocks, ..."]}
   - interest: CXL, near-memory and PIM
     note: Mostly architecture/design papers, not verification talks.
+    note_ko: 검증 발표보다는 아키텍처/설계 논문이 대부분입니다.
     sessions:
       - {session: "The Dawn of the Computational Frontier: Pioneering Devices and Interconnects Empowering Memory-Centric, AI-Scale Systems", when: "Mon Jul 27, 10:30am-12:30pm", where: Mtg Room 202C,
          talks: ["ReMemTier: Rethinking Memory Tiering for CXL-based SSD via Large Granularity Memory Access",
