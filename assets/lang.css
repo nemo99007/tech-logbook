@@ -1,0 +1,6 @@
+html[data-lang="en"] .ko { display: none !important; }
+html[data-lang="ko"] .en { display: none !important; }
+.lang-toggle { display: flex; align-self: center; margin: 0 .6rem; border: 1px solid currentColor;
+  border-radius: 1rem; overflow: hidden; font-size: .65rem; }
+.lang-toggle button { border: 0; background: none; color: inherit; padding: .25rem .6rem; cursor: pointer; opacity: .75; }
+.lang-toggle button[aria-pressed="true"] { background: #fff; color: var(--md-primary-fg-color); opacity: 1; }
