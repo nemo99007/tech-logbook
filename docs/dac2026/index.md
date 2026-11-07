@@ -4,12 +4,6 @@
 
 [Official site](https://dac.com/63rd-dac) · [Home](../index.md)
 
-*Front-End Verification & Emulation Perspective* — 18 posters and slides I looked at.
-{ .en }
-
-*프론트엔드 검증과 에뮬레이션 관점* — 제가 본 포스터와 슬라이드 18개입니다.
-{ .ko }
-
 ## About DAC { .en }
 
 ## DAC 소개 { .ko }
@@ -49,6 +43,8 @@ Every talk, poster and paper has its own page, with abstract, in the searchable 
 모든 발표, 포스터, 논문은 검색 가능한 프로그램에 초록과 함께 각자의 페이지가 있고, 전문은 ACM 프로시딩(연구)과 Engineering Track 프로시딩 zip에 있습니다.
 { .ko }
 
+---
+
 ## Emulation, virtualization and firmware-driven verification { .en }
 
 ## 에뮬레이션, 가상화, 펌웨어 기반 검증 { .ko }
@@ -64,14 +60,14 @@ Every talk, poster and paper has its own page, with abstract, in the searchable 
 <div class="en" markdown>
 
 !!! info "Slide / Poster Summary"
-    Engineering Track poster (right; the Samsung Fastboot poster is on the left). A hybrid virtual ICE: instead of a physical target cable, speed adapter and real tester hardware, a wireless network tester (Anritsu) is connected to the ZeBu-emulated modem SoC through a virtualized packet-based IQ interface, so real network workloads run against cycle-accurate RTL before silicon.
+    Engineering Track poster, shown front-on. A hybrid virtual ICE: instead of a physical target cable, speed adapter and real tester hardware, a wireless network tester (Anritsu) is connected to the ZeBu-emulated modem SoC through a virtualized packet-based IQ interface, so real network workloads run against cycle-accurate RTL before silicon.
 
 </div>
 
 <div class="ko" markdown>
 
 !!! info "슬라이드 / 포스터 요약"
-    Engineering Track 포스터(오른쪽, 왼쪽은 삼성 Fastboot 포스터)입니다. 하이브리드 virtual ICE로, 물리 타깃 케이블, 스피드 어댑터, 실제 테스터 하드웨어 대신 무선망 테스터(Anritsu)를 패킷 기반 IQ 인터페이스로 가상화해 ZeBu로 에뮬레이션한 모뎀 SoC에 연결합니다. 실리콘 이전에 사이클 정확한 RTL로 실제 네트워크 워크로드를 돌릴 수 있습니다.
+    Engineering Track 포스터를 정면에서 본 모습입니다. 하이브리드 virtual ICE로, 물리 타깃 케이블, 스피드 어댑터, 실제 테스터 하드웨어 대신 무선망 테스터(Anritsu)를 패킷 기반 IQ 인터페이스로 가상화해 ZeBu로 에뮬레이션한 모뎀 SoC에 연결합니다. 실리콘 이전에 사이클 정확한 RTL로 실제 네트워크 워크로드를 돌릴 수 있습니다.
 
 </div>
 
@@ -105,7 +101,9 @@ Every talk, poster and paper has its own page, with abstract, in the searchable 
 
 </div>
 
-<span class="en">Related:</span><span class="ko">관련:</span> [Fastboot virtualization and on-prem LLM failure analysis (Main Idea slide)](#p20260727162722) · [Firmware-driven random verification on emulation](#p20260727155157) · [DFT verification with Veloce full-chip gate-level emulation](#p20260728134334)
+<span class="en">Related:</span><span class="ko">관련:</span> [Fastboot virtualization and on-prem LLM failure analysis (Main Idea slide)](#p20260727162722)
+
+---
 
 ### Fastboot virtualization and on-prem LLM failure analysis (Main Idea slide) {#p20260727162722}
 
@@ -159,7 +157,9 @@ Every talk, poster and paper has its own page, with abstract, in the searchable 
 
 </div>
 
-<span class="en">Related:</span><span class="ko">관련:</span> [Hybrid Virtual ICE — Pre-Silicon Real Workloads Validation](#p20260727165840) · [Firmware-driven random verification on emulation](#p20260727155157) · [AI-Assisted EDA Tools Development](#p20260728110354)
+<span class="en">Related:</span><span class="ko">관련:</span> [Hybrid Virtual ICE — Pre-Silicon Real Workloads Validation](#p20260727165840)
+
+---
 
 ### Firmware-driven random verification on emulation {#p20260727155157}
 
@@ -213,7 +213,7 @@ Every talk, poster and paper has its own page, with abstract, in the searchable 
 
 </div>
 
-<span class="en">Related:</span><span class="ko">관련:</span> [Fastboot virtualization and on-prem LLM failure analysis (Main Idea slide)](#p20260727162722) · [Hybrid Virtual ICE — Pre-Silicon Real Workloads Validation](#p20260727165840) · [DFT verification with Veloce full-chip gate-level emulation](#p20260728134334)
+---
 
 ### DFT verification with Veloce full-chip gate-level emulation {#p20260728134334}
 
@@ -267,7 +267,7 @@ Every talk, poster and paper has its own page, with abstract, in the searchable 
 
 </div>
 
-<span class="en">Related:</span><span class="ko">관련:</span> [Firmware-driven random verification on emulation](#p20260727155157) · [Fastboot virtualization and on-prem LLM failure analysis (Main Idea slide)](#p20260727162722) · [Hybrid Virtual ICE — Pre-Silicon Real Workloads Validation](#p20260727165840)
+---
 
 ## DFT and RTL generation { .en }
 
@@ -325,7 +325,7 @@ Every talk, poster and paper has its own page, with abstract, in the searchable 
 
 </div>
 
-<span class="en">Related:</span><span class="ko">관련:</span> [AI-Assisted EDA Tools Development](#p20260728110354) · [DFT verification with Veloce full-chip gate-level emulation](#p20260728134334)
+---
 
 ## Power integrity and signoff { .en }
 
@@ -383,7 +383,7 @@ Every talk, poster and paper has its own page, with abstract, in the searchable 
 
 </div>
 
-<span class="en">Related:</span><span class="ko">관련:</span> [Multi-cycle dynamic vectorless analysis for PDN signoff](#p20260728100544) · [VT-skew MC analysis and load-splitting IR-ECO](#p20260728134139)
+---
 
 ### Multi-cycle dynamic vectorless analysis for PDN signoff {#p20260728100544}
 
@@ -437,7 +437,9 @@ Every talk, poster and paper has its own page, with abstract, in the searchable 
 
 </div>
 
-<span class="en">Related:</span><span class="ko">관련:</span> [VT-skew MC analysis and load-splitting IR-ECO](#p20260728134139) · [Voltage-droop mitigation on MAIA 200](#p20260727114025) · [Automated LVS rule deck qualification](#p20260728170302)
+<span class="en">Related:</span><span class="ko">관련:</span> [VT-skew MC analysis and load-splitting IR-ECO](#p20260728134139)
+
+---
 
 ### VT-skew MC analysis and load-splitting IR-ECO {#p20260728134139}
 
@@ -491,7 +493,9 @@ Every talk, poster and paper has its own page, with abstract, in the searchable 
 
 </div>
 
-<span class="en">Related:</span><span class="ko">관련:</span> [Multi-cycle dynamic vectorless analysis for PDN signoff](#p20260728100544) · [Voltage-droop mitigation on MAIA 200](#p20260727114025) · [Automated LVS rule deck qualification](#p20260728170302)
+<span class="en">Related:</span><span class="ko">관련:</span> [Multi-cycle dynamic vectorless analysis for PDN signoff](#p20260728100544)
+
+---
 
 ## Physical verification (LVS) { .en }
 
@@ -535,7 +539,9 @@ Every talk, poster and paper has its own page, with abstract, in the searchable 
 
 </div>
 
-<span class="en">Related:</span><span class="ko">관련:</span> [Accelerating circuit verification with Calibre nmLVS Recon](#p20260729123634) · [Multi-cycle dynamic vectorless analysis for PDN signoff](#p20260728100544) · [VT-skew MC analysis and load-splitting IR-ECO](#p20260728134139)
+<span class="en">Related:</span><span class="ko">관련:</span> [Accelerating circuit verification with Calibre nmLVS Recon](#p20260729123634)
+
+---
 
 ### Accelerating circuit verification with Calibre nmLVS Recon {#p20260729123634}
 
@@ -575,7 +581,9 @@ Every talk, poster and paper has its own page, with abstract, in the searchable 
 
 </div>
 
-<span class="en">Related:</span><span class="ko">관련:</span> [Automated LVS rule deck qualification](#p20260728170302) · [Multi-cycle dynamic vectorless analysis for PDN signoff](#p20260728100544) · [VT-skew MC analysis and load-splitting IR-ECO](#p20260728134139)
+<span class="en">Related:</span><span class="ko">관련:</span> [Automated LVS rule deck qualification](#p20260728170302)
+
+---
 
 ## Verification methodology (CDC, RDC, formal, network) { .en }
 
@@ -633,7 +641,7 @@ Every talk, poster and paper has its own page, with abstract, in the searchable 
 
 </div>
 
-<span class="en">Related:</span><span class="ko">관련:</span> [RDC methodology: noise reduction and accuracy](#p20260728134255) · [Flexible and scalable network modeling for AI/HPC network verification](#p20260728172318)
+---
 
 ### RDC methodology: noise reduction and accuracy {#p20260728134255}
 
@@ -687,7 +695,7 @@ Every talk, poster and paper has its own page, with abstract, in the searchable 
 
 </div>
 
-<span class="en">Related:</span><span class="ko">관련:</span> [Flexible and scalable network modeling for AI/HPC network verification](#p20260728172318) · [Zero-glitch confidence: static, formal and simulation](#p20260729120436)
+---
 
 ### Flexible and scalable network modeling for AI/HPC network verification {#p20260728172318}
 
@@ -741,7 +749,7 @@ Every talk, poster and paper has its own page, with abstract, in the searchable 
 
 </div>
 
-<span class="en">Related:</span><span class="ko">관련:</span> [Firmware-driven random verification on emulation](#p20260727155157) · [RDC methodology: noise reduction and accuracy](#p20260728134255) · [Zero-glitch confidence: static, formal and simulation](#p20260729120436)
+---
 
 ## AI and agentic flows for EDA { .en }
 
@@ -799,7 +807,7 @@ Every talk, poster and paper has its own page, with abstract, in the searchable 
 
 </div>
 
-<span class="en">Related:</span><span class="ko">관련:</span> [Fastboot virtualization and on-prem LLM failure analysis (Main Idea slide)](#p20260727162722) · [Design-aware test points in SystemRDL-to-RTL generators](#p20260728134119) · [DFT verification with Veloce full-chip gate-level emulation](#p20260728134334)
+---
 
 ### AI-powered batch flow for memory cache verification {#p20260729154134}
 
@@ -853,7 +861,7 @@ Every talk, poster and paper has its own page, with abstract, in the searchable 
 
 </div>
 
-<span class="en">Related:</span><span class="ko">관련:</span> [Multi-cycle dynamic vectorless analysis for PDN signoff](#p20260728100544) · [VT-skew MC analysis and load-splitting IR-ECO](#p20260728134139) · [Automated LVS rule deck qualification](#p20260728170302)
+---
 
 ## SoC architecture and memory { .en }
 
@@ -911,6 +919,8 @@ Every talk, poster and paper has its own page, with abstract, in the searchable 
 
 </div>
 
+---
+
 ### SLC-based real-time traffic buffering {#p20260729120300}
 
 **Samsung**
@@ -949,7 +959,7 @@ Every talk, poster and paper has its own page, with abstract, in the searchable 
 
 </div>
 
-<span class="en">Related:</span><span class="ko">관련:</span> [Best Presentation Award — Systems & Software](#p20260729151330)
+---
 
 ### Best Presentation Award — Systems & Software {#p20260729151330}
 
@@ -988,8 +998,6 @@ Every talk, poster and paper has its own page, with abstract, in the searchable 
     Beyond the Block: Verifying Complex Systems in Context — Wed Jul 29, 2:45-3pm, Seaside Ballroom A · [프로그램](https://confcats-siteplex.s3.amazonaws.com/dac/images/dac-2026_program_july-22.pdf) · [공식 페이지](https://63dac.conference-program.com/presentation/?id=ENGPRES048&sess=sess269) · [아카이브](#archive-ko)
 
 </div>
-
-<span class="en">Related:</span><span class="ko">관련:</span> [SLC-based real-time traffic buffering](#p20260729120300)
 
 ## From the Official DAC 2026 Program { .en }
 

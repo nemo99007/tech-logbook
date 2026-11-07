@@ -13,6 +13,8 @@ Re-running keeps manual edits to `kind` / `include` / `blur` in the manifest.
 0..1 of the image) blurs those boxes instead of the detected faces.
 `crop: [x0,y0,x1,y1]` (fractions) keeps only that region (e.g. the poster) and
 skips blurring.
+`warp: [[x,y] x4]` (fractions, corners TL, TR, BR, BL) deskews a poster shot at an angle
+into a front-on view; it replaces `crop` and also skips blurring.
 `--only a.jpg b.jpg` reprocesses just those files.
 """
 import re
@@ -114,6 +116,13 @@ def main() -> int:
             x0, y0, x1, y1 = old["crop"]
             w0, h0 = img.size
             img = img.crop((int(x0 * w0), int(y0 * h0), int(x1 * w0), int(y1 * h0)))
+        if old.get("warp"):  # deskew a poster photographed at an angle
+            w0, h0 = img.size
+            tl, tr, br, bl = [(x * w0, y * h0) for x, y in old["warp"]]
+            ow = int(max(np.hypot(tr[0] - tl[0], tr[1] - tl[1]), np.hypot(br[0] - bl[0], br[1] - bl[1])))
+            oh = int(max(np.hypot(bl[0] - tl[0], bl[1] - tl[1]), np.hypot(br[0] - tr[0], br[1] - tr[1])))
+            m = cv2.getPerspectiveTransform(np.float32([tl, tr, br, bl]), np.float32([[0, 0], [ow, 0], [ow, oh], [0, oh]]))
+            img = Image.fromarray(cv2.warpPerspective(np.array(img), m, (ow, oh), flags=cv2.INTER_CUBIC))
         bgr = cv2.cvtColor(np.array(img), cv2.COLOR_RGB2BGR)
         faces = detect_faces(bgr)
         H, W = bgr.shape[:2]
@@ -124,7 +133,7 @@ def main() -> int:
             kind = "scene"
         else:
             kind = "tech"
-        mode = "none" if old.get("crop") else old.get("blur", "auto")
+        mode = "none" if old.get("crop") or old.get("warp") else old.get("blur", "auto")
         if mode == "auto":
             bgr = scrub(bgr, faces)
         elif mode != "none":
@@ -142,7 +151,7 @@ def main() -> int:
             "faces": len(faces),
             "kind": old.get("kind", kind),
             "include": old.get("include", kind != "skip"),
-            **{k: old[k] for k in ("blur", "crop", "note") if k in old},
+            **{k: old[k] for k in ("blur", "crop", "warp", "note") if k in old},
         })
         print(f"{p.name}: {taken:%m-%d %H:%M} ({src}) faces={len(faces)} kind={items[-1]['kind']}")
 

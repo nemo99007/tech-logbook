@@ -115,7 +115,7 @@ def build_conf(conf) -> None:
     def related(p):
         mytags = set(analysis[p["file"]].get("tags", [])) - {"my-work"}
         scored = [(len(mytags & set(analysis[q["file"]].get("tags", []))), q) for q in photos if q is not p]
-        scored = [(n, q) for n, q in scored if n]
+        scored = [(n, q) for n, q in scored if n >= 2]  # at least two shared tags, so related stays related
         scored.sort(key=lambda x: -x[0])
         return [(analysis[q["file"]]["title"], item_id(q)) for _, q in scored[:3]]
 
@@ -142,8 +142,6 @@ def build_conf(conf) -> None:
     lines = [f"# {conf.title}", "",
              f"{m['full_name']} · {m.get('location', '')} · {m.get('dates', '')}", "",
              f"[Official site]({m['url']}) · [Home](../index.md)" if m.get("url") else "[Home](../index.md)", ""]
-    lines += para(f"*{m.get('tagline', '')}* — {n} posters and slides I looked at.",
-                  f"*{m.get('tagline_ko', m.get('tagline', ''))}* — 제가 본 포스터와 슬라이드 {n}개입니다.")
     if m.get("about"):
         lines += head(2, "About DAC", "DAC 소개")
         for en, ko in zip(m["about"], m["about_ko"]):
@@ -164,11 +162,15 @@ def build_conf(conf) -> None:
     for tp in m.get("topics", []):
         ps = [by_stem[s] for s in tp["items"] if s in by_stem]
         placed.update(p["file"] for p in ps)
+        lines += ["---", ""]  # rule between topics
         lines += head(2, tp["title"], tp.get("title_ko", tp["title"]))
         if tp.get("note"):
             lines += para(tp["note"], tp.get("note_ko", tp["note"]))
-        lines += [photo_block(p, analysis[p["file"]], related(p), official(p), pg.get("source", ""), "#official-dac-2026-archive" if pg.get("archive") else "",
-                           program_url(official(p)["title"], index) if official(p) else "", m_url) for p in ps]
+        for n, p in enumerate(ps):
+            if n:
+                lines += ["---", ""]  # thin rule between items of one topic
+            lines += [photo_block(p, analysis[p["file"]], related(p), official(p), pg.get("source", ""), "#official-dac-2026-archive" if pg.get("archive") else "",
+                               program_url(official(p)["title"], index) if official(p) else "", m_url)]
     rest = [p for p in photos if p["file"] not in placed]
     if rest:
         lines += head(2, "Other Posters & Slides", "그 밖의 포스터와 슬라이드")

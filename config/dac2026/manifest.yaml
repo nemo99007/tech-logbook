@@ -305,11 +305,15 @@ photos:
   faces: 0
   kind: tech
   include: true
-  crop:
-  - 0.635
-  - 0.09
-  - 0.845
-  - 0.83
+  warp:
+  - - 0.6415
+    - 0.099
+  - - 0.8347
+    - 0.1299
+  - - 0.84
+    - 0.7343
+  - - 0.653
+    - 0.8203
   cluster: 4
 - file: 20260727_165947.jpg
   out: assets/images/20260727_165947.jpg
