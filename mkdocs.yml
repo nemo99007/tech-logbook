@@ -37,5 +37,15 @@ markdown_extensions:
 - md_in_html
 nav:
 - Home: index.md
+- Elastic Seminars in Seoul, October 2026: elastic2026/index.md
+- Keysight World Tech Day Seoul 2026: keysight2026/index.md
+- Google Cloud × Datadog Agent Seminar: google_datadog2026/index.md
+- "Better Together: Snowflake × Dataiku Enterprise AI": dataiku_snowflake2026/index.md
+- SNUG Korea 2026 · Synopsys Converge: snug2026/index.md
+- CadenceLIVE Korea 2026: cadencelive2026/index.md
+- Snowflake World Tour Seoul 2026: snowflake2026/index.md
+- Dell Technologies Forum 2026 Seoul: dellforum2026/index.md
+- Siemens EDA Forum Seoul 2026: siemens2026/index.md
 - DAC 2026: dac2026/index.md
+- Google AI for Business 2026: googlecloud2026/index.md
 - Papers (yt-paper): https://nemo99007.github.io/yt-paper/

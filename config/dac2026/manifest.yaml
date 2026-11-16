@@ -453,7 +453,7 @@ photos:
   time_source: exif
   faces: 0
   kind: tech
-  include: true
+  include: false
   crop:
   - 0.0
   - 0.19

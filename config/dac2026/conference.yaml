@@ -24,9 +24,12 @@ about_ko:
   - "DAC(Design Automation Conference)는 전자 설계 자동화와 칩에서 시스템까지의 설계를 다루는 연례 학회 겸 전시회입니다. 'The Chips to Systems Conference'를 내건 제63회 행사는 2026년 7월 26일부터 29일까지 롱비치에서 열렸습니다."
   - "프로그램은 연구 논문과, 업계 발표와 포스터로 구성된 Engineering Track, 그리고 DAC Pavilion이 있는 전시장으로 이루어집니다. 이 페이지는 제가 사진으로 남긴 포스터와 슬라이드를 주제별로 묶고, 각각 공식 프로그램 페이지로 연결했습니다."
 topics:
+  - title: Verification methodology (CDC, RDC, formal, network)
+    title_ko: 검증 방법론(CDC, RDC, formal, 네트워크)
+    items: ["20260728_172318", "20260729_120436", "20260728_134255"]
   - title: Emulation, virtualization and firmware-driven verification
     title_ko: 에뮬레이션, 가상화, 펌웨어 기반 검증
-    items: ["20260727_165840", "20260727_162722", "20260727_155157", "20260728_134334"]
+    items: ["20260727_165840", "20260727_162722", "20260727_155157"]
   - title: DFT and RTL generation
     title_ko: DFT와 RTL 생성
     items: ["20260728_134119"]
@@ -36,9 +39,6 @@ topics:
   - title: Physical verification (LVS)
     title_ko: 물리 검증(LVS)
     items: ["20260728_170302", "20260729_123634"]
-  - title: Verification methodology (CDC, RDC, formal, network)
-    title_ko: 검증 방법론(CDC, RDC, formal, 네트워크)
-    items: ["20260729_120436", "20260728_134255", "20260728_172318"]
   - title: AI and agentic flows for EDA
     title_ko: EDA를 위한 AI와 에이전틱 플로우
     items: ["20260728_110354", "20260729_154134"]
@@ -51,15 +51,15 @@ interests:
     note_ko: 에뮬레이터 바깥 세계를 가상화하는 다른 포스터들입니다.
     note: Posters that virtualize the outside world around the emulator.
     items: ["20260727_165840", "20260727_162722"]
-  - title: DFT automation (SystemRDL-to-RTL, DATP) and gate-level DFT emulation
-    title_ko: DFT 자동화(SystemRDL-to-RTL, DATP)와 게이트 레벨 DFT 에뮬레이션
-    items: ["20260728_134119", "20260728_134334"]
+  - title: DFT automation (SystemRDL-to-RTL, DATP)
+    title_ko: DFT 자동화(SystemRDL-to-RTL, DATP)
+    items: ["20260728_134119"]
   - title: AI/HPC multi-path network verification
     title_ko: AI/HPC 멀티패스 네트워크 검증
     items: ["20260728_172318"]
   - title: Emulation, UVM acceleration and firmware-driven verification
     title_ko: 에뮬레이션, UVM acceleration, 펌웨어 기반 검증
-    items: ["20260727_155157", "20260727_165840", "20260728_134334"]
+    items: ["20260727_155157", "20260727_165840"]
   - title: Agentic AI and LLM for EDA / triage
     title_ko: EDA와 triage를 위한 에이전틱 AI와 LLM
     items: ["20260728_110354", "20260727_162722"]

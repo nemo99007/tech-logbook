@@ -20,7 +20,7 @@
 {한 문단 소개: 어떤 행사였고 무엇이 의미 있었는지.}
 { .ko }
 
-## Takeaways
+## Highlights
 
 <!-- 3-5 items, summarised from the talks, no quotations.
      Only what the slides or the official page confirm. No unconfirmed numbers or names.

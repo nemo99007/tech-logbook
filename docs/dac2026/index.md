@@ -45,6 +45,172 @@ Every talk, poster and paper has its own page, with abstract, in the searchable 
 
 ---
 
+## Verification methodology (CDC, RDC, formal, network) { .en }
+
+## 검증 방법론(CDC, RDC, formal, 네트워크) { .ko }
+
+### Flexible and scalable network modeling for AI/HPC network verification {#p20260728172318}
+
+**MangoBoost**
+
+![Flexible and scalable network modeling for AI/HPC network verification](assets/images/20260728_172318.jpg){ loading=lazy }
+
+[`uvm`](#tag-uvm) [`network`](#tag-network) [`verification`](#tag-verification)
+
+<div class="en" markdown>
+
+!!! info "Slide / Poster Summary"
+    UVM-based network model with a white-box library and telemetry-driven steering for verifying AI/HPC network designs.
+
+</div>
+
+<div class="ko" markdown>
+
+!!! info "슬라이드 / 포스터 요약"
+    AI/HPC 네트워크 설계 검증을 위한 UVM 기반 네트워크 모델입니다. white-box 라이브러리와 telemetry 기반 steering을 씁니다.
+
+</div>
+
+<div class="en" markdown>
+
+!!! tip "Front-End & Emulation Perspective"
+    Network-scale verification of this kind is hard to fit in an emulator; the question is which parts run on emulation and which stay as models.
+
+</div>
+
+<div class="ko" markdown>
+
+!!! tip "프론트엔드 · 에뮬레이션 관점"
+    이런 네트워크 규모의 검증은 에뮬레이터에 올리기 어렵습니다. 어느 부분을 에뮬레이션에서 돌리고 어느 부분을 모델로 둘지가 질문입니다.
+
+</div>
+
+<div class="en" markdown>
+
+!!! abstract "In the official DAC 2026 program"
+    *Flexible & Scalable Network Modeling for AI/HPC Network Verification*  
+    Engineering Poster Session Two (also Gladiator Arena - Poster Battle One — Tue Jul 28, 5-6pm, DAC Pavilion, Exhibit Floor · [program](https://confcats-siteplex.s3.amazonaws.com/dac/images/dac-2026_program_july-22.pdf) · [official page](https://63dac.conference-program.com/presentation/?id=ENGPOST463&sess=sess223) · [archive](#official-dac-2026-archive)
+
+</div>
+
+<div class="ko" markdown>
+
+!!! abstract "공식 DAC 2026 프로그램"
+    *Flexible & Scalable Network Modeling for AI/HPC Network Verification*  
+    Engineering Poster Session Two (also Gladiator Arena - Poster Battle One — Tue Jul 28, 5-6pm, DAC Pavilion, Exhibit Floor · [프로그램](https://confcats-siteplex.s3.amazonaws.com/dac/images/dac-2026_program_july-22.pdf) · [공식 페이지](https://63dac.conference-program.com/presentation/?id=ENGPOST463&sess=sess223) · [아카이브](#archive-ko)
+
+</div>
+
+---
+
+### Zero-glitch confidence: static, formal and simulation {#p20260729120436}
+
+**Meta / Synopsys**
+
+![Zero-glitch confidence: static, formal and simulation](assets/images/20260729_120436.jpg){ loading=lazy }
+
+[`cdc`](#tag-cdc) [`formal`](#tag-formal) [`verification`](#tag-verification)
+
+<div class="en" markdown>
+
+!!! info "Slide / Poster Summary"
+    Combined static CDC, formal CDC glitch checking and VCS simulation flow, applied to async FIFOs, mux structures, FSMs and memory DS/LS pins.
+
+</div>
+
+<div class="ko" markdown>
+
+!!! info "슬라이드 / 포스터 요약"
+    static CDC, formal CDC glitch 검사, VCS 시뮬레이션을 결합한 플로우입니다. 비동기 FIFO, mux 구조, FSM, 메모리 DS/LS 핀에 적용했습니다.
+
+</div>
+
+<div class="en" markdown>
+
+!!! tip "Front-End & Emulation Perspective"
+    A layered flow is realistic; since gate-level behavior matters for glitches, the interesting question is where emulation could fill the remaining gap.
+
+</div>
+
+<div class="ko" markdown>
+
+!!! tip "프론트엔드 · 에뮬레이션 관점"
+    계층형 플로우는 현실적입니다. glitch에는 게이트 레벨 동작이 중요하므로, 남는 공백을 에뮬레이션이 어디서 채울 수 있는지가 흥미로운 질문입니다.
+
+</div>
+
+<div class="en" markdown>
+
+!!! abstract "In the official DAC 2026 program"
+    *Zero-Glitch Confidence: An End-to-End Static, Formal & Simulation Methodology*  
+    Engineering Poster Session Three — Wed Jul 29, 3-4pm, DAC Pavilion, Exhibit Floor · [program](https://confcats-siteplex.s3.amazonaws.com/dac/images/dac-2026_program_july-22.pdf) · [official page](https://63dac.conference-program.com/presentation/?id=ENGPOST426&sess=sess296) · [archive](#official-dac-2026-archive)
+
+</div>
+
+<div class="ko" markdown>
+
+!!! abstract "공식 DAC 2026 프로그램"
+    *Zero-Glitch Confidence: An End-to-End Static, Formal & Simulation Methodology*  
+    Engineering Poster Session Three — Wed Jul 29, 3-4pm, DAC Pavilion, Exhibit Floor · [프로그램](https://confcats-siteplex.s3.amazonaws.com/dac/images/dac-2026_program_july-22.pdf) · [공식 페이지](https://63dac.conference-program.com/presentation/?id=ENGPOST426&sess=sess296) · [아카이브](#archive-ko)
+
+</div>
+
+---
+
+### RDC methodology: noise reduction and accuracy {#p20260728134255}
+
+**Google**
+
+![RDC methodology: noise reduction and accuracy](assets/images/20260728_134255.jpg){ loading=lazy }
+
+[`rdc`](#tag-rdc) [`verification`](#tag-verification)
+
+<div class="en" markdown>
+
+!!! info "Slide / Poster Summary"
+    Reset-domain-crossing methodology: soft-reset handling reduced reported items (707 to 403, 13 to 5, 567 to 67 in the cases shown).
+
+</div>
+
+<div class="ko" markdown>
+
+!!! info "슬라이드 / 포스터 요약"
+    Reset-domain-crossing 방법론입니다. soft-reset 처리로 보고 항목이 줄었습니다(소개된 사례에서 707→403, 13→5, 567→67).
+
+</div>
+
+<div class="en" markdown>
+
+!!! tip "Front-End & Emulation Perspective"
+    Large RDC noise reduction is a good sign for sign-off flows; the open point is how much is waived by methodology versus truly resolved.
+
+</div>
+
+<div class="ko" markdown>
+
+!!! tip "프론트엔드 · 에뮬레이션 관점"
+    RDC 노이즈가 크게 줄었다는 점은 사인오프 플로우에 좋은 신호입니다. 다만 방법론으로 waive된 것과 실제로 해결된 것의 비율이 열린 질문입니다.
+
+</div>
+
+<div class="en" markdown>
+
+!!! abstract "In the official DAC 2026 program"
+    *RDC Methodology: Noise Reduction and Improving Accuracy*  
+    Engineering Poster Session Two — Tue Jul 28, 5-6pm, DAC Pavilion, Exhibit Floor · [program](https://confcats-siteplex.s3.amazonaws.com/dac/images/dac-2026_program_july-22.pdf) · [official page](https://63dac.conference-program.com/presentation/?id=ENGPOST212&sess=sess295) · [archive](#official-dac-2026-archive)
+
+</div>
+
+<div class="ko" markdown>
+
+!!! abstract "공식 DAC 2026 프로그램"
+    *RDC Methodology: Noise Reduction and Improving Accuracy*  
+    Engineering Poster Session Two — Tue Jul 28, 5-6pm, DAC Pavilion, Exhibit Floor · [프로그램](https://confcats-siteplex.s3.amazonaws.com/dac/images/dac-2026_program_july-22.pdf) · [공식 페이지](https://63dac.conference-program.com/presentation/?id=ENGPOST212&sess=sess295) · [아카이브](#archive-ko)
+
+</div>
+
+---
+
 ## Emulation, virtualization and firmware-driven verification { .en }
 
 ## 에뮬레이션, 가상화, 펌웨어 기반 검증 { .ko }
@@ -210,60 +376,6 @@ Every talk, poster and paper has its own page, with abstract, in the searchable 
 !!! abstract "공식 DAC 2026 프로그램"
     *Shifting System-Level Verification Left with Firmware-Driven Execution*  
     System & Software Deployment — Mon Jul 27, 3:30-5pm, Seaside Ballroom B · [프로그램](https://confcats-siteplex.s3.amazonaws.com/dac/images/dac-2026_program_july-22.pdf) · [공식 페이지](https://63dac.conference-program.com/presentation/?id=ENGPRES119&sess=sess263) · [아카이브](#archive-ko)
-
-</div>
-
----
-
-### DFT verification with Veloce full-chip gate-level emulation {#p20260728134334}
-
-**Samsung / Siemens**
-
-![DFT verification with Veloce full-chip gate-level emulation](assets/images/20260728_134334.jpg){ loading=lazy }
-
-[`emulation`](#tag-emulation) [`dft`](#tag-dft) [`debug`](#tag-debug)
-
-<div class="en" markdown>
-
-!!! info "Slide / Poster Summary"
-    Veloce-based full-chip gate-level emulation for DFT verification: roughly x513 faster shift and x322 faster capture than simulation, with a Debug STIL flow for debuggability.
-
-</div>
-
-<div class="ko" markdown>
-
-!!! info "슬라이드 / 포스터 요약"
-    Veloce 기반 풀칩 게이트 레벨 에뮬레이션으로 DFT를 검증합니다. 시뮬레이션 대비 shift는 약 513배, capture는 약 322배 빠르고, 디버깅을 위한 Debug STIL 플로우가 있습니다.
-
-</div>
-
-<div class="en" markdown>
-
-!!! tip "Front-End & Emulation Perspective"
-    Highly relevant. Gate-level emulation speedups are easy to quote; the real cost is netlist compile time and debug visibility, which this poster addresses with Debug STIL.
-
-</div>
-
-<div class="ko" markdown>
-
-!!! tip "프론트엔드 · 에뮬레이션 관점"
-    매우 관련이 큽니다. 게이트 레벨 에뮬레이션의 속도 향상은 수치로 말하기 쉽지만 실제 비용은 넷리스트 컴파일 시간과 디버그 가시성이며, 이 포스터는 Debug STIL로 이를 다룹니다.
-
-</div>
-
-<div class="en" markdown>
-
-!!! abstract "In the official DAC 2026 program"
-    *Accelerating DFT Verification and Enhancing Debuggability Using Veloce-Based Full Chip Gate-Level Emulation*  
-    Engineering Poster Session Two — Tue Jul 28, 5-6pm, DAC Pavilion, Exhibit Floor · [program](https://confcats-siteplex.s3.amazonaws.com/dac/images/dac-2026_program_july-22.pdf) · [official page](https://63dac.conference-program.com/presentation/?id=ENGPOST315&sess=sess295) · [archive](#official-dac-2026-archive)
-
-</div>
-
-<div class="ko" markdown>
-
-!!! abstract "공식 DAC 2026 프로그램"
-    *Accelerating DFT Verification and Enhancing Debuggability Using Veloce-Based Full Chip Gate-Level Emulation*  
-    Engineering Poster Session Two — Tue Jul 28, 5-6pm, DAC Pavilion, Exhibit Floor · [프로그램](https://confcats-siteplex.s3.amazonaws.com/dac/images/dac-2026_program_july-22.pdf) · [공식 페이지](https://63dac.conference-program.com/presentation/?id=ENGPOST315&sess=sess295) · [아카이브](#archive-ko)
 
 </div>
 
@@ -585,172 +697,6 @@ Every talk, poster and paper has its own page, with abstract, in the searchable 
 
 ---
 
-## Verification methodology (CDC, RDC, formal, network) { .en }
-
-## 검증 방법론(CDC, RDC, formal, 네트워크) { .ko }
-
-### Zero-glitch confidence: static, formal and simulation {#p20260729120436}
-
-**Meta / Synopsys**
-
-![Zero-glitch confidence: static, formal and simulation](assets/images/20260729_120436.jpg){ loading=lazy }
-
-[`cdc`](#tag-cdc) [`formal`](#tag-formal) [`verification`](#tag-verification)
-
-<div class="en" markdown>
-
-!!! info "Slide / Poster Summary"
-    Combined static CDC, formal CDC glitch checking and VCS simulation flow, applied to async FIFOs, mux structures, FSMs and memory DS/LS pins.
-
-</div>
-
-<div class="ko" markdown>
-
-!!! info "슬라이드 / 포스터 요약"
-    static CDC, formal CDC glitch 검사, VCS 시뮬레이션을 결합한 플로우입니다. 비동기 FIFO, mux 구조, FSM, 메모리 DS/LS 핀에 적용했습니다.
-
-</div>
-
-<div class="en" markdown>
-
-!!! tip "Front-End & Emulation Perspective"
-    A layered flow is realistic; since gate-level behavior matters for glitches, the interesting question is where emulation could fill the remaining gap.
-
-</div>
-
-<div class="ko" markdown>
-
-!!! tip "프론트엔드 · 에뮬레이션 관점"
-    계층형 플로우는 현실적입니다. glitch에는 게이트 레벨 동작이 중요하므로, 남는 공백을 에뮬레이션이 어디서 채울 수 있는지가 흥미로운 질문입니다.
-
-</div>
-
-<div class="en" markdown>
-
-!!! abstract "In the official DAC 2026 program"
-    *Zero-Glitch Confidence: An End-to-End Static, Formal & Simulation Methodology*  
-    Engineering Poster Session Three — Wed Jul 29, 3-4pm, DAC Pavilion, Exhibit Floor · [program](https://confcats-siteplex.s3.amazonaws.com/dac/images/dac-2026_program_july-22.pdf) · [official page](https://63dac.conference-program.com/presentation/?id=ENGPOST426&sess=sess296) · [archive](#official-dac-2026-archive)
-
-</div>
-
-<div class="ko" markdown>
-
-!!! abstract "공식 DAC 2026 프로그램"
-    *Zero-Glitch Confidence: An End-to-End Static, Formal & Simulation Methodology*  
-    Engineering Poster Session Three — Wed Jul 29, 3-4pm, DAC Pavilion, Exhibit Floor · [프로그램](https://confcats-siteplex.s3.amazonaws.com/dac/images/dac-2026_program_july-22.pdf) · [공식 페이지](https://63dac.conference-program.com/presentation/?id=ENGPOST426&sess=sess296) · [아카이브](#archive-ko)
-
-</div>
-
----
-
-### RDC methodology: noise reduction and accuracy {#p20260728134255}
-
-**Google**
-
-![RDC methodology: noise reduction and accuracy](assets/images/20260728_134255.jpg){ loading=lazy }
-
-[`rdc`](#tag-rdc) [`verification`](#tag-verification)
-
-<div class="en" markdown>
-
-!!! info "Slide / Poster Summary"
-    Reset-domain-crossing methodology: soft-reset handling reduced reported items (707 to 403, 13 to 5, 567 to 67 in the cases shown).
-
-</div>
-
-<div class="ko" markdown>
-
-!!! info "슬라이드 / 포스터 요약"
-    Reset-domain-crossing 방법론입니다. soft-reset 처리로 보고 항목이 줄었습니다(소개된 사례에서 707→403, 13→5, 567→67).
-
-</div>
-
-<div class="en" markdown>
-
-!!! tip "Front-End & Emulation Perspective"
-    Large RDC noise reduction is a good sign for sign-off flows; the open point is how much is waived by methodology versus truly resolved.
-
-</div>
-
-<div class="ko" markdown>
-
-!!! tip "프론트엔드 · 에뮬레이션 관점"
-    RDC 노이즈가 크게 줄었다는 점은 사인오프 플로우에 좋은 신호입니다. 다만 방법론으로 waive된 것과 실제로 해결된 것의 비율이 열린 질문입니다.
-
-</div>
-
-<div class="en" markdown>
-
-!!! abstract "In the official DAC 2026 program"
-    *RDC Methodology: Noise Reduction and Improving Accuracy*  
-    Engineering Poster Session Two — Tue Jul 28, 5-6pm, DAC Pavilion, Exhibit Floor · [program](https://confcats-siteplex.s3.amazonaws.com/dac/images/dac-2026_program_july-22.pdf) · [official page](https://63dac.conference-program.com/presentation/?id=ENGPOST212&sess=sess295) · [archive](#official-dac-2026-archive)
-
-</div>
-
-<div class="ko" markdown>
-
-!!! abstract "공식 DAC 2026 프로그램"
-    *RDC Methodology: Noise Reduction and Improving Accuracy*  
-    Engineering Poster Session Two — Tue Jul 28, 5-6pm, DAC Pavilion, Exhibit Floor · [프로그램](https://confcats-siteplex.s3.amazonaws.com/dac/images/dac-2026_program_july-22.pdf) · [공식 페이지](https://63dac.conference-program.com/presentation/?id=ENGPOST212&sess=sess295) · [아카이브](#archive-ko)
-
-</div>
-
----
-
-### Flexible and scalable network modeling for AI/HPC network verification {#p20260728172318}
-
-**MangoBoost**
-
-![Flexible and scalable network modeling for AI/HPC network verification](assets/images/20260728_172318.jpg){ loading=lazy }
-
-[`uvm`](#tag-uvm) [`network`](#tag-network) [`verification`](#tag-verification)
-
-<div class="en" markdown>
-
-!!! info "Slide / Poster Summary"
-    UVM-based network model with a white-box library and telemetry-driven steering for verifying AI/HPC network designs.
-
-</div>
-
-<div class="ko" markdown>
-
-!!! info "슬라이드 / 포스터 요약"
-    AI/HPC 네트워크 설계 검증을 위한 UVM 기반 네트워크 모델입니다. white-box 라이브러리와 telemetry 기반 steering을 씁니다.
-
-</div>
-
-<div class="en" markdown>
-
-!!! tip "Front-End & Emulation Perspective"
-    Network-scale verification of this kind is hard to fit in an emulator; the question is which parts run on emulation and which stay as models.
-
-</div>
-
-<div class="ko" markdown>
-
-!!! tip "프론트엔드 · 에뮬레이션 관점"
-    이런 네트워크 규모의 검증은 에뮬레이터에 올리기 어렵습니다. 어느 부분을 에뮬레이션에서 돌리고 어느 부분을 모델로 둘지가 질문입니다.
-
-</div>
-
-<div class="en" markdown>
-
-!!! abstract "In the official DAC 2026 program"
-    *Flexible & Scalable Network Modeling for AI/HPC Network Verification*  
-    Engineering Poster Session Two (also Gladiator Arena - Poster Battle One — Tue Jul 28, 5-6pm, DAC Pavilion, Exhibit Floor · [program](https://confcats-siteplex.s3.amazonaws.com/dac/images/dac-2026_program_july-22.pdf) · [official page](https://63dac.conference-program.com/presentation/?id=ENGPOST463&sess=sess223) · [archive](#official-dac-2026-archive)
-
-</div>
-
-<div class="ko" markdown>
-
-!!! abstract "공식 DAC 2026 프로그램"
-    *Flexible & Scalable Network Modeling for AI/HPC Network Verification*  
-    Engineering Poster Session Two (also Gladiator Arena - Poster Battle One — Tue Jul 28, 5-6pm, DAC Pavilion, Exhibit Floor · [프로그램](https://confcats-siteplex.s3.amazonaws.com/dac/images/dac-2026_program_july-22.pdf) · [공식 페이지](https://63dac.conference-program.com/presentation/?id=ENGPOST463&sess=sess223) · [아카이브](#archive-ko)
-
-</div>
-
----
-
 ## AI and agentic flows for EDA { .en }
 
 ## EDA를 위한 AI와 에이전틱 플로우 { .ko }
@@ -1022,14 +968,12 @@ Titles, times and rooms only, from the [official program](https://confcats-sitep
     - [Shifting System-Level Verification Left with Firmware-Driven Execution](https://63dac.conference-program.com/presentation/?id=ENGPRES119&sess=sess263) — [my photo](#p20260727155157)
     - [Enabling Automated Software Testing in Emulation Environments via Fastboot Virtualization and On-Premises LLM-Based Failure Analysis](https://63dac.conference-program.com/presentation/?id=ENGPRES061&sess=sess263) — [my photo](#p20260727162722)
 
-### DFT automation (SystemRDL-to-RTL, DATP) and gate-level DFT emulation { .en }
+### DFT automation (SystemRDL-to-RTL, DATP) { .en }
 
-### DFT 자동화(SystemRDL-to-RTL, DATP)와 게이트 레벨 DFT 에뮬레이션 { .ko }
+### DFT 자동화(SystemRDL-to-RTL, DATP) { .ko }
 
 - **Engineering session (DFT)** — Tue Jul 28, 10:30am-12pm, Seaside RM 7
     - [Automating DFT Intelligence: Addressing TCPF HotSpots at Source through Design Aware Test Points in SystemRDL-to-RTL Generators](https://63dac.conference-program.com/presentation/?id=ENGPRES064&sess=sess277) — [my photo](#p20260728134119)
-- **Engineering Poster Session Two** — Tue Jul 28, 5-6pm, DAC Pavilion, Exhibit Floor
-    - [Accelerating DFT Verification and Enhancing Debuggability Using Veloce-Based Full Chip Gate-Level Emulation](https://63dac.conference-program.com/presentation/?id=ENGPOST315&sess=sess295) — [my photo](#p20260728134334)
 
 ### AI/HPC multi-path network verification { .en }
 
@@ -1123,17 +1067,13 @@ Titles, times and rooms only, from the [official program](https://confcats-sitep
 
 [Evidence: Imsys IM3000 microcode CPU](#p20260727154434)
 
-### debug {#tag-debug}
-
-[DFT verification with Veloce full-chip gate-level emulation](#p20260728134334)
-
 ### dft {#tag-dft}
 
-[AI-Assisted EDA Tools Development](#p20260728110354), [Design-aware test points in SystemRDL-to-RTL generators](#p20260728134119), [DFT verification with Veloce full-chip gate-level emulation](#p20260728134334)
+[AI-Assisted EDA Tools Development](#p20260728110354), [Design-aware test points in SystemRDL-to-RTL generators](#p20260728134119)
 
 ### emulation {#tag-emulation}
 
-[Firmware-driven random verification on emulation](#p20260727155157), [Fastboot virtualization and on-prem LLM failure analysis (Main Idea slide)](#p20260727162722), [Hybrid Virtual ICE — Pre-Silicon Real Workloads Validation](#p20260727165840), [DFT verification with Veloce full-chip gate-level emulation](#p20260728134334)
+[Firmware-driven random verification on emulation](#p20260727155157), [Fastboot virtualization and on-prem LLM failure analysis (Main Idea slide)](#p20260727162722), [Hybrid Virtual ICE — Pre-Silicon Real Workloads Validation](#p20260727165840)
 
 ### firmware {#tag-firmware}
 

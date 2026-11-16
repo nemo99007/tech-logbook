@@ -11,12 +11,10 @@ topics:
       - {session: System & Software Deployment, when: "Mon Jul 27, 3:30-5pm", where: Seaside Ballroom B,
          talks: ["Shifting System-Level Verification Left with Firmware-Driven Execution",
                  "Enabling Automated Software Testing in Emulation Environments via Fastboot Virtualization and On-Premises LLM-Based Failure Analysis"]}
-  - interest: DFT automation (SystemRDL-to-RTL, DATP) and gate-level DFT emulation
+  - interest: DFT automation (SystemRDL-to-RTL, DATP)
     sessions:
       - {session: Engineering session (DFT), when: "Tue Jul 28, 10:30am-12pm", where: Seaside RM 7,
          talks: ["Automating DFT Intelligence: Addressing TCPF HotSpots at Source through Design Aware Test Points in SystemRDL-to-RTL Generators"]}
-      - {session: Engineering Poster Session Two, when: "Tue Jul 28, 5-6pm", where: "DAC Pavilion, Exhibit Floor",
-         talks: ["Accelerating DFT Verification and Enhancing Debuggability Using Veloce-Based Full Chip Gate-Level Emulation"]}
   - interest: AI/HPC multi-path network verification
     sessions:
       - {session: "Gladiator Arena - Poster Battle One", when: "Mon Jul 27, 5-6pm", where: "DAC Pavilion, Exhibit Floor",
@@ -79,7 +77,6 @@ by_photo:
   "20260728_110354": {title: "AI-Assisted EDA Tools Development", session: "From Concept to Confidence: The AI Evolution in Design & Verification", when: "Tue Jul 28, 10:30am-12pm", where: Seaside Ballroom A}
   "20260728_134119": {title: "Automating DFT Intelligence: Addressing TCPF HotSpots at Source through Design Aware Test Points in SystemRDL-to-RTL Generators", session: Engineering session (DFT), when: "Tue Jul 28, 10:30am-12pm", where: Seaside RM 7}
   "20260728_134255": {title: "RDC Methodology: Noise Reduction and Improving Accuracy", session: Engineering Poster Session Two, when: "Tue Jul 28, 5-6pm", where: "DAC Pavilion, Exhibit Floor"}
-  "20260728_134334": {title: "Accelerating DFT Verification and Enhancing Debuggability Using Veloce-Based Full Chip Gate-Level Emulation", session: Engineering Poster Session Two, when: "Tue Jul 28, 5-6pm", where: "DAC Pavilion, Exhibit Floor"}
   "20260728_170302": {title: "A Novel Methodology for Automated LVS Rule Deck Verification: Truth Table and Device Extraction", session: Engineering Poster Session Two, when: "Tue Jul 28, 5-6pm", where: "DAC Pavilion, Exhibit Floor"}
   "20260728_172318": {title: "Flexible & Scalable Network Modeling for AI/HPC Network Verification", session: Engineering Poster Session Two (also Gladiator Arena - Poster Battle One, Mon Jul 27), when: "Tue Jul 28, 5-6pm", where: "DAC Pavilion, Exhibit Floor"}
   "20260729_120300": {title: "SLC-Based Real-Time Traffic Buffering with DRAM Row-Aware Write Back", session: Engineering Poster Session Three, when: "Wed Jul 29, 3-4pm", where: "DAC Pavilion, Exhibit Floor"}

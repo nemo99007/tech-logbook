@@ -145,23 +145,6 @@
   - verification
   summary_ko: Reset-domain-crossing 방법론입니다. soft-reset 처리로 보고 항목이 줄었습니다(소개된 사례에서 707→403, 13→5, 567→67).
   perspective_ko: RDC 노이즈가 크게 줄었다는 점은 사인오프 플로우에 좋은 신호입니다. 다만 방법론으로 waive된 것과 실제로 해결된 것의 비율이 열린 질문입니다.
-20260728_134334.jpg:
-  is_technical: true
-  title: DFT verification with Veloce full-chip gate-level emulation
-  presenter_or_company: Samsung / Siemens
-  is_my_poster: false
-  summary: 'Veloce-based full-chip gate-level emulation for DFT verification: roughly x513 faster shift
-    and x322 faster capture than simulation, with a Debug STIL flow for debuggability.'
-  perspective: Highly relevant. Gate-level emulation speedups are easy to quote; the real cost is netlist
-    compile time and debug visibility, which this poster addresses with Debug STIL.
-  tags:
-  - emulation
-  - dft
-  - debug
-  summary_ko: Veloce 기반 풀칩 게이트 레벨 에뮬레이션으로 DFT를 검증합니다. 시뮬레이션 대비 shift는 약 513배, capture는 약 322배 빠르고, 디버깅을
-    위한 Debug STIL 플로우가 있습니다.
-  perspective_ko: 매우 관련이 큽니다. 게이트 레벨 에뮬레이션의 속도 향상은 수치로 말하기 쉽지만 실제 비용은 넷리스트 컴파일 시간과 디버그 가시성이며, 이 포스터는 Debug
-    STIL로 이를 다룹니다.
 20260728_170302.jpg:
   is_technical: true
   title: Automated LVS rule deck qualification
